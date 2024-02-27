@@ -1,0 +1,50 @@
+a:hover,
+.navbar-default .navbar-nav>li>a:hover,
+ul.nav.navbar-nav li a:hover,
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover, .nav .open > a:focus, .nav .open > a:hover, .dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover, ul.nav.navbar-nav li a:hover,
+.about-detail h2,
+.theme-heading h1,
+.service-box:hover h3 ,
+#testimonial-slider .title,
+.fact-icon,
+.blog:hover h5 a,
+.top-footer .social-icon a:hover,
+.bottom-footer a,
+.mixitup-btn a.filter.active,
+.comming-soon-content h1{
+	color:#ff9800;
+}
+.social-box,
+.theme-heading h1:before,
+#skills .progress-bar,
+.intresting-box,
+.service-box h3:before,
+.service-box:hover .service-icon,
+a.link:hover,
+a.link.active,
+.pricing .caption,
+.itg-button.active,
+.itg-button:hover,
+.pricing:hover .itg-button,
+.owl-theme .owl-nav [class*='owl-']:hover,
+.top-footer .social-icon a ,
+.hexagon,
+.story-detail h4,
+.story:before,
+#skills .progress-bar,
+.tooltip > .tooltip-inner,
+.cssload-loading i{
+	background-color:#ff9800;
+}
+#testimonial-slider.owl-theme .owl-dots .owl-dot.active span,
+#testimonial-slider.owl-theme .owl-dots .owl-dot:hover span{
+	border-color:#ff9800;	
+}
+.hexagon:before {
+	border-bottom-color:#ff9800;
+}
+.hexagon:after ,
+.story-detail .story-heading h4:before,
+.tooltip.top .tooltip-arrow{
+	border-top-color:#ff9800;
+}

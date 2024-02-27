@@ -1,0 +1,30 @@
+<IfModule mod_rewrite.c>
+        RewriteEngine on
+        RewriteRule ^$ /index.html [L]
+        #RewriteBase /
+
+        # RewriteCond %{HTTPS} off
+        # RewriteCond %{HTTP_HOST} !^www\. [NC]
+        # RewriteCond %{REQUEST_URI} !^/test.php [NC]
+        # RewriteRule (.*) https://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+
+
+        #RewriteCond %{HTTP:CF-Visitor} '"scheme":"http"'
+        #RewriteCond %{REQUEST_URI} !^/test.php [NC]
+        #RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+
+        #RewriteCond %{HTTP_REFERER} onehartcoin.site [NC,OR]
+        #RewriteCond %{HTTP_REFERER} koreacoin.shop [NC]
+        #RewriteRule .* - [F]
+
+        RewriteBase /
+        RewriteCond %{REQUEST_FILENAME} -f [OR]
+        RewriteCond %{REQUEST_FILENAME} -d
+        RewriteRule ^ - [L]
+
+        RewriteRule    ^$    webroot/    [L]
+        RewriteRule    (.*) webroot/$1    [L]
+</IfModule>
+

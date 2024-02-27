@@ -1,0 +1,4928 @@
+msgid "Login"
+msgstr "로그인"
+
+msgid "Logout"
+msgstr "로그아웃"
+
+msgid "Find ID"
+msgstr "아이디 찾기"
+
+msgid "Find realname"
+msgstr "실명인증 회원만 아이디 찾기가 가능합니다. "
+
+msgid "This is the ID search result."
+msgstr "아이디찾기 결과입니다."
+
+msgid "User does not exist"
+msgstr "사용자가 존재하지 않습니다"
+
+msgid "Error"
+msgstr "오류"
+
+msgid "Success"
+msgstr "성공"
+
+
+msgid "Enter OTP Confirm"
+msgstr "OTP 번호를 입력하신 후 확인버튼을<br />클릭하시면 로그인이 완료됩니다."
+
+msgid "Enter old password"
+msgstr "이전 비밀번호를 입력하세요."
+
+msgid "Find Password"
+msgstr "비밀번호 찾기"
+
+msgid "Password Settings"
+msgstr "비밀번호 설정"
+
+msgid "Please set a new password"
+msgstr "새로운 비밀번호를 설정해주세요"
+
+msgid "Enter a new password"
+msgstr "새로운 비밀번호 입력"
+
+msgid "Password authentication"
+msgstr "비밀번호 인증"
+
+msgid "Find pass real"
+msgstr "실명인증 회원만 비밀번호찾기가 가능합니다."
+
+msgid "Enter email"
+msgstr "이메일 입력"
+
+msgid "Send auth mail"
+msgstr "인증메일 발송"
+
+msgid "Enter authentication number"
+msgstr "인증번호를 입력해주세요"
+
+msgid "Enter auth code"
+msgstr "인증코드를입력하세요"
+
+msgid "Enter authentication code"
+msgstr "인증코드를입력하세요"
+
+msgid "Sign Up"
+msgstr "회원가입"
+
+msgid "SignUp Phone"
+msgstr "휴대폰 번호로 회원가입"
+
+msgid "Member registration complete"
+msgstr "회원가입 완료"
+
+msgid "User ID"
+msgstr "회원아이디"
+
+msgid "Password"
+msgstr "비밀번호"
+
+msgid "Password confirm"
+msgstr "비밀번호 확인"
+
+msgid "Sign In"
+msgstr "로그인"
+
+msgid "Close Account"
+msgstr "계정잠금"
+
+msgid "About Us"
+msgstr "회사소개"
+
+msgid "Related service"
+msgstr "연관서비스"
+
+msgid "Related shop"
+msgstr "연동쇼핑몰"
+
+msgid "Identity verification"
+msgstr "본인인증 하기"
+
+msgid "OFF"
+msgstr "오프"
+
+msgid "ON"
+msgstr "켜기"
+
+msgid "Main Account"
+msgstr "메인 계정"
+
+msgid "Transfer"
+msgstr "전환"
+
+msgid "Trading Account"
+msgstr "트레이딩 계정"
+
+msgid "Reserved"
+msgstr "예약됨"
+
+msgid "Verification"
+msgstr "본인인증 하기 "
+
+msgid "Self-certification completed"
+msgstr "본인인증 완료"
+
+msgid "Welcome"
+msgstr "환영합니다"
+
+msgid "Auth first"
+msgstr "본인인증을 먼저 해주세요"
+
+msgid "Auth complete"
+msgstr "인증을 마친 휴대폰번호가 아이디입니다."
+
+msgid "Please enter your H.P number"
+msgstr "휴대폰 번호를 입력해주세요"
+
+msgid "Please enter user H.P number"
+msgstr "휴대폰 번호를 입력해주세요"
+
+msgid "Cell phone"
+msgstr "휴대폰번호 (-없이 입력)"
+
+msgid "Please enter a password"
+msgstr "비밀번호를 입력해주세요"
+
+msgid "Password again"
+msgstr "비밀번호를 한번 더 입력해주세요"
+
+msgid "Password rule"
+msgstr "비밀번호는 숫자6자리를 설정하세요"
+
+msgid "Keep me Signed in"
+msgstr "로그인 유지"
+
+msgid "Already Member?"
+msgstr "이미 가입한 아이디가 있나요?"
+
+msgid "Forgot ID"
+msgstr "아이디찾기"
+
+msgid "Forgot Password?"
+msgstr "비밀번호찾기"
+
+msgid "Confirm"
+msgstr "확인"
+
+msgid "All agree"
+msgstr "전체 동의"
+
+msgid "Necessary2"
+msgstr "<span style='color: #f70000'>(필수)</span>"
+
+msgid "Optional2"
+msgstr "<span style='color: #b4b4b4'>(선택)</span>"
+
+
+msgid "Agree terms"
+msgstr "<span style='color: #1c5cff'>이용약관</span>을 확인하고 동의합니다."
+
+msgid "Send auth code"
+msgstr "인증코드 보내기"
+
+msgid "Send code"
+msgstr "인증코드 보내기"
+
+msgid "datatable_language"
+msgstr "Korean"
+
+msgid "Auth code"
+msgstr "인증 코드"
+
+msgid "Confirm privacy"
+msgstr "<span style='color: #1c5cff'>개인정보처리방침</span>을 확인하고 동의합니다."
+
+msgid "Confirm collection"
+msgstr "개인정보 수집 및 이용동의"
+
+
+msgid "Not format"
+msgstr "형식에 맞지 않은 조합입니다."
+
+msgid "Pass different"
+msgstr "<span style='color: #f40935'>비밀번호가 다릅니다.</span>"
+
+msgid "Congratulations on registering!"
+msgstr "회원가입을 축하드립니다!"
+
+msgid "After logging"
+msgstr "로그인 후, 마이페이지에서 <br /><span style='color: #6738ff'>다음 단계의 인증을 마치고 더 다양한 서비스를 만나보세요.</span>"
+
+msgid "Go to login page"
+msgstr "로그인 페이지로 이동"
+
+
+msgid "Level one phase"
+msgstr "1레벨 단계"
+
+msgid "Two-level phase"
+msgstr "2레벨 단계"
+
+msgid "Level three phase"
+msgstr "3레벨 단계"
+
+msgid "Level four phase"
+msgstr "4레벨 단계"
+
+
+
+
+msgid "Exchange"
+msgstr "거래소"
+
+msgid "Easy purchase"
+msgstr "간편구매"
+
+msgid "Deposit Loan"
+msgstr "스테이킹/대여"
+
+msgid "Asset Withdrawal"
+msgstr "자산 입출금"
+
+msgid "Asset Inquiry"
+msgstr "자산조회"
+
+msgid "Customer Center"
+msgstr "고객지원"
+
+msgid "Customer Service"
+msgstr "고객센터"
+
+
+msgid "Company_address"
+msgstr "서울특별시 금천구 가산디지털1로 168 우림라이온스밸리 1506호"
+
+msgid "Company_name"
+msgstr "(주)한스바이오텍"
+
+msgid "Registration Number"
+msgstr "사업자등록번호"
+
+msgid "CO-CEO Rai KIM"
+msgstr "대표 김라이"
+
+msgid "Phone"
+msgstr "대표전화"
+
+msgid "Company Information"
+msgstr "회사소개"
+
+msgid "Fees"
+msgstr "수수료"
+
+msgid "Fees and Charges"
+msgstr "수수료 및 요금"
+
+msgid "Information on submitting certification data"
+msgstr "본인인증안내"
+
+msgid "Terms of Use"
+msgstr "약관안내"
+
+msgid "Personal Information Processing Policy"
+msgstr "개인정보처리방침"
+
+msgid "Fee Information"
+msgstr "수수료 안내"
+
+msgid "Submit"
+msgstr "제출"
+
+msgid "Notice"
+msgstr "공지사항"
+
+msgid "Notice2"
+msgstr "유의사항"
+
+msgid "FAQ"
+msgstr "자주 묻는 질문(FAQ)"
+
+msgid "Guide to deposit/withdrawal limits by member level"
+msgstr "회원레벨별 입/출금 한도 안내"
+
+msgid "Membership Registration"
+msgstr "회원가입안내"
+
+msgid "Authentication Method Guide"
+msgstr "인증 방법 안내"
+
+msgid "1:1 Inquiries"
+msgstr "1:1 문의"
+
+msgid "Annual Member"
+msgstr "연간회원"
+
+msgid "General Member"
+msgstr "일반회원"
+
+msgid "Mypage"
+msgstr "마이페이지"
+
+msgid "No."
+msgstr "번호"
+
+msgid "Title"
+msgstr "제목"
+
+msgid "Date Created"
+msgstr "작성일시"
+
+msgid "Search in bulletin board"
+msgstr "게시판 내 검색"
+
+msgid "Commission Coupon"
+msgstr "수수료 쿠폰"
+
+msgid "Coupon Usage Status"
+msgstr "쿠폰 현황"
+
+msgid "Create Notice"
+msgstr "알림 생성"
+
+msgid "Coin"
+msgstr "코인"
+
+msgid "Sell"
+msgstr "매도"
+
+msgid "Sale"
+msgstr "판매"
+
+msgid "Buy"
+msgstr "매수"
+
+msgid "Purchase"
+msgstr "구매"
+
+msgid "Price"
+msgstr "가격"
+
+msgid "Amount"
+msgstr "금액"
+
+msgid "Amount(WON)"
+msgstr "금액(원)"
+
+msgid "WON"
+msgstr "원"
+
+msgid "KRW amount"
+msgstr "거래금액"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Time"
+msgstr "시간"
+
+msgid "DateTime"
+msgstr "날짜/시간"
+
+msgid "State"
+msgstr "상태"
+
+msgid "Statement"
+msgstr "명세서"
+
+msgid "Order date"
+msgstr "주문일시"
+
+msgid "Assets name"
+msgstr "종목명"
+
+msgid "High price"
+msgstr "최고가"
+
+msgid "Low price"
+msgstr "최저가"
+
+msgid "Limits"
+msgstr "지정가"
+
+msgid "Market price"
+msgstr "시장가"
+
+msgid "Price per TP3"
+msgstr "TP3당 가격"
+
+msgid "Prev. Close"
+msgstr "전일대비"
+
+msgid "Order available"
+msgstr "주문가능"
+
+msgid "Order balance"
+msgstr "주문잔량"
+
+msgid "Q'ty"
+msgstr "수량"
+
+msgid "Trx Qty"
+msgstr "매매수량"
+
+msgid "Total Qty"
+msgstr "전체수량"
+
+msgid "Total "
+msgstr "합계 "
+
+msgid "Order amount"
+msgstr "주문금액"
+
+msgid "Market breakdown"
+msgstr "마켓 내역"
+
+msgid "Purchase order"
+msgstr "구매 주문"
+
+msgid "Sales order"
+msgstr "판매 주문"
+
+msgid "View my own coins"
+msgstr "보유코인만보기"
+
+msgid "There is no transaction history."
+msgstr "거래 내역이 없습니다."
+
+msgid "Month2"
+msgstr " 개월"
+
+msgid " months"
+msgstr " 개월"
+
+msgid "Service usage period"
+msgstr "서비스 이용기간"
+
+msgid "Lending rate"
+msgstr "렌딩비율"
+
+msgid "Application quantity"
+msgstr "신청 수량"
+
+msgid "Deposit2"
+msgstr "보증금"
+
+msgid "No deposit found"
+msgstr "보증금을 찾을 수 없습니다."
+
+msgid "Full text view"
+msgstr "전문보기"
+
+msgid "Bitcoin"
+msgstr "비트코인"
+
+msgid "My TP3"
+msgstr "나의 TP3"
+
+msgid "Download usage consent form"
+msgstr "사용 동의서 다운로드"
+
+msgid "My Wallet"
+msgstr "내 지갑"
+
+msgid "Investment Deposit Text1"
+msgstr "보증금은 최소 167,425원부터 선택할 수 있습니다."
+
+msgid "Investment Deposit Text2"
+msgstr "렌딩신청수량은 최소 0.01 TP3 ~ 최대 0.0100 TP3 에서 선택할 수 있습니다."
+
+msgid "Investment Deposit Agree Subject 1"
+msgstr "서비스 약관동의"
+
+msgid "Investment Deposit Agree Subject 2"
+msgstr "서비스 수집 이용 동의"
+
+msgid "Investment Deposit Agree Subject 3"
+msgstr "개인정보처리위탁 동의"
+
+msgid "Investment Agreement 1"
+msgstr "이용 약관과 신청 내역을 확인하였으며,서비스 이용에 동의합니다."
+
+msgid "Investment Agreement 2"
+msgstr "서비스 이용을 위한 개인정보 수집 및 이용에 동의합니다."
+
+msgid "Investment Agreement 3"
+msgstr "서비스 이용을 위한 개인정보처리위탁에 동의합니다."
+
+msgid "days"
+msgstr "일"
+
+msgid "day"
+msgstr "일"
+
+msgid "Day"
+msgstr "일"
+
+msgid "month"
+msgstr "월"
+
+msgid "Month"
+msgstr "월"
+
+msgid "1 time"
+msgstr "1 회"
+
+msgid "1time"
+msgstr "1회"
+
+msgid "hundred"
+msgstr "백"
+
+msgid "thousand"
+msgstr "천"
+
+msgid "billion"
+msgstr "억"
+
+msgid "million"
+msgstr "백만"
+
+msgid "1 million won"
+msgstr "1백만원"
+
+msgid "10 million won"
+msgstr "1천만원"
+
+msgid "30 million won"
+msgstr "3천만원"
+
+msgid "Level"
+msgstr "레벨"
+
+msgid "Level 1"
+msgstr "1 레벨"
+
+msgid "Level 2"
+msgstr "2 레벨"
+
+msgid "Level 3"
+msgstr "3 레벨"
+
+msgid "Level 4"
+msgstr "4 레벨"
+
+msgid "Have level 1"
+msgstr "고객님은 <span class='bold'>레벨 1</span>까지 인증 완료 했습니다."
+
+msgid "Have level 2"
+msgstr "고객님은 <span class='bold'>레벨 2</span>까지 인증 완료 했습니다."
+
+msgid "Have level 3"
+msgstr "고객님은 <span class='bold'>레벨 3</span>까지 인증 완료 했습니다."
+
+msgid "Have level 4"
+msgstr "고객님은 <span class='bold'>레벨 4</span>까지 인증 완료 했습니다."
+
+msgid "Unlimited"
+msgstr "무제한"
+
+msgid "Guide help"
+msgstr "회원님의 소중한 자산을 보호하기 위해 아래와 같이 입출금 한도를 적용하고 있습니다."
+
+msgid "Deposit In Out"
+msgstr "원화(KRW)기준 입/출금 레벨 및 금액"
+
+msgid "Korean WON(KRW) deposit and withdrawal levels"
+msgstr "원화 입출금 레벨"
+
+msgid "Deposit in Korean Won"
+msgstr "원화 입금"
+
+msgid "KRW Withdrawal"
+msgstr "원화 출금"
+
+msgid "Password should consist of 6 numbers"
+msgstr "암호는 6개의 숫자로 구성되어야 합니다."
+
+msgid "Digital In Out"
+msgstr "디지털 자산 기준입/출금 레벨 및 금액"
+
+msgid "Digital asset deposit and withdrawal levels"
+msgstr "디지털 자산 입출금 레벨"
+
+msgid "Depositing digital assets"
+msgstr "디지털 자산 입금"
+
+msgid "Digital asset withdrawal"
+msgstr "디지털 자산 출금"
+
+msgid "Email verified member"
+msgstr "이메일 인증한 회원"
+
+msgid "Mobile phone and account verified member"
+msgstr "휴대폰 및 계좌인증한 회원"
+
+msgid "Member who submitted documents and certification"
+msgstr "서류 및 인증자료 제출한 회원"
+
+msgid "Members who have passed self-assessment"
+msgstr "자체심사를 통과한 회원"
+
+msgid "Email verification"
+msgstr "이메일 인증하면"
+
+msgid "OTP authentication"
+msgstr "OTP 인증하면"
+
+
+msgid "Reset cell phone number"
+msgstr "휴대폰번호 초기화"
+
+msgid "Reset account number"
+msgstr "계좌번호 초기화"
+
+msgid "Coin Withdrawal Confirmation"
+msgstr "코인출금 확약서"
+
+msgid "KYC Verification"
+msgstr "KYC 인증 방법"
+
+msgid "Guidelines for submitting withdrawal data"
+msgstr "탈퇴자료 제출안내"
+
+msgid "Account No."
+msgstr "은행 계좌 번호"
+
+msgid "Notice before change"
+msgstr "변경 전 유의사항"
+
+msgid "Before change 1"
+msgstr "휴대폰 번호를 변경하려면 초기화 후 직접 다시 인증해야 합니다."
+
+msgid "Before change 2"
+msgstr "휴대폰 번호 초기화 후 재등록 전까지 거래 및 KRW 입/출금이 불가능 합니다."
+
+msgid "Before change 3"
+msgstr "위 조치는 휴대폰 도난, 피싱이나 금융사고 예방을 위한 조치입니다."
+
+msgid "Before change 4"
+msgstr "아래 양식에 따라 SMBIT 가입 시 인증 받은 이메일을 사용하여 고객센터로 발송해 주시기 바랍니다."
+
+msgid "Before change 5"
+msgstr "휴대폰 번호 초기화 또는 계좌번호 초기화시 회원레벨 3레벨 승인이 초기화 되어 2레벨도 변경됩니다."
+
+
+
+
+msgid "Documents submitted"
+msgstr "제출 서류 안내"
+
+msgid "Documents submitted notice"
+msgstr "각 서류의 주민번호 뒷자리, 운전면허 번호, 여권번호 뒷자리는 가려주시기 바랍니다."
+
+msgid "Photo of yourself"
+msgstr "신분증을 들고 있는 본인 사진"
+
+msgid "Photo yourself 1"
+msgstr "신분증에 SMBIT 인증요청, 목적, 이메일주소, 촬영일자를<br />&nbsp;&nbsp;&nbsp;자필로 써서 붙여 주세요."
+
+msgid "Photo yourself 2"
+msgstr "얼굴과 신분증 모두 잘 보이도록 사진을 찍어 주세요."
+
+msgid "Photo yourself 3"
+msgstr "사진은 비대면 실명확인 용도로만 사용되며 신분증 글자를<br />&nbsp;&nbsp;&nbsp;읽을 수 있어야 합니다."
+
+
+
+
+msgid "Reset account 1"
+msgstr "계좌번호를 변경하면 초기화 후 직접 다시 계좌인증을 진행해야 합니다."
+
+msgid "Reset account 2"
+msgstr "계좌번호 초기화 후 재등록 전까지 KRW 출금이 불가능 합니다."
+
+msgid "Reset account 3"
+msgstr "위 조치는 피싱이나 금융사고 예방을 위한 조치입니다."
+
+msgid "Reset account 4"
+msgstr "아래 양식에 따라 SMBIT 가입 시 인증받은 이메일을 사용하여 고객센터로 발송해 주시기 바랍니다."
+
+msgid "Reset account 5"
+msgstr "휴대폰 번호 초기화 또는 계좌번호 초기화시 회원레벨 3레벨 승인이 초기화 되어 2레벨도 변경됩니다."
+
+msgid "Action"
+msgstr "거래중"
+
+msgid "Completed"
+msgstr "완료"
+
+msgid "Price per "
+msgstr "체결가격"
+
+msgid "Pending"
+msgstr "확인중"
+
+msgid "Withdrawal Confirm 1"
+msgstr "이상거래감지시스템(FDS)에 의해 코인출금이 정지된 경우, 코인 출금을 위해 서류제출이 필요합니다."
+
+msgid "Withdrawal Confirm 2"
+msgstr "아래 양식에 따라 SMBIT 가입 시 인증 받은 이메일 또는 팩스를 이용하여 고객센터로 발송해 주시기 바랍니다."
+
+msgid "Withdrawal Confirm 3"
+msgstr "확약서 및 관련 자료 검토가 완료되면 코인출금이 일정기간 후에 재개 됩니다."
+
+msgid "Withdrawal Confirm 4"
+msgstr "이상거래감지로 2회 정지된 경우, 추가 자료를 요청 드리며 해제전까지 코인 출금이 불가합니다."
+
+msgid "Withdrawal Confirm 5"
+msgstr "타인의 정보를 도용할 경우 개인정보보호법 위반에 따라 신고될 수 있습니다."
+
+msgid "Withdrawal Confirm 6"
+msgstr "코인출금이 재개되기전에 기존 코인출금에 대해 취소요청을 하실 수 있으며, 원화출금 요청도 가능합니다."
+
+msgid "Withdrawal Confirm 7"
+msgstr "확약서 및 증명서 확인 후 은행 거래자료 또는 타거래소 입출금 자료를 추가 요청할 수 있습니다."
+
+
+
+
+msgid "ID photo"
+msgstr "신분증 사진"
+
+msgid "ID photo 0"
+msgstr "신분증을 들고있는 본인사진"
+
+msgid "ID photo 1"
+msgstr "신분증에 SMBIT 인증요청, 목적, 이메일주소, 촬영일자를<br />&nbsp;&nbsp;&nbsp;자필로 써서 붙여 주세요."
+
+msgid "ID photo 2"
+msgstr "주민번호 뒤의 7자리는 가려주시기 바랍니다. (개인정보 보호)"
+
+msgid "ID photo 2-2"
+msgstr "주민번호 뒤 7자리는 가려주시기 바랍니다."
+
+msgid "ID photo 2-3"
+msgstr "주민번호 뒷자리를 가린 사진을 제출해주세요."
+
+msgid "ID photo 3"
+msgstr "주민등록증대신 운전면허증이나 여권도 가능하며 마찬가지로<br />&nbsp;&nbsp;&nbsp;운전면허 번호, 여권번호는 가려주시기 바랍니다.<br />&nbsp;&nbsp;&nbsp;(주민등록증, 운전면허증, 여권만 신분증으로 인정)"
+
+msgid "ID photo 4"
+msgstr "촬영시간을 기준으로 제출일 이전에 찍은 사진이나 메모가 없는<br />&nbsp;&nbsp;&nbsp;사진은 인정하지 않습니다."
+
+
+
+msgid "Copy passbook"
+msgstr "현재 등록된 계좌의 통장사본(표지)"
+
+msgid "Copy passbook text1"
+msgstr "<span style='font-weight: 500'>계좌번호</span>및 <span style='font-weight: 500'>예금주</span>가 적힌 통장사본을 스캔 또는 촬영해서 첨부해 주세요."
+
+msgid "Copy passbook text2"
+msgstr "인터넷뱅킹의 경우 <span style='font-weight: 500'>[통장표지출력]</span> 서비스 화면을 캡쳐할 수 있습니다."
+
+
+
+msgid "Confirmation letter"
+msgstr "확약서(다운로드) : 양식을 다운로드 받으시고 내용을 기입 및 서명/인감 날인 하셔서 서명시 본인서명사실확인서, 인감날인시 <br />&nbsp;&nbsp;인감증명서를 함께 보내주세요."
+
+msgid "Download documents"
+msgstr "서류 다운로드 받기"
+
+
+
+msgid "Example email"
+msgstr "이메일 작성 예시"
+
+msgid "Example email 1"
+msgstr "보내주신 자료 검토 후 추가적인 확인이 필요할 경우 담당자가 연락을 드립니다. 서류접수 후 1~3일 이상 소요될 수 있습니다."
+
+msgid "Example email 2"
+msgstr "인증 자료 제출 외 문의는 1:1문의하기를 이용해 주세요."
+
+msgid "Email subject"
+msgstr "이메일 제목"
+
+msgid "Email subject text"
+msgstr "SMBIT 휴대폰번호 초기화 요청"
+
+msgid "Email subject text3"
+msgstr "SMBIT 계좌번호 초기화 요청"
+
+msgid "Email subject text5"
+msgstr "이상거래감지에 따른 확약서 발송"
+
+
+msgid "Email address to send"
+msgstr "보내실 메일 주소"
+
+msgid "Body required"
+msgstr "본문 필수 항목"
+
+msgid "Body required text"
+msgstr "이름 : <br />휴대전화 번호 : <br />SMBIT 가입 이메일 주소 : <br />"
+
+msgid "Attachments"
+msgstr "첨부파일"
+
+msgid "Attachments text"
+msgstr "1. 신분증 사진(필수) <br />2. 신분증을 들고있는 본인 사진(필수) <br /><p style='font-weight:500'>파일당 5MB 이하, JPG/JPEG/PNG/GIF 파일만 첨부 가능</p>"
+
+msgid "Attachments text3"
+msgstr "1. 신분증 사진(필수) <br />2. 신분증을 들고있는 본인 사진(필수) <br />3. 기존 등록된 계좌의 통장사본 (필수) <br /><p style='font-weight:500'>파일당 5MB 이하, JPG/JPEG/PNG/GIF 파일만 첨부 가능</p>"
+
+msgid "Attachments text5"
+msgstr "1. 확약서 (필수) <br />2. 인감증명 또는 본인서명사실확인서 (필수) <br />3. 신분증 사본 (필수) <br /><p style='font-weight:500'>파일당 5MB 이하, JPG/JPEG/PNG/GIF 파일만 첨부 가능</p>"
+
+
+msgid "Summary"
+msgstr "개요"
+
+msgid "Summary desc"
+msgstr "SMBIT는 국내외 블록체인 분야 최고 인력을 보유하고 있으며 국내 개발 경력 10년 이상의 전문팀과 인도/타지기스탄 등 글로벌 인재들을 영입하여 국내 최대의 블록체인 거래소를 운영하고 있습니다. 안전하다는 것은 그만큼 보유 인력이 많고 보유 기술 또한 많다는 뜻이며 24시간 전 세계 사용자들을 위해 안전한 서비스를 제공합니다. 신규 ICO, IEO 코인의 안전장치가 정상화될 때까지 장외시장 역할을 합니다. 상장을 준비하는 코인의 예비거래소이며, 이미 글로벌 시장에 상장된 코인도 SMBIT에서 거래가 가능합니다. 매도자와 매수자의 가격만 맞추면 되기 때문에 자유롭게 거래할 수 있으며 급등락을 방지함으로 안정적인 거래시장 형성의 토대를 마련합니다. 대량매도나 작전매수를 방지하기도 합니다."
+
+msgid "Trust"
+msgstr "신뢰하다"
+
+msgid "Trust desc"
+msgstr "투명한 정책으로 모두가 신뢰할 수<br />있는 금융환경을 구축합니다."
+
+msgid "Professional"
+msgstr "전문적이다"
+
+msgid "Professional desc"
+msgstr "국내외 최고의 전문가들의<br />다양한 경험과 기술을 공유합니다."
+
+msgid "Innovative"
+msgstr "혁신적이다"
+
+msgid "Innovative desc"
+msgstr "믿고 투자할 수 있는 코인의 채굴<br />안정적인 투자를 제공합니다."
+
+msgid "World people"
+msgstr "전 세계인이 사용하는 암호화폐 거래소"
+
+msgid "World people desc"
+msgstr "2020년 10월 오픈한 SMBIT 거래소는 비트코인, 이더리움 등의 암호화폐를<br />매수/매도할 수 있는 플랫폼입니다. 전 세계인 사용하는 안전한 거래소로서<br />고객 자산의 안전을 최우선으로 합니다."
+
+msgid "Ethical management of SMBIT"
+msgstr "SMBIT의 윤리경영"
+
+msgid "Ethical management desc"
+msgstr "기업의 경제적, 법적 책임수행은 물론 사회적 통념으로 기대되는 윤리적 책임의<br />수행까지도 기업의 기본적인 의무로 인정하고 주체적인 자세로 기업윤리 준수를<br />행동원칙으로 삼는 경영으로써, 기업의 법적 책임의 준수는 물론이고 사회가<br />요구하는 윤리적 기대를 기업의 의사결정 및 행동에 반영하는 것을 말합니다."
+
+msgid "E-mail a listing inquiry"
+msgstr "상장 문의 메일보내기"
+
+msgid "Send e-mail about business partnership inquiry"
+msgstr "사업제휴 문의 메일보내기"
+
+msgid "E-mail your inquiry"
+msgstr "이용 문의 메일보내기"
+
+msgid "Secure Platform"
+msgstr "안전한 거래<br />플 랫 폼 을<br />완성시키다."
+
+
+
+msgid "My Info"
+msgstr "내 정보"
+
+msgid "Personal Info. Management"
+msgstr "개인정보 관리"
+
+msgid "Certification Stage"
+msgstr "인증단계"
+
+msgid "Email"
+msgstr "이메일"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Cellphone"
+msgstr "휴대폰"
+
+msgid "Bank"
+msgstr "은행"
+
+msgid "Bank account"
+msgstr "은행계좌"
+
+msgid "Bank Account Number"
+msgstr "계좌번호"
+
+msgid "Address"
+msgstr "거주지"
+
+msgid "Change"
+msgstr "변경하기"
+
+msgid "To use"
+msgstr "사용하기"
+
+msgid "Edit"
+msgstr "수정하기"
+
+msgid "Authenticate"
+msgstr "인증하기"
+
+msgid "Authentication required"
+msgstr "인증필요"
+
+msgid "Verification completed"
+msgstr "인증완료"
+
+msgid "Verification pending"
+msgstr "확인 보류 중"
+
+msgid "Account Holder"
+msgstr "예금주"
+
+msgid "DnW"
+msgstr "입출금"
+
+msgid "DnW level"
+msgstr "입출금 레벨"
+
+msgid "DnW level short"
+msgstr "입출금 레벨"
+
+
+msgid "Deposit limit"
+msgstr "입금 한도"
+
+msgid "Withdrawal limit"
+msgstr "출금 한도"
+
+msgid "Withdrawal remaining limit"
+msgstr "출금 잔여한도"
+
+
+msgid "Account settings"
+msgstr "계정 설정"
+
+msgid "Block login"
+msgstr "로그인 차단"
+
+msgid "Block overseas login"
+msgstr "해외 로그인 차단"
+
+msgid "Block access other"
+msgstr "KR 외 국가 접속 차단"
+
+msgid "Agree event"
+msgstr "이벤트/광고 수신/제공동의"
+
+msgid "Agree personal"
+msgstr "이벤트/광고 목적 개인정보 제공"
+
+msgid "Agree Receive"
+msgstr "이벤트/광고 등 혜택 정보 수신 동의 (SMS/Email)"
+
+
+msgid "Security settings"
+msgstr "보안 설정"
+
+msgid "Change password"
+msgstr "비밀번호 변경하기"
+
+msgid "Change pass text"
+msgstr "보안 안전을 위해 주기적인 비밀번호 변경을 권유합니다."
+
+msgid "OTP certification"
+msgstr "OTP 인증"
+
+msgid "OTP cert text"
+msgstr "2중 보안으로 안전한 이용 가능 (권장)"
+
+msgid "Information management"
+msgstr "정보 관리"
+
+msgid "Mobile auth"
+msgstr "휴대폰 인증을 진행해야 합니다."
+
+msgid "Email veri"
+msgstr "이메일 인증을 진행해야 합니다."
+
+msgid "Go to auth"
+msgstr "인증단계 가기"
+
+
+msgid "Email authentication"
+msgstr "이메일 인증"
+
+msgid "Account authentication"
+msgstr "계좌 인증"
+
+msgid "OTP authentication"
+msgstr "OTP 인증"
+
+msgid "Select a Bank"
+msgstr "은행 선택"
+
+msgid "Enter Account Number"
+msgstr "계좌번호 입력"
+
+msgid "How to Get OTP Certified"
+msgstr "OTP 인증받는 법"
+
+msgid "How OTP 1"
+msgstr "OTP앱을 스마트폰에 다운로드 받는다."
+
+msgid "Download android"
+msgstr "안드로이드는 Google OTP를 검색 후 <br />다운로드 하세요"
+
+msgid "Download iphone"
+msgstr "아이폰은 Google Authenticator를 검색 후 <br />다운로드 하세요."
+
+msgid "How OTP 2"
+msgstr "다운로드 받은 앱에 아래 QR코드를 스캔하거나 비밀키를 입력하세요."
+
+msgid "Copy secret key"
+msgstr "비밀키 복사"
+
+
+msgid "Please enter 6"
+msgstr "OTP 인증 앱에 표시된 인증번호(6자리)를 입력하세요."
+
+msgid "Security code"
+msgstr "보안코드"
+
+
+msgid "Enter OTP Number"
+msgstr "OTP 번호 입력"
+
+msgid "Authenticated"
+msgstr "인증되었습니다"
+
+msgid "OTP Authenticated"
+msgstr "인증됨"
+
+msgid "OTP Authentication Registration Request"
+msgstr "OTP 인증 등록 요청"
+
+
+msgid "Submit Usage Agreement"
+msgstr "이용 동의서 제출"
+
+msgid "Download usage consent form"
+msgstr "이용 동의서 다운로드"
+
+
+msgid "Download and handwriting"
+msgstr "이용 동의서를 다운로드하여 자필 작성 후 스캔 파일 첨부"
+
+msgid "Attach and handwriting"
+msgstr "파일 첨부를 선택하여 자필로 작성한 이용 동의서 스캔 파일 등록 (gif, jpg, jpeg, png 등 이미지파일 5MB 제한)"
+
+msgid "Consent form for use"
+msgstr "이용 동의서"
+
+msgid "File Attachment"
+msgstr "파일첨부"
+
+msgid "Submission of evidential documents"
+msgstr "증빙서류 제출"
+
+msgid "Transaction details 1"
+msgstr "증빙서류 사진 및 거래내역 사본 첨부"
+
+msgid "Transaction details 2"
+msgstr "증빙서류 사진 및 거래내역 사본 작성 안내"
+
+
+
+msgid "Mobile completed"
+msgstr "휴대폰 인증 완료!"
+
+msgid "Id verify"
+msgstr "본인 인증"
+
+msgid "Id verify comp"
+msgstr "ID 확인됨"
+
+msgid "Pledge auth"
+msgstr "비대면 생체인식인증"
+
+msgid "Pledge auth comp"
+msgstr "비대면 생체인식인증 완료"
+
+msgid "Pledge auth pend"
+msgstr "비대면 생체인식인증 보류 중"
+
+msgid "Self exam"
+msgstr "자체심사"
+
+msgid "Email Otp Bank"
+msgstr "이메일인증 / OTP인증 / 은행계좌 인증"
+
+msgid "KRW 300"
+msgstr "KRW 최대 3억 출금(일)"
+
+msgid "KRW 1000"
+msgstr "KRW 최대 10억 출금(일)"
+
+
+msgid "Level notice 1-1"
+msgstr "원화와 코인 입출금을 위한 필수 인증 사항 입니다."
+
+msgid "Level notice 1-2"
+msgstr "본인 명의의 휴대폰으로 인증을 완료해주세요."
+
+msgid "Level notice 2-1"
+msgstr "인증하기 버튼을 누르면 인증페이지로 이동합니다."
+
+msgid "Level notice 2-2"
+msgstr "(기 인증자 혹은 국내 휴대폰이 없거나 미성년자의 경우, 휴대폰 인증을 할 수 없습니다)"
+
+msgid "Level notice 3-1"
+msgstr "정확한 정보입력을 하지 않으면 인증불가 처리됩니다."
+
+msgid "Level notice 4-1"
+msgstr "3레벨 인증완료 회원을 대상으로 SMBIT 자체심사가 진행 됩니다."
+
+msgid "Level notice 4-2"
+msgstr "자세한 내용은 고객센터로 문의 해 주세요."
+
+
+msgid "Must Level 1"
+msgstr "1단계 인증을 해주셔야 가능합니다."
+
+msgid "Must Level 2"
+msgstr "2단계 인증을 해주셔야 가능합니다."
+
+msgid "Must Level 3"
+msgstr "3단계 인증을 해주셔야 가능합니다."
+
+msgid "Must Level 4"
+msgstr "4단계 인증을 해주셔야 가능합니다."
+
+
+
+msgid "Generate Deposit Address"
+msgstr "입금 주소 생성하기"
+
+msgid "Generate Deposit Address Text"
+msgstr "신규 회원님께서는 반드시 <span style="font-weight:bold">입금 주소 생성하기</span> 버튼을 클릭 후<br />입금 주소를 생성해주시기 바랍니다."
+
+msgid "Notifications for deposit requests"
+msgstr "입금 요청시 아래의 내용을 꼭! 확인해주세요."
+
+msgid "Notifications for deposit requests1"
+msgstr "생성된 주소로 디지털 자산을 입금 해주세요. 해당 지갑 주소는 입금 전용 주소입니다."
+
+msgid "Notifications for deposit requests2"
+msgstr "외부 지갑으로부터 아래 주소로 디지털 자산을 전송하시면 회원님의 전자지갑에 반영됩니다."
+
+msgid "Notifications for deposit requests3"
+msgstr "반영 시점은 입금거래후 10~30분 이후 자동으로 반영됩니다."
+
+msgid "Notifications for deposit requests4"
+msgstr "지갑 주소를 반드시 확인하고 전달해 주세요. 주소를 잘못 입력해서 전송된 디지털 자산은 기술적으로 입금처리가 불가능할 수 있으니 정확한 입금주소를 다시한번 확인 후 입금해 주시기 바랍니다."
+
+msgid "Notifications for deposit requests5"
+msgstr "입금확인(Confirmation)에 소요되는 시간은 블록체인 네트워크의 혼잡도에 따라 영향을 받을 수 있으며 디지털 자산별로 혼잡도에 차이가 있을 수 있습니다."
+
+msgid "Notifications for deposit requests6"
+msgstr "원화 출금은 KRW 첫 입금 후 24시간, 디지털 자산 출금은 KRW 마지막 입금 후 24시간 동안 출금이 제한됩니다."
+
+msgid "Notifications for deposit requests6-2"
+msgstr "원화 출금은 3단계 인증후에 출금 신청 하세요."
+
+msgid "External withdrawal"
+msgstr "외부출금"
+
+msgid "Internal withdrawal"
+msgstr "내부출금"
+
+msgid "Withdrawable amount"
+msgstr "출금 가능액"
+
+msgid "Withdrawal request amount"
+msgstr "출금요청 금액"
+
+msgid "Enter withdrawal request amount"
+msgstr "출금요청금액을 입력하세요"
+
+msgid "Withdrawal fee"
+msgstr "출금 수수료"
+
+msgid "Total withdrawal digital assets"
+msgstr "총 출금 디지털 자산"
+
+msgid "Notes withdrawal"
+msgstr "출금요청시 아래의 내용을 꼭! 확인해주세요."
+
+msgid "Notes withdrawal1"
+msgstr "SMBIT 전자지갑으로부터 외부 전자지갑으로 디지털 자산을 출금합니다."
+
+msgid "Notes withdrawal2"
+msgstr "모든 출금 요청 사항은 관리자 확인 후 출금이 진행됩니다."
+
+msgid "Notes withdrawal3"
+msgstr "입금확인(confirmation)에 소요되는 시간은 블록체인 네트워크의 혼잡도에 따라 영향을 받을 수 있으며 디지털 자산별로 지정된 횟수만큼 승인(컨펌)을 받아야 지갑에 반영됩니다. 필요한 컨펌수는 전송받는 거래소의 정책을 따릅니다."
+
+msgid "Notes withdrawal4"
+msgstr "전송 이후의 과정은 블록체인 네트워크에서 자동으로 처리됩니다. 블록체인 네트워크 상에서 발생하는 전송 및 컨펌지연에 대해 SMBIT에서 별도의 조취를 취할 수 없습니다."
+
+msgid "Notes withdrawal5"
+msgstr "부정 거래가 의심되는 경우 출금에 제한이 있을 수 있으며, 본사 출금정책에 의해 출금이 제한된 경우 7일간 인증자료 미제출시 디지털 자산 출금이 자동 취소 됩니다."
+
+msgid "Notes withdrawal6"
+msgstr "실제 전송되는 수량은 총 출금 디지털 자산에서 출금수수료를 제외한 수량이 전송됩니다."
+
+msgid "Notes withdrawal7"
+msgstr "ex) 1.0 BTC 신청 시, 총 1.0005 BTC 가 차감되고 받는 분께 총 1.0 BTC 가 전송됩니다."
+
+msgid "Division"
+msgstr "구분"
+
+msgid "Request amount"
+msgstr "요청금액"
+
+msgid "Fee"
+msgstr "수수료"
+
+msgid "Notes Address Text1"
+msgstr "지갑 주소는 최대 3건만 등록할 수 있습니다."
+
+msgid "Notes Address Text2"
+msgstr "등록하신 지갑 주소 외 다른 지갑 주소로는 디지털 자산 출금이 불가능합니다."
+
+msgid "Coin Name"
+msgstr "코인명"
+
+msgid "Retained quantity"
+msgstr "보유수량"
+
+msgid "Deposit suspension"
+msgstr "입금중지"
+
+msgid "View only retained coins"
+msgstr "보유코인만 보기"
+
+msgid "Coin search"
+msgstr "코인 검색"
+
+msgid "Total assets held (KRW)"
+msgstr "총보유자산"
+
+msgid "Wallet Name"
+msgstr "지갑명칭"
+
+msgid "Wallet Address"
+msgstr "지갑주소"
+
+msgid "Date and time of registration"
+msgstr "등록일시"
+
+msgid "There is no registered wallet"
+msgstr "등록된 지갑이 없습니다."
+
+msgid "Delete"
+msgstr "삭제하기"
+
+msgid "Register withdrawal address"
+msgstr "출금 주소 등록하기"
+
+msgid "No transaction details"
+msgstr "거래내역이 없습니다"
+
+msgid "Withdrawal request"
+msgstr "출금 요청"
+
+msgid "Copy Address"
+msgstr "주소 복사하기"
+
+msgid "All"
+msgstr "전체"
+
+msgid "Deposit"
+msgstr "입금"
+
+msgid "Withdrawal"
+msgstr "출금"
+
+msgid "Breakdown"
+msgstr "내역"
+
+msgid "Withdrawal Address Management"
+msgstr "출금 주소관리"
+
+msgid "Available Digital Assets"
+msgstr "사용가능 디지털자산"
+
+msgid "Frozen Digital Assets"
+msgstr "동결 디지털 자산"
+
+msgid "Available Amount"
+msgstr "사용 가능한 금액입니다"
+
+msgid "Total Amount"
+msgstr "총금액"
+
+msgid "Requested Amount"
+msgstr "요청금액"
+
+msgid "No registered wallet address."
+msgstr "등록된 지갑 주소가 없습니다."
+
+msgid "Please register your wallet address."
+msgstr "지갑 주소를 등록하세요."
+
+msgid "Please enter the OTP number."
+msgstr "OTP 번호를 입력해주세요."
+
+msgid "Please enter correct amount"
+msgstr "올바른 금액을 입력하십시오."
+
+msgid "You need to withdraw at least 50,000 KRW"
+msgstr "최소 50,000원 이상 인출하셔야 합니다."
+
+msgid "Please enter amount you want to withdraw"
+msgstr "인출할 금액을 입력하십시오."
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Registration"
+msgstr "등록"
+
+msgid "Name2"
+msgstr "명칭"
+
+msgid "Deposited Successfully!"
+msgstr "입금되었습니다!"
+
+msgid " deposited successfully!"
+msgstr " 입금되었습니다!"
+
+msgid "Withdrawal conditions do not match"
+msgstr "출금조건이 맞지않습니다."
+
+msgid "You can only withdraw up to 50% of your current main account balance"
+msgstr "현재 기본 계정 잔액의 최대 50 %까지만 인출 할 수 있습니다."
+
+msgid "joininfo_01"
+msgstr "메인 상단의 회원가입 버튼 클릭"
+
+msgid "joininfo_01_01"
+msgstr "회원가입 버튼을 누르세요"
+
+msgid "joininfo_02"
+msgstr "회원가입 페이지로 이동"
+
+msgid "joininfo_02_01"
+msgstr "휴대폰으로 본인인증을 해주세요."
+
+msgid "joininfo_02_02"
+msgstr "인증을 완료한 휴대폰번호가 아이디로 사용됩니다."
+
+msgid "joininfo_02_03"
+msgstr "비밀번호를 입력해주세요."
+
+msgid "joininfo_02_04"
+msgstr "C영역에 입력한 비밀번호를 한번 더 입력해주세요."
+
+msgid "joininfo_02_05"
+msgstr "이용약관/개인정보취급방침을 반드시 확인하고 체크해주세요."
+
+msgid "joininfo_02_06"
+msgstr "회원가입완료 버튼을 클릭하면 회원가입이 완료 됩니다."
+
+
+
+msgid "Lease Service"
+msgstr "리스 서비스"
+
+msgid "Details"
+msgstr "자세히"
+
+msgid "Lease Service always rental"
+msgstr "언제나 빌려쓸 수 있는 서비스"
+
+msgid "Lease Service Borrow"
+msgstr "가상자산을 빌리세요!"
+
+msgid "Lease Service Borrow and Pay"
+msgstr "가상자산이 부족할 때, 빌려서 사용 후 갚으면 됩니다."
+
+msgid "Lease Service Borrowed Amount"
+msgstr "상환은 빌렸던 가상자산 수량으로 진행됩니다."
+
+msgid "Usage Fee"
+msgstr "이용 수수료"
+
+msgid "Free"
+msgstr "무료"
+
+msgid "Maximum Limit"
+msgstr "최대한도"
+
+msgid "Two million coins"
+msgstr "2백만 코인"
+
+msgid "Period"
+msgstr "기간"
+
+msgid "Lease Service Period"
+msgstr "1~24개월"
+
+msgid "Lease Service preparation"
+msgstr "리스 서비스는 준비중입니다."
+
+msgid "Lease Service Notice"
+msgstr "리스서비스 이용 시 가상자산의 시세 급등락에 따른 손실이 발생할 수 있다는 점을 유의하시기 바랍니다.<br />SMBIT는 본 리스서비스 제공과 관련이 없으며, 서비스와 관련한 손실 등에 책임을 지지 않습니다."
+
+msgid "Deposit Service"
+msgstr "스테이킹 서비스"
+
+msgid "Profitable Deposit Service"
+msgstr "수익이 되는 스테이킹서비스"
+
+msgid "Deposit Service Profit"
+msgstr "가상자산을 스테이킹하여 가상자산의 수익을 올리세요!"
+
+msgid "Deposit Service increase and Profit"
+msgstr "가상자산을 스테이킹하면 자산가치 상승과<br />거래소의 수익일부를 얻을 수 있습니다!  "
+
+msgid "Deposit Service Period"
+msgstr "180~720일"
+
+msgid "Usage History"
+msgstr "이용 내역"
+
+msgid "Deposit Service Application"
+msgstr "스테이킹 서비스 신청"
+
+msgid "Deposit Service Notice"
+msgstr "스테이킹서비스 이용 시 가상자산의 시세 급등락에 따른 손실이 발생할 수 있다는 점을 유의하시기 바랍니다.<br />SMBIT는 본 스테이킹서비스 제공과 관련이 없으며, 서비스와 관련한 손실 등에 책임을 지지 않습니다."
+
+msgid "Raise your profit"
+msgstr "보유중인 디지털 자산을 통하여 수익을 올리세요"
+
+
+
+msgid "Boardcategory notice"
+msgstr "공지"
+
+msgid "Boardcategory general"
+msgstr "일반"
+
+msgid "Boardcategory deposit"
+msgstr "입출금 관련문의"
+
+msgid "Boardcategory general2"
+msgstr "일반문의"
+
+
+msgid "Progress"
+msgstr "진행상태"
+
+
+msgid "Writing"
+msgstr "글쓰기"
+
+msgid "Subject"
+msgstr "제목"
+
+msgid "Previous"
+msgstr "이전글"
+
+msgid "Next"
+msgstr "다음글"
+
+msgid "List"
+msgstr "목록"
+
+msgid "Category"
+msgstr "카테고리"
+
+msgid "Contents"
+msgstr "내용"
+
+msgid "Complete"
+msgstr "완료"
+
+
+
+msgid "Sign up"
+msgstr "회원가입"
+
+msgid "KRW D&W"
+msgstr "KRW 입금 및 출금"
+
+msgid "BoardQnaStatus_received"
+msgstr "접수완료"
+
+msgid "BoardQnaStatus_checking"
+msgstr "확인중"
+
+msgid "BoardQnaStatus_completed"
+msgstr "답변완료"
+
+msgid "Attached File Size 5MB Error"
+msgstr "파일 크기는 5MB를 넘을 수 없습니다."
+
+msgid "Attached File Extension Error Img"
+msgstr "이미지 파일만 업로드해주세요. (gif, png, jpg)"
+
+msgid "You have successfully registered."
+msgstr "등록되었습니다"
+
+msgid "Unable to register. Try Again Later."
+msgstr "등록할 수 없습니다. 다시 시도해 주세요."
+
+msgid "Unable to deposit"
+msgstr "입금할수없습니다"
+
+msgid "You do not have access."
+msgstr "접근 권한이 없습니다."
+
+msgid "You have insufficient balance."
+msgstr "잔고가 부족합니다."
+
+msgid "Please enter valid withdrawal amount"
+msgstr "올바른 인출 금액을 입력하십시오."
+
+msgid "Please enter OTP"
+msgstr "OTP를 입력하십시오."
+
+msgid "Please enter authentication code."
+msgstr "인증 코드를 입력하십시오."
+
+msgid "The amount is transferred to main account"
+msgstr "금액이 주계정으로 이체되었습니다."
+
+msgid "Unable to transfer the amount to the main account"
+msgstr "기본 계정에 금액을 전송할 수 없습니다."
+
+msgid "You entered invalid authentication code."
+msgstr "잘못된 인증 코드를 입력했습니다."
+
+msgid "Withdrawn successfully"
+msgstr "성공적으로 철회되었습니다."
+
+msgid "All the fields are required"
+msgstr "정확히 입력하세요."
+
+msgid "Unable to Withdraw"
+msgstr "인출할 수 없습니다."
+
+msgid "Please verify your bank account"
+msgstr "은행 계좌를 확인하십시오."
+
+msgid "PriceInfo Fee1"
+msgstr "SMBIT에서는 아래와 같이 구매 수수료, 출금 수수료를 적용하고 있습니다."
+
+msgid "Transaction Fee"
+msgstr "거래 수수료"
+
+msgid "Conversion Fee"
+msgstr "전환 수수료"
+
+msgid "PriceInfo Fee2"
+msgstr "SMBIT에서 디지털 자산 거래 시 모든 디지털 자산에 동일한 수수료 율(%)이 적용됩니다."
+
+msgid "PriceInfo Fee3"
+msgstr "출금수수료는 거래소 정책에 따라 변경될 수 있습니다. 사전 공지를 통해 안내하겠습니다."
+
+msgid "PriceInfo Fee4"
+msgstr "출금수수료는 시장상황에 따라 변경될 수 있습니다."
+
+msgid "Annual fee1"
+msgstr "SMBIT에서는 더 나은 서비스를 위하여 연회비를 운영하고 있습니다. "
+
+msgid "Annual Fee Information"
+msgstr "연회비 안내"
+
+msgid "Annual Fee"
+msgstr "연회비"
+
+msgid "Conversion fee1"
+msgstr ""
+
+msgid "My Assets"
+msgstr "나의 자산"
+
+msgid "Retained Won"
+msgstr "보유원화"
+
+msgid "Retained Coin"
+msgstr "보유코인"
+
+msgid "Freeze Amount"
+msgstr "동결금액"
+
+msgid "Transaction Details"
+msgstr "거래내역"
+
+msgid "Deposit Details"
+msgstr "입출금내역"
+
+msgid "Market"
+msgstr "마켓"
+
+msgid "Transaction"
+msgstr "거래"
+
+msgid "Transaction "
+msgstr "거래 "
+
+msgid "Order and Close"
+msgstr "주문 및 체결"
+
+msgid "Tightening volume"
+msgstr "체결량"
+
+msgid "Closing price"
+msgstr "체결가"
+
+msgid "Tamount"
+msgstr "거래 금액"
+
+
+msgid "Whole market"
+msgstr "전체 마켓"
+
+msgid "Full coin"
+msgstr "전체 코인"
+
+msgid "Total details"
+msgstr "전체 내역"
+
+msgid "Maximum 180 days"
+msgstr "최대 조회 가능 기간은 90일입니다"
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Please enter your username or email"
+msgstr "사용자 이름 또는 이메일을 입력하십시오"
+
+msgid "Please enter your name"
+msgstr "당신의 이름을 입력하세요"
+
+msgid "Enter your name"
+msgstr "당신의 이름을 입력하세요"
+
+msgid "Enter your email"
+msgstr "당신의 이메일 입력하세요"
+
+msgid "Enter password"
+msgstr "비밀번호는 숫자6자리를 설정하세요"
+
+msgid "Amount and price should be positive"
+msgstr "금액과 가격은 양수 여야합니다."
+
+msgid "SMBIT Exchange"
+msgstr "코인 IBT 교환"
+
+msgid "SAFE"
+msgstr "SAFE"
+
+msgid "COIN"
+msgstr "COIN"
+
+msgid "INCUBATOR"
+msgstr "INCUBATOR"
+
+
+msgid "Safe Blockchain Exchange"
+msgstr "안전한 블록체인 거래소"
+
+msgid "Can be used anywhere in the world"
+msgstr "전 세계 어디에서도 사용할 수 있는"
+
+msgid "Blockchain Exchange Service"
+msgstr "블록체인 거래소 서비스"
+
+msgid "Easy, Fast and Secure"
+msgstr "쉽고 빠르며 안전합니다."
+
+msgid "Available"
+msgstr "사용할 수있는"
+
+msgid "Blockchain exchange"
+msgstr "블록 체인 교환"
+
+msgid "Cryptocurrency"
+msgstr "암호화폐를"
+
+msgid "safety"
+msgstr "안전하게"
+
+msgid "Trade"
+msgstr "거래하세요"
+
+msgid "Be with our safe service"
+msgstr "안전한 우리 서비스와 함께 하세요"
+
+msgid "Simple membership registration"
+msgstr "간단한 회원가입"
+
+msgid "Fill out the online application"
+msgstr "온라인 신청서를 작성하십시오"
+
+msgid "Please wait until your account is approved"
+msgstr "계정승인이 될 때까지 기다려주세요"
+
+msgid "Digital assets or Ringgit Malaysia"
+msgstr "디지털 자산 또는 Ringgit Malaysia를"
+
+msgid "Digital assets Deposit"
+msgstr "디지털 자산을 입금하십시오"
+
+msgid "Start trading now"
+msgstr "이제 거래를 시작하세요"
+
+msgid "We pursue secure transactions with the world's highest level of strong security"
+msgstr "글로벌 최고 수준의 강력한 보안으로 안전한 거래를 추구합니다"
+
+msgid "24 hours trading anywhere in the world"
+msgstr "전 세계 어디서든 24시간 거래가능"
+
+msgid "Secure Incubator"
+msgstr "신규 코인의 안전한 인큐베이터"
+
+msgid "Inquiring for listing"
+msgstr "상장문의"
+
+msgid "Transaction fee rebate"
+msgstr "거래수수료 리베이트"
+
+msgid "Maker fee"
+msgstr "메이커 수수료를"
+
+msgid "I will rebate"
+msgstr "리베이트 합니다"
+
+msgid "Cold storage security"
+msgstr "콜드 스토리지 보안"
+
+msgid "Security of digital assets"
+msgstr "디지털 자산의 보안과"
+
+msgid "Peace of mind is guaranteed"
+msgstr "마음의 평화를 보장합니다"
+
+msgid "Real-time support"
+msgstr "실시간 지원"
+
+msgid "To support inquiries and requirements"
+msgstr "문의및 요구사항을 지원하는"
+
+msgid "A dedicated counselor is on standby"
+msgstr "전담 상담사가 대기중입니다"
+
+msgid "Business account"
+msgstr "비즈니스 계정"
+
+msgid "For digital asset trading"
+msgstr "디지털 자산 거래에 대한"
+
+msgid "Provides excellent support"
+msgstr "탁월한 지원을 제공합니다"
+
+msgid "You can easily exchange coins"
+msgstr "손 쉽게 코인을 주고 받을 수 있는"
+
+msgid "Download Secure Wallet CTC Now"
+msgstr "안전한 지갑 CTC를 지금 다운받으세요"
+
+msgid "wallet"
+msgstr "WALLET"
+
+msgid "Service center"
+msgstr "고객센터"
+
+msgid "weekday"
+msgstr "평일"
+
+msgid "Guidance on additional measures to prevent financial accidents"
+msgstr "금융사고 방지를 위한 추가 조치 안내"
+
+msgid "Bank Name"
+msgstr "은행명"
+
+msgid "Shinhan Bank"
+msgstr "신한은행"
+
+msgid "Nonghyup Bank"
+msgstr "농협은행"
+
+msgid "Kakao Payco"
+msgstr "카카오뱅크"
+
+msgid "Industrial Bank of Korea"
+msgstr "기업은행"
+
+msgid "K Bank"
+msgstr "케이뱅크"
+
+msgid "Message"
+msgstr "메시지입니다."
+
+msgid "ID Verification Message1"
+msgstr "이메일로 전송 된 인증 코드를 입력 해주세요."
+
+msgid "ID Verification Message2"
+msgstr "귀하의 이메일이 인증되었습니다!"
+
+msgid "ID Verification Message3"
+msgstr "입력 한 인증 코드가 잘못되었습니다!"
+
+msgid "ID Verification Message4"
+msgstr "인증 코드 확인"
+
+msgid "ID Verification Message5"
+msgstr "잘못된 인증 코드를 입력했습니다."
+
+msgid "ID Verification Message6"
+msgstr "인증 코드를 입력 해주세요."
+
+msgid "ID Verification Message7"
+msgstr "이메일로 확인 코드가 전송되었습니다."
+
+msgid "ID Verification Message8"
+msgstr "이메일이 성공적으로 확인되었습니다."
+
+msgid "Volume"
+msgstr "용량"
+
+msgid "Volume "
+msgstr "용량 "
+
+msgid "Total Price"
+msgstr "총 가격"
+
+msgid "Main Balance: "
+msgstr "메인 균형: "
+
+msgid "Trading Balance: "
+msgstr "거래잔고: "
+
+msgid "Reserved Balance: "
+msgstr "유보잔고: "
+
+msgid "Total Buy Amount: "
+msgstr "총 구매 금액: "
+
+msgid "Total Sell Amount: "
+msgstr "총 판매 금액:"
+
+msgid "Please spend at least 50,000 KRW to be able to withdraw."
+msgstr "출금이 가능하시려면 최소 5만원 이상 사용하시기 바랍니다."
+
+msgid "Member information not found"
+msgstr "회원정보를 찾을 수 없습니다"
+
+msgid "What is a Coin incubator"
+msgstr "코인 인큐베이터란"
+
+msgid "Coin_incubator_text"
+msgstr "신규 ICO, IEO 코인의 안전장치가 정상화될 때까지 장외시장 역할을 합니다.상장을 준비하는 코인의 예비거래소이며, 이미 글로벌 시장에 상장된 코인도 SMBIT에서 거래가 가능합니다.매도자와 매수자의 가격만 맞추면 되기 때문에 자유롭게 거래할 수 있으며 급등락을 방지함으로 안정적인 거래시장 형성의 토대를 마련합니다. 대량매도나 작전매수를 방지하기도 합니다."
+
+msgid "Privacy Policy Heading"
+msgstr "<h2><b>개인정보 처리방침</b></h2> <p>주식회사 한스바이오텍(이하 “회사”)은 고객의 개인정보보호의 중요성에 대해 인식하고 개인정보보호에 관한 법률을 엄수함과 동시에 다음의 개인정보처리방침(이하 ‘본 개인정보처리방침’)에 따라 적절한 취급 및 보호를 위한 최선의 노력을 다하고 있습니다. 본 개인정보처리방침은 회사의 웹사이트(https://www.coinibt.io)에서 제공하는 서비스에 한해 적용되며 목차는 하기와 같습니다. 한스바이오텍 은 개인정보처리방침을 개정할 시에는 웹사이트 공지사항을 통해 공지할 것입니다.</p> <h3>1. 개인정보의 정의</h3> <p>본 개인정보처리방침에서 개인정보라는 것은 개인정보보호법2조1항에 의해 정의된 개인정보 즉, 살아있는 개인에 관한 정보로서 성명, 주민등록번호 및 영상 등을 통하여 개인을 알아볼 수 있는 정보(해당 정보만으로는 특정 개인을 알아볼 수 없더라도 다른 정보와 쉽게 결합하여 알아볼 수 있는 것을 포함한다.)를 말합니다.</p> <h3>2. 수집하는 개인정보의 항목과 수집방법</h3> <b> 수집하는 개인정보 항목</b> <p>[필수항목] - 이메일, 휴대전화번호, 비밀번호, 성별, 생년월일, 이름, 은행계좌정보<br/>[서비스 이용 과정이나 사업처리과정에서 자동으로 생성되는 정보]<br/>- 서비스 이용 기록, 접속 로그, 쿠키, 접속IP정보, 결제기록<br/>[본인확인 업무의 경우]<br/>- 신분증 사본, 영상통화를 녹화할 경우 영상정보 형태로 저장된 신분증, 신분증 진위여부<br/> 확인 시 촬영한 신분증 사진(주민번호 뒷자리 비표시 처리) 통장 사본, 송금 확인증<br/>[안드로이드 앱에서 USIM인증의 경우]<br/>- MCC(국가 코드), MNC(네트워크 코드), UICC ID(유심ID), IMEI(단말기 고유 일련번호),<br/>IMSI(네트워크 고유 식별번호)<br/>[신분증 진위여부 확인의 경우] – 신분증 사본, 이름, 주민등록번호, 발급 년월일, <br/>면허번호, 발급코드<br/>[서비스 이용과정이나 사업처리과정에서 추가적으로 수집되는 정보] - 주소 </p> <b>수집방법</b> <p>홈페이지에서의 회원 가입 시 / 본인확인 업무의 경우 회원이 직접제공</p> <h3>보유근거</h3> <p>회원의 동의 (만 14세 미만 아동개인정보 수집 시 법정 대리인 동의)</p> <h3>3. 개인정보의 이용목적</h3> <b>※ 한스바이오텍 은 고객의 개인정보를 이하의 다음과 같은 목적으로 이용합니다.</b> <b>홈페이지 회원가입 및 관리</b> <p>회원 가입의사 확인, 회원제 서비스 이용에 따른 본인확인, 개인식별, 연령 확인, 회원자격 유지 및 관리, 서비스 부정이용 방지, 각종 공지 안내 전달, 이용자 문의사항, 고객불만과 고충의 접수 및 처리, 분쟁조정을 위한 기록 보존 등을 목적으로 개인정보를 이용합니다.</p> <b>서비스 이용자의 본인확인 및 회원정보 변경업무 처리</b> <p>본인인증, 콘텐츠 제공, 맞춤 서비스 제공, 요금결제정산 등을 목적으로 개인정보를 이용합니다.</p> <b>재화 또는 서비스 제공</b> <p>서비스 제공, 콘텐츠 제공, 맟춤 서비스 제공, 요금 결제 및 정산, 이벤트행사와 경품당첨 정보전달 및 상품배송 등을 목적으로 개인정보를 이용합니다.</p> <b>마케팅 및 광고에 활용</b> <p>이용자에게 최적화된 서비스 제공 및 신규 서비스(제품) 개발 및 특화, 서비스 이용기록과 접속 빈도 분석, 서비스 이용에 대한 통계, 인구통계학적 특성에 따른 서비스 제공 및 광고 게재, 프라이버시 보호를 위한 서비스 환경 구축 등을 목적으로 개인정보를 이용합니다.</p> <h3>4. 개인정보의 제공</h3> <p>ㆍ한스바이오텍은 원칙적으로 이용자의 사전 동의 없이 개인정보를 외부에 제공하지 않습니다.<br/>단, 이용자가 외부 제휴사의 서비스를 이용하기 위하여 개인정보 제공에 직접 동의를 한 경우, 그리고 관련 법령에 의거해 한스바이오텍에 개인정보 제출 의무가 발생한 경우, 자금세탁방지의무 준수를 위하여 이용자의 고유식별정보 및 거래정보 등을 제3자에게 제공할 필요가 있는 경우, 이용자의 생명이나 안전에 급박한 위험이 확인되어 이를 해소하기 위한 경우에 한하야 개인정보를 제공하고 있습니다.</p> <h3>5. 개인정보의 보유 및 이용기간</h3> <ol> <li>가. 고객의 개인정보는 “회사”가 고객에게 서비스를 제공하는 기간 동안에 보유 및 이용됩니다. 회원 탈퇴 시 수집된 개인의 정보가 열람 또는 이용될 수 없도록 파기 처리됩니다. 다만, 관계법령의 규정에 의하여 보존할 필요성이 있는 경우에는 다음 관계법령에 따라 보존합니다.</li> <li>- 계약 또는 청약철회 등에 관한 기록: 5년</li> <li>- 대금결제 및 재화 등의 공급에 관한 기록: 5년</li> <li>- 소비자의 불만 또는 분쟁처리에 관한 기록: 3년</li> <li>- 제세공과금 납부 기록 : 5년</li> <li>- 로그인 기록 : 3개월</li> <li>- 표시 광고에 대한 기록 : 6개월</li> <li>나. 고객의 동의를 받아 보유하고 있는 거래정보에 대해 고객께서 열람을 요구하는 경우에는 지체없이 그 열람 확인할 수 있도록 조치합니다.</li> </ol> <h3>6. 개인정보 파기 절차 및 방법</h3> <ol> <li>“회사”는 수집한 개인정보의 이용목적이 달성된 후에는 보관기간 및 이용기간에 따라 해당 정보를 지체없이 파기 또는 별도 분리 보관 합니다. 그 절차, 시점, 방법은 다음과 같습니다.</li> <li>가. 파기절차 및 시점</li> <li>고객이 서비스 가입 등을 위해 기재한 개인정보는 서비스 해지 등 이용목적이 달성된 후 내부 방침 및 기타 관련 법령에 의한 정보보호 사유(위 개인정보의 보유 및 이용기간 참조)에 따른 보유기간이 경과한 후에 즉시 파기합니다. 일반적으로 잔존하는 채권-채무 관계가 없는 경우 “회사” 회원가입시 수집되어 전자적 파일형태로 관리하는 개인정보는 회원 탈퇴 시점에 바로 삭제 됩니다.</li> <li>나. 파기방법</li> <li>종이에 출력된 개인정보는 분쇄기로 분쇄 또는 소각하거나 화학약품 처리를 하여 용해하여 파기하고, 전자적 파일형태로 저장된 개인정보는 기록을 재생할 수 없는 기술적 방법을 사용하여 삭제합니다.</li> <li>다. 분리 보관 시점 및 방법</li> <li>‘개인정보 유효기간제’ 에 따라 1년간 서비스를 이용하지 않은 경우, 해당 이용자의 계정은 휴면상태로 전환됩니다. 휴면상태 회원의 개인정보는 별도 분리하여 보관되며, 접근 제한 및 보안적용하여 관리 됩니다.</li> </ol><h3>7. 이용자 및 법정 대리인의 권리와 그 행사방법</h3> <ol> <li>가. 이용자 및 법정 대리인은 언제든지 등록되어 있는 자신의 개인정보에 대해 다음의 권리를 행사할 수 있습니다.</li> <li><b>개인정보 열람요구</b></li> <li><b>개인정보 오류 등이 있을 경우 정정요구</b></li> <li><b>개인정보 삭제 요구</b></li> <li><b>개인정보 처리정지 요구</b></li> <li>나. 이용자 및 법정 대리인은 “회사” 홈페이지(www.coinibt.io)에 로그인 후 ‘회원정보변경’에서 개인정보를 열람 또는 정정하시거나, ‘회사’의 개인정보 보호책임자에게 전자우편 또는 서면 요청을 통해 정정이 가능합니다.</li> <li>다. 이용자 및 법정 대리인의 ‘개인정보 수집 및 이용에 대한 동의’ 철회(해지)는 이메일, 전화, 팩스를 통해 가능합니다.</li> <li>라. 이용자 및 법정 대리인이 개인정보의 오류에 대한 정정 및 삭제를 요청한 경우에는 처리 완료시까지 당해 개인정보를 이용 또는 제공하지 않습니다. 또한 “회사”는 이용자 혹은 법정 대리인의 요청에 의해 해지 또는 삭제된 개인정보는 "개인정보의 보유 및 이용기간"에 명시된 바에 따라 처리하고 그 외의 용도로 열람 또는 이용할 수 없도록 처리하고 있습니다.</li> </ol><h3>8. 개인정보의 안전성 확보 조치</h3><p>• “회사”는 개인정보보호법 안전성 확보조치에 필요한 다음의 사항을 시행하고 있습니다.<br/></p><p>•가. 관리적 보호대책<br/>o① 내부관리계획의 수립 시행<br/>o- 개인정보보호책임자의 지정에 관한 사항<br/>o- 개인정보보호책임자 및 개인정보취급자의 역할 및 책임에 관한 사항<br/>o- 개인정보의 안전성 확보에 필요한 조치에 관한 사항<br/>o- 개인정보취급자 및 위탁업체에 대한 교육에 관한 사항<br/>o- 그 밖에 개인정보 보호를 위하여 필요한 사항<br/>o② 정기적인 자체 감사 실시<br/>o- 개인정보 보호책임자와 감사자의 직무분리 사항<br/>o- 개인정보 감사자의 역할 및 책임에 관한 사항<br/>o- 개인정보 취급 관련 안전성 확보를 위한 정기적 자체 감사</p><p>• 나. 기술적 보호대책<br/>o① 개인정보취급자의 고객정보의 유출을 방지하기 위하여, 개인정보 유출방지 시스템을 운영하고 있으며, 단말기(PC) 및 네트워크 상의 전송되는 개인정보는 안전한 암호 알고리즘을 적용하고 있습니다.<br/>o② 개인정보처리시스템에 대한 접근권한을 업무 수행에 필요한 최소한의 범위로 하여, 업무 담당자 별로 한 개의 사용자 계정을 차등 부여하고 있으며, 개인정보취급자가 변경되었을 경우 개인정보시스템의 접근권한을 변경 또는 말소하고 그 기록을 최소 5년간 보관합니다. 또한, 개인정보취급자의 비밀번호 작성규칙을 수립하여 적용하고 있습니다.<br/>o③ 개인의 고유식별정보, 비밀번호를 정보통신망을 통하여 송수신하거나 보조저장매체 등을 통하여 전달하는 경우에는 이를 상용 암호화 소프트웨어를 사용하여 저장하고 있으며, 비밀번호는 안전한 암호알고리즘으로 암호화하여 저장합니다.<br/>o④ 개인정보취급자가 개인정보처리시스템에 접속한 기록을 최소 6개월 이상 보관 관리하며, 개인정보취급자의 접속기록이 위변조 및 도난, 분실되지 않도록 해당 접속기록을 안전하게 보관하고 있습니다.<br/>o⑤ 개인정보처리시스템 또는 업무용 컴퓨터에 악성 프로그램 등을 방지 치료 할 수 있는 백신 소프트웨어 등의 보안 프로그램을 설치운영하고 있으며, 보안 프로그램의 자동 업데이트 기능을 사용하고, 주기적인 단말기(PC) 검사를 실시하고 있습니다.</p><p>•다. 물리적 보호대책<br/>o전산실, 자료보관실 등 개인정보를 보관하고 있는 물리적 보관 장소에 대한 출입통제 절차를 수립 운영하고 있으며, 개인정보가 포함된 서류, 보조저장매체 등을 잠금 장치가 있는 안전한 장소에 보관 및 관리하고 있습니다.</p><h3>9. 개인정보 자동수집장치의 설치운영 및 그 거부에 대한 사항</h3><p>•가. “회사”가 제공하는 인터넷서비스를 통하여 고객의 정보를 저장하고 수시로 찾아내는 쿠키(cookie)를 설치 운용할 경우도 있습니다. 쿠키란 웹 서버가 웹 브라우저에 보내어 저장했다가 서버의 부가적인 요청이 있을 때 다시 서버로 보내주는 문자열 정보를 말합니다. 고객이 “회사” 웹사이트에 접속을 하면 고객의 브라우저에 있는 쿠키의 내용을 읽고, 추가정보를 찾아 접속에 따른 성명 등의 추가 입력 없이 서비스를 제공할 수 있습니다.</p><p>•나. ”회사”는 쿠키(cookie)를 통해 수집한 고객의 정보를 다음의 목적을 위해 사용될 수 있습니다.<br/>o① 개인의 관심 분야에 따라 차별화된 정보를 제공<br/>o② 회원과 비회원의 접속빈도 또는 머문 시간 등을 분석하여 이용자의 취향과 관심분야를 파악하여 타겟(target)마케팅에 활용<br/>o③ 관심 있게 둘러본 내용들에 대한 자취를 추적하여 다음 번 접속 때 개인맞춤서비스를 제공<br/>o④ 유료서비스 이용 시 이용기간 안내<br/>o⑤ 고객들의 습관을 분석하여 서비스 개편 등의 척도로 활용</p><p>•다. 고객은 쿠키 설치에 대한 선택권을 가지고 있습니다. 웹 브라우저 상단의 “도구 > 인터넷옵션 > 개인정보 > 고급”에서 모든 쿠키를 다 받아들이거나, 쿠키가 설치될 때 통지를 보내도록 하거나, 아니면 모든 쿠키를 거부할 수 있습니다. 단, 고객이 쿠키 설치를 거부하였을 경우 서비스 이용에 불편이 있거나, 서비스 제공에 어려움이 있을 수 있습니다.</p><p>•라. 쿠키는 브라우저의 종료 시나 로그아웃 시 만료됩니다.</p><h3>10. 개인정보보호 책임자 및 담당자</h3><p>•가. “회사”는 고객의 개인정보보호를 매우 소중하게 생각하며, 고객의 개인정보가 훼손, 침해 또는 누설되지 않도록 최선을 다하고 있습니다. 그러나 기술적인 보완조치를 했음에도 불구하고, 해킹 등 기본적인 네트워크상의 위험성에 의해 발생하는 예기치 못한 사고로 인한 정보의 훼손 및 방문자가 작성한 게시물에 의한 각종 분쟁에 관해서는 책임이 없습니다.</p><p>•나. 고객의 개인정보보호 관련 문의 시 고객센터에서 신속하고 성실하게 답변을 드리도록 하고 있습니다. 또한 고객이 “회사”의 개인정보 보호담당자와 연락을 원하실 경우 아래의 연락처 또는 이메일로 연락을 주시면 개인정보 관련 문의사항에 대하여 신속하고 성실하게 답변해 드리겠습니다.</p><p>•① 개인정보 보호책임자<br/>•- 성명: 한백희<br/>•- 직위: 총괄이사<br/>•- 전화번호: 02-6091-1126<br/>•- 이메일: dmmall2020@gmail.com</p><p>•- 다. 기타 개인정보 침해로 인해 구제를 받기 위한 상담이 필요한 경우에는 개인정보 분쟁조정위원회, 대검찰청, 경찰청, 한국인터넷진흥원 등으로 문의하실 수 있습니다.<br/>•① 개인정보분쟁조정위원회(www.kopico.go.kr): 1833-6972<br/>•② 대검찰청 사이버범죄수사단(http://www.spo.go.kr): 1301<br/>•③ 경찰청 사이버안전국(http://cyberbureau.police.go.kr): 182<br/>•④ 개인정보 침해신고센터(http://privacy.kisa.or.kr): 118</p><h3>11. 고지의무</h3><p>•현 개인정보처리방침은 2020년 11월 16일에 제정되었으며, 정부의 정책 또는 보안기술의 변경에 따라 내용의 추가, 삭제 및 수정이 있을 경우에는 변경사항의 시행 7일전부터 홈페이지의 '공지사항'을 통해 고지할 것입니다.</p><p>•이 약관은 2020년 11월 23일부터 시행합니다.</p>"
+
+msgid "Show"
+msgstr "보여주기"
+
+msgid "Entries"
+msgstr "개 항목"
+
+msgid "Search"
+msgstr "검색"
+
+msgid "Please select coin"
+msgstr "코인을 선택해 주세요"
+
+msgid "Please select a coin first"
+msgstr "먼저 코인을 선택해 주세요."
+
+msgid "Select time"
+msgstr "시간선택"
+
+msgid "All coins"
+msgstr "모든 코인"
+
+msgid "Total KRW held:"
+msgstr "총 보유 원화:"
+
+msgid "Total Coins held: "
+msgstr "총 보유 코인: "
+
+msgid "Transfer to trading account"
+msgstr "트레이딩 계좌로 이체"
+
+msgid "Transfer from trading account"
+msgstr "트레이딩 계좌로부터 이체"
+
+msgid "Transfer to main account"
+msgstr "메인 계좌로 이체"
+
+msgid "Transfer from main account"
+msgstr "메인 계좌로부터 이체"
+
+msgid "Transfer to"
+msgstr "로 옮깁니다"
+
+msgid "account"
+msgstr "계정"
+
+msgid "Get OTP"
+msgstr "입력 OTP"
+
+msgid "Please select wallet address"
+msgstr "지갑 주소를 입력해 주세요"
+
+msgid "Enter Amount"
+msgstr "입력 설정"
+
+msgid "Amount: "
+msgstr "설정: "
+
+msgid "Register Withdrawal Wallet Address"
+msgstr "인출지갑주소를등록하세요"
+
+msgid "Wallet Name: "
+msgstr "지갑 이름은 다음과 같습니다: "
+
+msgid "Wallet Name"
+msgstr "지갑 이름은 다음과 같습니다"
+
+msgid "Wallet Address: "
+msgstr "지갑 주소: "
+
+msgid "Enter Wallet Address"
+msgstr "지갑 주소를 입력하세요"
+
+msgid "Please enter valid amount"
+msgstr "유효한 금액을 입력해 주세요"
+
+msgid "Please enter wallet name"
+msgstr "지갑 이름을 입력하세요"
+
+msgid "Please enter wallet address"
+msgstr "지갑 주소를 입력하세요"
+
+msgid "Please enter valid wallet address"
+msgstr "올바른 지갑 주소를 입력하세요"
+
+msgid "Please select an address to delete"
+msgstr "삭제할 주소를 선택하세요"
+
+msgid "Are you sure that, you want to delete this?"
+msgstr "삭제하시겠습니까?"
+
+msgid "Please enter the amount you want to withdraw"
+msgstr "인출할 금액을 입력하세요"
+
+msgid "Transaction history is not available"
+msgstr "트랜잭션 기록을 사용할 수 없습니다"
+
+msgid "Order not found"
+msgstr "주문을 찾을 수 없습니다"
+
+msgid "Weekdays"
+msgstr "평일"
+
+msgid "To get coins,"
+msgstr "코인을 사려고요,"
+
+msgid "Join SMBIT!"
+msgstr "코인 IBT에 가입하세요!"
+
+msgid "Confirm password"
+msgstr "암호를 확인합니다"
+
+msgid "Please select a valid coin"
+msgstr "올바른 코인을 선택하세요."
+
+msgid "Please enter a valid BTC address"
+msgstr "올바른 BTC 주소를 입력하세요."
+
+msgid "Only 3 withdrawal wallet addresses are allowed"
+msgstr "3개의 인출지갑 주소만 허용됩니다."
+
+msgid "Address registered successfully"
+msgstr "주소가 성공적으로 등록되었습니다."
+
+msgid "Unable to register this address"
+msgstr "이 주소를 등록할 수 없습니다."
+
+msgid "Please check your email inbox for the OTP"
+msgstr "이메일 받은 편지함에 OTP가 있는지 확인해 주세요."
+
+msgid "Invalid withdrawal address"
+msgstr "출금 주소가 잘못되었습니다."
+
+msgid "Please enter a valid amount"
+msgstr "올바른 금액을 입력하세요."
+
+msgid "The amount is transferred to the main account"
+msgstr "금액이 기본 계정으로 이체됩니다."
+
+msgid "Unable to transfer the amount to the main account"
+msgstr "기본 계정으로 금액을 이체할 수 없습니다."
+
+msgid "Please enter a valid OTP"
+msgstr "올바른 OTP를 입력하세요."
+
+msgid "Wallet address has been registered successfully"
+msgstr "지갑 주소가 성공적으로 등록되었습니다."
+
+msgid "Unable to register the wallet address"
+msgstr "지갑 주소를 등록할 수 없습니다."
+
+msgid "Minimum amount spent should be at least 1 USD"
+msgstr "최소 사용 금액은 1 USD여야 합니다."
+
+msgid "Minimum limit for exchange is "
+msgstr "교환의 최소 한도는 다음과 같습니다 "
+
+msgid "Insufficient "
+msgstr "부족합니다 "
+
+msgid " in account"
+msgstr " 계산상으로는"
+
+msgid "Order is placed successfully"
+msgstr "주문이 성공적으로 배치되었습니다."
+
+msgid "Minimum amount to receive should be 1 USD"
+msgstr "수령할 최소 금액은 1 USD여야 합니다."
+
+msgid "Are you sure to deposit this amount?"
+msgstr "이 금액을 입금하시겠습니까?"
+
+msgid "Confirm your identity!"
+msgstr "신원을 확인해 주세요!"
+
+msgid "Coming Soon.................!"
+msgstr "준비중입니다."
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Yesterday"
+msgstr "어제"
+
+msgid "Last 7 Days"
+msgstr "지난 7일"
+
+msgid "Last 15 Days"
+msgstr "지난 15일"
+
+msgid "Last 30 Days"
+msgstr "지난 30일"
+
+msgid "This Month"
+msgstr "이달"
+
+msgid "Last Month"
+msgstr "지난 달"
+
+msgid " hours"
+msgstr " 시간"
+
+msgid "Service temporarily unavailable!"
+msgstr "서비스를 일시적으로 사용할 수 없습니다!"
+
+msgid "Service temporary unavailable From 18:00 on December 29, 2020 Till 18:00 December 30, 2020"
+msgstr "서버 점검 안내 2020년12월 29일 18시부터 2020년 12월 30일 18시까지"
+
+msgid "Password should be of only 6 digits"
+msgstr "암호는 6자리여야 합니다"
+
+msgid "This email address is already registered."
+msgstr "이미 가입된 이메일 입니다."
+
+msgid "This phone number is already registered"
+msgstr "이미 가입된 전화번호 입니다."
+
+msgid "You have successfully registered your account."
+msgstr "가입이 완료 되었습니다."
+
+msgid "Success!"
+msgstr "성공했습니다"
+
+msgid "Thanks,"
+msgstr "고맙습니다,"
+
+msgid "SMBIT Support Team"
+msgstr "코인 IBT 지원 팀입니다."
+
+msgid "Username: "
+msgstr "사용자 이름: "
+
+msgid "Hello "
+msgstr "안녕하세요 "
+
+msgid "Thanks for signing up!"
+msgstr "가입해 주셔서 감사합니다!"
+
+msgid "Please find your login details"
+msgstr "로그인 세부 정보를 찾으십시오"
+
+msgid "Email: "
+msgstr "이메일: "
+
+msgid "You have been registered successfully at SMBIT Exchange."
+msgstr "코인 IBT Exchange에 성공적으로 등록되었습니다."
+
+msgid "Invalid username or password"
+msgstr "잘못된 사용자 이름 또는 암호입니다!"
+
+msgid "Please enter a password of 6 digits"
+msgstr "암호를 6자리 숫자로 입력하십시오"
+
+msgid "Invalid authentication code"
+msgstr "잘못된 인증 코드입니다"
+
+msgid "Copy bank account number"
+msgstr "계좌번호 복사"
+
+msgid "Commission banner1"
+msgstr " SMBIT의 <strong>할인 수수료!</strong>"
+
+msgid "Commission Text1"
+msgstr "발급된 쿠폰은 발급일로부터 60일동안 유효합니다 (*60일 경과 시 자동만료)"
+
+msgid "Commission Text2"
+msgstr "쿠폰 사용 만료 시 정상 수수료(0.25%)가 부과됩니다."
+
+msgid "Commission Text3"
+msgstr "님 최근 30일 누적 거래금액"
+
+msgid "Commission Text4"
+msgstr "30일 누적 거래금액은 5분마다 갱신되며, 실제 누적 거래금액과 다소 차이가 있을 수 있습니다."
+
+msgid "Commission Text5"
+msgstr "쿠폰 구매 시 즉시 적용되므로, 거래금액 및 사용기한을 반드시 확인하시기 바랍니다."
+
+msgid "Commission Text6"
+msgstr "쿠폰 구매는 원화(KRW)로 가능하며, 수수료 무료는 모든 가상자산에 적용됩니다."
+
+msgid "Commission Text7"
+msgstr "쿠폰 1개 이상 구매 시 선 구매한 쿠폰부터 우선 적용됩니다."
+
+msgid "Commission Text8"
+msgstr "기존 구매하신 쿠폰 중 유효기간이 1년인 쿠폰은 후순위로 사용되므로 해당 쿠폰을 먼저 사용하신 후 다른 쿠폰을 구매하시기 바랍니다."
+
+msgid "Commission Text9"
+msgstr "쿠폰 구매 후 환불 및 취소는 원칙적으로 불가하오니 다시 한번 확인하신 후 구매하여 주시기 바랍니다."
+
+msgid "Commission Text10"
+msgstr "수수료 정액 쿠폰 구매 시 할인된 수수료로 서비스를 이용하실 수 있습니다."
+
+msgid "Commission Counpon1"
+msgstr "실 수수료"
+
+msgid "Commission Counpon2"
+msgstr "쿠폰구매"
+
+msgid "Commission Counpon3"
+msgstr "할인"
+
+msgid "Commission Counpon4"
+msgstr "원"
+
+msgid "Commission Counpon_20000"
+msgstr "1,000만원까지 <span class="text-gray">수수료 무료</span>"
+
+msgid "Commission Counpon_40000"
+msgstr "2.500만원까지 <span class="text-gray">수수료 무료</span>"
+
+msgid "Commission Counpon_60000"
+msgstr "5,000만원까지 <span class="text-gray">수수료 무료</span>"
+
+msgid "Commission Counpon_80000"
+msgstr "1억원까지 <span class="text-gray">수수료 무료</span>"
+
+msgid "Commission Counpon_325000"
+msgstr "5억원까지 <span class="text-gray">수수료 무료</span>"
+
+msgid "Commission Counpon_500000"
+msgstr "10억원까지 <span class="text-gray">수수료 무료</span>"
+
+msgid "Coupon Name"
+msgstr "쿠폰명"
+
+msgid "Payment methods"
+msgstr "결제방법"
+
+msgid "Payment amount"
+msgstr "결제금액"
+
+msgid "Amount used"
+msgstr "사용거래금액"
+
+msgid "Balance"
+msgstr "잔여거래금액"
+
+msgid "Usage period"
+msgstr "사용기간"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Status: "
+msgstr "상태: "
+
+msgid "Be in Use"
+msgstr "사용중"
+
+msgid "Completed Use"
+msgstr "사용만료"
+
+msgid "Use"
+msgstr "사용"
+
+msgid "Expire"
+msgstr "기간만료"
+
+msgid "Howtouse"
+msgstr "사용설명서"
+
+msgid "Details about withdrawal account"
+msgstr "인출 계정에 대한 세부 정보입니다."
+
+msgid "User Level: 1, Please authenticate yourself to be able to withdraw"
+msgstr "레벨1은 출금할 수 없습니다."
+
+msgid "Bought coupon successfully"
+msgstr "완료되었습니다"
+
+msgid "Unable to buy coupon"
+msgstr "잔액이 부족합니다."
+
+msgid "Please deposit at least 50,000 KRW to be able to withdraw"
+msgstr "출금이 가능하도록 최소 50,000원 입금 부탁드립니다."
+
+
+msgid "Please deposit minimum 50,000 KRW"
+msgstr "최소 50,000원을 입금해주세요."
+
+msgid "You need to withdraw at least 50,000 KRW"
+msgstr "최소 5만원 이상 인출하셔야 합니다."
+
+msgid "Total Old Deposit Amount: "
+msgstr "총 이전 예금 금액: "
+
+msgid "Total Deposit Amount: "
+msgstr "총 입금 금액: "
+
+msgid "Request for changing email"
+msgstr "이메일 재설정신청"
+
+msgid "Request for changing bank account information"
+msgstr "계좌번호 재설정신청"
+
+msgid "Request for changing OTP authentication"
+msgstr "OTP 재설정신청"
+
+msgid "Requested for changing email"
+msgstr "이메일 재설정신청"
+
+msgid "Requested for changing bank account information"
+msgstr "계좌번호 재설정신청"
+
+msgid "Requested for changing OTP authentication"
+msgstr "OTP 재설정신청"
+
+msgid "The daily upper limit price has been exceeded."
+msgstr "최대 거래가격을 초과 하였습니다."
+
+msgid "The daily lower price has been exceeded."
+msgstr "최소 거래가격 미만입니다."
+
+msgid "Minimum spend amount should be 1 USD"
+msgstr "최소 지출 금액은 USD 1이어야 합니다."
+
+msgid "Minimum limit for exchange is "
+msgstr "교환 최소 한도는 다음과 같습니다 "
+
+msgid "Deposit Statement"
+msgstr "예금 내역서"
+
+msgid "Withdrawal Statement"
+msgstr "철회명세서"
+
+msgid "Insufficient Balance"
+msgstr "잔액이 부족합니다."
+
+msgid "Insufficient TP3 Balance"
+msgstr "TP3 밸런스가 부족합니다."
+
+msgid "Insufficient CTC Balance"
+msgstr "CTC 잔액이 부족합니다."
+
+msgid "Insufficient "
+msgstr "불충분합니다 "
+
+msgid " in account"
+msgstr " 계정으로"
+
+msgid "The TP3 balance is insufficient for buying this coupon"
+msgstr "TP3 잔액이 이 쿠폰을 구매하기에 부족합니다."
+
+msgid "The CTC balance is insufficient for buying this coupon"
+msgstr "CTC 잔액이 부족하여 이 쿠폰을 구입할 수 없습니다."
+
+msgid "Please enter 6 digits"
+msgstr "6 자리로 입력해주세요."
+
+msgid "Please agree to collect and use personal information"
+msgstr "개인정보 수집 및 이용동의해주세요."
+
+msgid "You entered invalid authentication code"
+msgstr "잘못된 인증 코드를 입력했습니다."
+
+msgid "You need to have at least 50,000 KRW in your main account"
+msgstr "기본 계좌에 최소 50,000원이 있어야 합니다."
+
+msgid "Please enter authentication code"
+msgstr "인증 코드를 입력해주세요."
+
+msgid "Authentication code verified"
+msgstr "인증 코드 확인됨"
+
+msgid "Approval"
+msgstr "승인"
+
+msgid "Previous Balance"
+msgstr "신청시 보유금"
+
+msgid "Service Period Month"
+msgstr "신청 기간"
+
+msgid "Approval Date"
+msgstr "승인일"
+
+msgid "Are you sure you want to approve?"
+msgstr "승인하시겠습니까?"
+
+msgid "Application Date"
+msgstr "신청일"
+
+msgid "Member information not found"
+msgstr "회원정보를 찾을 수 없습니다"
+
+msgid "Cancelled Date"
+msgstr "취소일"
+
+msgid "Are you sure you want to cancel?"
+msgstr "취소하시겠습니까?"
+
+msgid "Cancelled"
+msgstr "취소"
+
+msgid "Approved"
+msgstr "승인된"
+
+msgid "Approve"
+msgstr "승인"
+
+msgid "Do you want to go to Google Spreadsheet?"
+msgstr "구글 시트로 이동하시겠습니까?"
+
+msgid "User's Name"
+msgstr "작성자"
+
+msgid "Date & Time"
+msgstr "작성시간"
+
+msgid "Reply"
+msgstr "답변하기"
+
+msgid "Replied"
+msgstr "답변완료"
+
+msgid "Response Time & Date"
+msgstr "답변시간"
+
+msgid "Response"
+msgstr "답변"
+
+msgid "Close2"
+msgstr "확인"
+
+msgid "Are you sure to deposit?"
+msgstr "스테이킹 하시겠습니까?"
+
+msgid "You cannot cancel the deposit"
+msgstr "일 동안 스테이킹 취소가 불가능합니다."
+
+msgid "Deposit2"
+msgstr "보증금"
+
+msgid "Deposit3"
+msgstr "스테이킹하기"
+
+msgid "Investment Deposit Text3"
+msgstr "최소 180 일 ~ 최대 720 일 (신청한 서비스 이용기간 이전 상환시, 최소 이용수수료 부과)."
+
+msgid "Investment Deposit Text4"
+msgstr "보유한 TP3보다 신청 수량이 많습니다."
+
+
+
+msgid "Pending2"
+msgstr "확인중"
+
+msgid "Enter password2"
+msgstr "비밀번호를 입력해주세요"
+
+msgid "Membership Expiry Notice!"
+msgstr "멤버십 만료 알림입니다!"
+
+msgid "Service Check Information"
+msgstr "점검 안내"
+
+msgid "Service Check Information Text"
+msgstr "더 나은 투자 서비스를 위해 현재 서비스를 일시 중지 및 점검 중에 있습니다."
+
+msgid "Don't show again today"
+msgstr "하루 동안 보지 않기"
+
+msgid "Investment Service"
+msgstr "투자 서비스"
+
+msgid "Profitable Investment Service"
+msgstr "수익이 되는 투자 서비스"
+
+msgid "Investment Service Profit"
+msgstr "가상자산을 투자하여 가상자산의 수익을 올리세요!"
+
+msgid "Investment Service increase and Profit"
+msgstr "가상자산을 투자하면 자산가치 상승과<br />거래소의 수익일부를 얻을 수 있습니다!  "
+
+msgid "Investment Maximum Limit"
+msgstr "투자 한도"
+
+msgid "Investment Period"
+msgstr "투자 기간"
+
+msgid "Fifty thousand coins"
+msgstr "5만 코인"
+
+msgid "Investment Service Period"
+msgstr "180~720 일"
+
+msgid "Investment History"
+msgstr "투자 내역"
+
+msgid "Investment Service Application"
+msgstr "투자 서비스 신청"
+
+msgid "Investment Service Notice"
+msgstr "투자서비스 이용 시 가상자산의 시세 급등락에 따른 투자 손실이 발생할 수 있다는 점을 유의하시기 바랍니다.<br />SMBIT는 본 투자서비스 제공과 관련이 없으며, 서비스와 관련한 손실 등에 책임을 지지 않습니다."
+
+msgid "Investment"
+msgstr "투자하기"
+
+msgid "Total Old Deposit Amount: "
+msgstr "총 이전 예금 금액: "
+
+msgid "Total Deposit Amount: "
+msgstr "총 입금 금액: "
+
+msgid "Deposit Statement"
+msgstr "예금 내역서"
+
+msgid "Withdrawal Statement"
+msgstr "철회명세서"
+
+msgid "The daily upper limit price has been exceeded."
+msgstr "최대 거래가격을 초과 하였습니다."
+
+msgid "The daily lower price has been exceeded."
+msgstr "최소 거래가격을 초과 하였습니다."
+
+msgid "My TP3 2"
+msgstr "TP3 보유 수량"
+
+msgid "Investment TP3"
+msgstr "투자 수량"
+
+msgid "Deposit Application Notice"
+msgstr "신청한 스테이킹 서비스 이용 기간 이전 해지 시 회사에서 지정한 이용 수수료 30%가 차감됩니다."
+
+msgid "Home"
+msgstr "홈"
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "Don't show again today"
+msgstr "하루 동안 보지 않기"
+
+msgid "General Member"
+msgstr "일반회원"
+
+msgid "Annual Membership"
+msgstr "연간회원"
+
+msgid "How To Use SMBIT"
+msgstr "SMBIT 사용설명서"
+
+msgid "notice"
+msgstr "공지사항"
+
+msgid "Market"
+msgstr "거래소"
+
+msgid "Service"
+msgstr "투자/리스"
+
+msgid "Asset"
+msgstr "자산입출금"
+
+msgid "Portfolio"
+msgstr "자산조회"
+
+msgid "CMS page has been saved."
+msgstr "Cms 페이지가 저장되었습니다."
+
+msgid "Some Errors Occurred."
+msgstr "일부 오류가 발생했습니다."
+
+msgid "FAQ has been saved."
+msgstr "FAQ가 저장되었습니다."
+
+msgid "Please verify google authenticator"
+msgstr "Google 인증자를 확인하십시오."
+
+msgid "Amount should be greater than 0.02."
+msgstr "금액은 0.02보다 커야 합니다."
+
+msgid "All fields are required"
+msgstr "모든 필드가 필요합니다."
+
+msgid "Insufficient balance in wallet."
+msgstr "지갑 잔액이 부족합니다."
+
+msgid " withdrawal request generated."
+msgstr " 인출 요청이 생성되었습니다."
+
+msgid " withdrawal failed, Please Try Again."
+msgstr " 인출에 실패했습니다. 다시 시도하십시오."
+
+msgid "Invalid wallet address"
+msgstr "지갑 주소가 잘못되었습니다."
+
+msgid "Please enter security code."
+msgstr "보안 코드를 입력하십시오."
+
+msgid "Please enter valid code."
+msgstr "올바른 코드를 입력하십시오."
+
+msgid "Amount should be 100 or 200."
+msgstr "금액은 100 또는 200이어야 합니다."
+
+msgid " withdrawal successfully. Transactions ID: "
+msgstr " 탈퇴가 완료되었습니다. 트랜잭션 ID: "
+
+msgid "Amount should be 30 Only."
+msgstr "금액은 30만이어야 합니다."
+
+msgid "Please select the correct ETH amount."
+msgstr "올바른 ETH 금액을 선택하십시오."
+
+msgid "Please select the correct RAM amount."
+msgstr "올바른 RAM 금액을 선택하십시오."
+
+msgid "Please select the correct ADMC amount."
+msgstr "올바른 ADMC 금액을 선택하십시오."
+
+msgid "Please select a correct amount."
+msgstr "올바른 금액을 선택하십시오."
+
+msgid "Please select type"
+msgstr "유형을 선택하십시오."
+
+msgid "Please select the correct type."
+msgstr "올바른 유형을 선택하십시오."
+
+msgid "Please select the amount."
+msgstr "금액을 선택하세요."
+
+msgid "Insufficient Balance"
+msgstr "잔액이 부족합니다."
+
+msgid "Unable to deposit RAM Token"
+msgstr "RAM 토큰을 입금할 수 없습니다."
+
+msgid "Please enter valid currency"
+msgstr "올바른 통화를 입력하십시오."
+
+msgid "Exchange With NTR Successfully."
+msgstr "NTR과 성공적으로 교환했습니다."
+
+msgid "Amount should be greater than 0"
+msgstr "금액은 0보다 커야 합니다."
+
+msgid "Invalid transfer type"
+msgstr "전송 유형이 잘못되었습니다."
+
+msgid "Invalid currency"
+msgstr "통화가 잘못되었습니다."
+
+msgid "Annual Member Annual Trading Limit Exceeded. Total transferred: "
+msgstr "연간 회원 연간 거래 한도를 초과했습니다. 전송한 총계: "
+
+msgid "Annual Member One Day Trading Limit Exceed. Total transferred: "
+msgstr "연간 회원 1일 거래 제한이 초과되었습니다. 전송한 총계: "
+
+msgid "Please get annual membership to be eligible to transfer"
+msgstr "양도할 수 있는 연간 회원 자격을 얻으십시오."
+
+msgid "General User 1 Day Trading Limit Exceeded. Total transferred: "
+msgstr "일반 사용자 1일 거래 제한을 초과했습니다. 전송한 총계: "
+
+msgid "All Users Daily Trading Limit Exceeded. Total transferred: "
+msgstr "모든 사용자 일별 거래 제한이 초과되었습니다. 총 전송 수입니다: "
+
+msgid "General User Yearly Trading Limit Exceeded. Total transferred: "
+msgstr "일반 사용자 연간 거래 한도를 초과했습니다. 총 전송 수입니다: "
+
+msgid "All Users Annual Trading Limit Exceeded. Total transferred: "
+msgstr "모든 사용자의 연간 거래 한도를 초과했습니다. 총 전송 수입니다: "
+
+msgid "Amount transferred successfully to the trading account"
+msgstr "거래 계좌로 송금된 금액입니다."
+
+msgid "Unable to transfer this amount to the trading account"
+msgstr "이 금액을 거래 계좌로 전송할 수 없습니다."
+
+msgid "Unable to deduct this amount from the main account"
+msgstr "기본 계정에서 이 금액을 차감할 수 없습니다."
+
+msgid "Amount transferred successfully to the main account"
+msgstr "기본 계정으로 금액이 성공적으로 전송되었습니다."
+
+msgid "Unable to transfer this amount to the main account"
+msgstr "이 금액을 기본 계정에 전송할 수 없습니다."
+
+msgid "Unable to deduct this amount from the trading account"
+msgstr "거래 계정에서 이 금액을 차감할 수 없습니다."
+
+msgid "Maximum Trading Limit Exceeded"
+msgstr "최대 거래 한도를 초과했습니다."
+
+msgid "Minimum Trading Limit Exceeded"
+msgstr "최소 거래 한도를 초과했습니다."
+
+msgid "Invalid Request"
+msgstr "잘못된 요청입니다."
+
+msgid "You have deposited successfully. We will verify it soon"
+msgstr "성공적으로 입금되었습니다. 곧 확인하겠습니다."
+
+msgid "You have deposited successfully. We will verify it soon. But your transaction is not saved"
+msgstr "성공적으로 입금되었습니다. 곧 확인하겠습니다. 그러나 트랜잭션이 저장되지 않았습니다."
+
+msgid "Incorrect Password"
+msgstr "암호가 올바르지 않습니다."
+
+msgid "Please get annual membership to be eligible to buy coupons"
+msgstr "쿠폰을 구입할 수 있는 자격을 얻으려면 연간 멤버십을 받으십시오."
+
+msgid "Amount or price should be positive"
+msgstr "금액이나 가격은 플러스 값이어야 합니다."
+
+msgid "Order placed successfully"
+msgstr "주문이 성공적으로 배치되었습니다."
+
+msgid "Minimum amount to receive should be 1 USD"
+msgstr "받을 최소 금액은 1 USD여야 합니다."
+
+msgid "Request sent successfully"
+msgstr "요청이 성공적으로 전송되었습니다."
+
+msgid "Unable to send the request"
+msgstr "요청을 보낼 수 없습니다."
+
+msgid "Please enter the authentication code sent in your email"
+msgstr "이메일로 보낸 인증 코드를 입력하십시오."
+
+msgid "Your email has been verified!"
+msgstr "이메일이 확인되었습니다!"
+
+msgid "The authentication code you entered is invalid!"
+msgstr "입력한 인증 코드가 올바르지 않습니다!"
+
+msgid "Please enter account number"
+msgstr "계정 번호를 입력하십시오."
+
+msgid "Bank Account Verified"
+msgstr "은행 계좌가 확인되었습니다."
+
+msgid "Unable to verify bank account! Please Try Again."
+msgstr "은행계좌를확인할수없습니다! 다시 시도하십시오."
+
+msgid "Please enter account number and select bank"
+msgstr "계좌 번호를 입력하고 은행을 선택하십시오."
+
+msgid "Your own Photo with clearly visible face is required"
+msgstr "얼굴이 선명하게 보이는 나만의 사진이 필요합니다."
+
+msgid "File size should not exceed 5 MB"
+msgstr "파일 크기는 5MB를 초과할 수 없습니다."
+
+msgid "File size should not exceed 2 MB"
+msgstr "파일 크기는 2MB를 초과할 수 없습니다."
+
+msgid "Please only upload images in (gif, png, jpg) formats"
+msgstr "이미지는 (gif, png, jpg) 형식으로만 업로드하십시오."
+
+msgid "ID PHOTO is required"
+msgstr "ID 사진이 필요합니다."
+
+msgid "Documents Uploaded Successfully"
+msgstr "문서가 성공적으로 업로드되었습니다."
+
+msgid "User information has been updated"
+msgstr "사용자 정보가 업데이트되었습니다."
+
+msgid "Enter a Valid Email"
+msgstr "올바른 전자 메일을 입력하십시오."
+
+msgid "Username should be alphanumeric"
+msgstr "사용자 이름은 영숫자여야 합니다."
+
+msgid "Invalid Referral Code"
+msgstr "잘못된 조회 코드입니다."
+
+msgid "Successfully registered. Please Check email to verify your email"
+msgstr "등록되었습니다. 이메일을 확인하여 이메일을 확인하십시오."
+
+msgid "Your account is not verified."
+msgstr "계정이 확인되지 않았습니다."
+
+msgid "Password and confirm password should be same"
+msgstr "암호와 암호 확인은 동일해야 합니다."
+
+msgid "Invalid Registration"
+msgstr "잘못된 등록입니다."
+
+msgid "Unable to register ! Please Try Again"
+msgstr "등록할 수 없습니다! 다시 시도하십시오."
+
+msgid "New password and confirm password should be same"
+msgstr "새 암호와 암호 확인은 동일해야 합니다."
+
+msgid "Your password has been updated"
+msgstr "암호가 업데이트되었습니다."
+
+msgid "You entered incorrect current password"
+msgstr "현재 암호를 잘못 입력했습니다."
+
+msgid "Your account has been activated"
+msgstr "계정이 활성화되었습니다."
+
+msgid "Your account has been verified already"
+msgstr "계정이 이미 확인되었습니다."
+
+msgid "Please enter verification code"
+msgstr "확인 코드를 입력하십시오."
+
+msgid "Invalid mobile phone number"
+msgstr "휴대 전화 번호가 잘못되었습니다."
+
+msgid "New Password sent to your mobile number"
+msgstr "휴대폰 번호로 새 암호를 보냈습니다."
+
+msgid "Invalid User"
+msgstr "잘못된 사용자입니다."
+
+msgid "New and confirm passwords are not same"
+msgstr "새 암호와 확인 암호가 일치하지 않습니다."
+
+msgid "Please fill all the fields"
+msgstr "모든 필드를 입력하십시오."
+
+msgid "Password updated"
+msgstr "암호가 업데이트되었습니다."
+
+msgid "Please check your email to get your password."
+msgstr "암호를 얻으려면 전자 메일을 확인하십시오."
+
+msgid "This email does not exist"
+msgstr "이 이메일은 존재하지 않습니다."
+
+msgid "Please verify google authenticator first"
+msgstr "먼저 Google 인증자를 확인하십시오."
+
+msgid "2FA option saved"
+msgstr "2FA 옵션이 저장되었습니다."
+
+msgid "Unable to save 2FA! Please Try Again!"
+msgstr "2FA를 저장할 수 없습니다! 다시 시도하십시오!"
+
+msgid "No User Found"
+msgstr "사용자를 찾을 수 없습니다."
+
+msgid "Code sent to your mobile phone"
+msgstr "휴대폰으로 코드를 보냈습니다."
+
+msgid "Authenticated successfully"
+msgstr "인증되었습니다."
+
+msgid "You entered invalid code"
+msgstr "잘못된 코드를 입력했습니다."
+
+msgid "* fields are required"
+msgstr "* 필드는 필수입니다."
+
+msgid "Invalid Image Format! Image format must Be JPG, JPEG or PNG."
+msgstr "이미지 형식이 잘못되었습니다! 이미지 형식은 JPG, JPEG 또는 PNG여야 합니다."
+
+
+msgid "Your Ticket submitted successfully. We will reply soon"
+msgstr "티켓이 성공적으로 제출되었습니다. 곧 답장할게요."
+
+msgid "Unable to submit the ticket."
+msgstr "티켓을 제출할 수 없습니다."
+
+msgid "Your Message submitted successfully. We will reply soon"
+msgstr "메시지가 성공적으로 제출되었습니다. 곧 답장할게요."
+
+msgid "Unable to submit message."
+msgstr "메시지를 제출할 수 없습니다."
+
+msgid "No Coin Found"
+msgstr "코인을 찾을 수 없습니다."
+
+msgid "RAM amount should be numeric"
+msgstr "RAM 크기는 숫자여야 합니다."
+
+msgid "RAM amount should be positive"
+msgstr "RAM 크기는 양수여야 합니다."
+
+msgid "Invalid Unique Address."
+msgstr "고유 주소가 잘못되었습니다."
+
+msgid "Level 1 cannot be withdrawn"
+msgstr "레벨 1 단계는 출금이 불가합니다"
+
+msgid "Do you want to go to the authentication stage?"
+msgstr "인증 단계로 이동하시겠습니까?"
+
+msgid "There is a deposit and withdrawal request currently pending"
+msgstr "대기중인 입출금 요청이 있습니다"
+
+msgid "There is an empty item"
+msgstr "비어 있는 항목이 있습니다"
+
+msgid "There's a problem with the amount."
+msgstr "금액에 문제가 있습니다"
+
+msgid "You can withdraw up to three times the total deposit"
+msgstr "총 입금액의 3배까지만 출금이 가능합니다.<br> 출금 유의사항을 확인해주세요"
+
+msgid "The withdrawal conditions were not met"
+msgstr "출금 조건을 만족하지 않았습니다.<br> 출금 유의사항을 확인해주세요"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+msgid "Reference"
+msgstr "참조"
+
+msgid "Reference Amount"
+msgstr "참조 금액입니다"
+
+msgid "To"
+msgstr "로"
+
+msgid "From"
+msgstr "부터"
+
+msgid "Coins"
+msgstr "코인"
+
+msgid "No record found"
+msgstr "레코드를 찾을 수 없습니다."
+
+msgid "Requests"
+msgstr "요청"
+
+msgid "Transactions"
+msgstr "트랜잭션"
+
+msgid "Username"
+msgstr "고객명"
+
+msgid "Transaction ID"
+msgstr "트랜잭션 ID"
+
+msgid "Yes"
+msgstr "네"
+
+msgid "No"
+msgstr "아니요"
+
+msgid "No pending requests"
+msgstr "보류 중인 요청이 없습니다."
+
+msgid "Request changed successfully!"
+msgstr "요청이 성공적으로 변경되었습니다!"
+
+msgid "Accepted"
+msgstr "수락"
+
+msgid "Rejected"
+msgstr "거절"
+
+msgid "403 Error"
+msgstr "403 오류입니다."
+
+msgid "Request not updated!"
+msgstr "요청이 업데이트되지 않았습니다!"
+
+msgid "Send "
+msgstr "보내기"
+
+msgid "Send BTC Coin"
+msgstr "BTC 코인을 보냅니다."
+
+msgid "Enter user wallet address: "
+msgstr "사용자 지갑 주소를 입력해주세요: "
+
+msgid "Value: "
+msgstr "값: "
+
+msgid "Transaction ID: "
+msgstr "트랜잭션 ID"
+
+msgid "Please enter the Transaction ID"
+msgstr "트랜잭션 ID를 입력해주세요"
+
+msgid "Start Date"
+msgstr "시작 날짜"
+
+msgid "End Date"
+msgstr "종료 날짜"
+
+msgid "First"
+msgstr "첫"
+
+msgid "Next"
+msgstr "다음"
+
+msgid "Prev"
+msgstr "이전"
+
+msgid "Last"
+msgstr "마지막"
+
+msgid "Are you sure?"
+msgstr "확실하나요?"
+
+msgid "Coin Management"
+msgstr "코인 관리"
+
+msgid "Add Coin"
+msgstr "코인 추가"
+
+msgid "Coin Name: "
+msgstr "코인명: "
+
+msgid "Coin Short Name: "
+msgstr "코인 Short Name: "
+
+msgid "Coin Short Name"
+msgstr "코인의 줄임말"
+
+msgid "Icon"
+msgstr "아이콘"
+
+msgid "Icon: "
+msgstr "아이콘: "
+
+msgid " Price: "
+msgstr "가격: "
+
+msgid "Total Coins: "
+msgstr "총 코인: "
+
+msgid "Main Wallet To Trading Wallet Transfer Limit: "
+msgstr "메인 지갑에서 트레이딩 지갑 이체 한도: "
+
+msgid "Record deleted successfully!"
+msgstr "레코드가 삭제되었습니다!"
+
+msgid "You do not have permission to perform this action"
+msgstr "이 작업을 수행할 권한이 없습니다."
+
+msgid "This record is being referenced at other place. So, you cannot delete it."
+msgstr "이 레코드는 다른 위치에서 참조되고 있습니다. 따라서 삭제할 수 없습니다."
+
+msgid "Coin Pair Management"
+msgstr "코인 페어 관리"
+
+msgid "Add Coin Pair"
+msgstr "코인 페어 추가"
+
+msgid "First Coin: "
+msgstr "첫 코인: "
+
+msgid "First Coin"
+msgstr "첫 코인"
+
+msgid "Second Coin: "
+msgstr "두번째 코인: "
+
+msgid "Second Coin"
+msgstr "두번째 코인"
+
+msgid "Max Min Price %: "
+msgstr "최대 최소 가격 백분율 %: "
+
+msgid "Max Min Price %"
+msgstr "최대 최소 가격 백분율 %"
+
+msgid "Order No.: "
+msgstr "주문번호: "
+
+msgid "Order No."
+msgstr "주문번호"
+
+msgid "List of Coin Pairs"
+msgstr "코인페어 목록"
+
+msgid "Add new coin pair"
+msgstr "새 코인 페어 추가"
+
+msgid "Token Management"
+msgstr "토큰 관리"
+
+msgid "Edit Token"
+msgstr "토큰 관리"
+
+msgid "Serial No.: "
+msgstr "일련 번호: "
+
+msgid "Price in USD: "
+msgstr "가격(USD): "
+
+msgid "Add new coin"
+msgstr "새 코인을 추가"
+
+msgid "List of Coins"
+msgstr "코인 목록"
+
+msgid "Price in USD"
+msgstr "가격(USD)"
+
+msgid "Send Rewards List"
+msgstr "보상 리스트 전송"
+
+msgid "Phone Number"
+msgstr "전화번호"
+
+msgid "Coin Amount"
+msgstr "코인 금액"
+
+msgid "Coin Amount: "
+msgstr "코인 금액: "
+
+msgid "Rewards Management"
+msgstr "보상 관리"
+
+msgid "Send Rewards"
+msgstr "보상 보내기"
+
+msgid "Please select user"
+msgstr "사용자를 선택해주세요."
+
+msgid "Rewards Withdrawal Management"
+msgstr "보상 인출 관리"
+
+msgid "Rewards Withdrawal"
+msgstr "보상 인출"
+
+msgid "Rewards Withdrawals List"
+msgstr "보상 인출 목록"
+
+msgid "Queries "
+msgstr "문의 "
+
+msgid "Contact Us"
+msgstr "1대1 문의"
+
+msgid "Conversations"
+msgstr "대화"
+
+msgid "Query"
+msgstr "질의"
+
+msgid "Send Response"
+msgstr "응답 전송"
+
+msgid "Old Messages"
+msgstr "이전 메시지"
+
+msgid "Send Reward"
+msgstr "보상 보내기"
+
+msgid "Withdraw Reward"
+msgstr "보상 철회"
+
+msgid "Issue"
+msgstr "발행"
+
+msgid "Issue Type"
+msgstr "발행 유형"
+
+msgid "Sent at"
+msgstr "보냈다"
+
+msgid "Show TX ID"
+msgstr "트랜잭션 ID 표시"
+
+msgid "Deposit Application List"
+msgstr "투자 신청 목록"
+
+msgid "Google Sheet"
+msgstr "구글 시트"
+
+msgid "Deposit Fee Calculator"
+msgstr "투자 수익금 설정"
+
+msgid "Deposit Fee Calculator List"
+msgstr "투자 수익금 설정 리스트"
+
+msgid "Deposit Log List"
+msgstr "투자 수익금 로그"
+
+msgid "Deposit Wallet List"
+msgstr "투자 수익금 지갑"
+
+msgid "Listing"
+msgstr "리스트링"
+
+msgid "ETH Address"
+msgstr "ETH 주소"
+
+msgid "BTC Address"
+msgstr "BTC 주소"
+
+msgid "User Level"
+msgstr "사용자 레벨"
+
+msgid "Registration Date"
+msgstr "등록 날짜"
+
+msgid "Logs"
+msgstr "로그"
+
+msgid "Information"
+msgstr "정보"
+
+msgid "User Info"
+msgstr "고객 정보"
+
+msgid "Target"
+msgstr "대상"
+
+msgid "Reward List ID"
+msgstr "보상 목록 ID"
+
+msgid "Type: "
+msgstr "유형: "
+
+msgid "Buy List"
+msgstr "구매 목록"
+
+msgid "Sell List"
+msgstr "판매 목록"
+
+msgid "Export"
+msgstr "수출"
+
+msgid "Total Amount Spent"
+msgstr "총 지출액"
+
+msgid "Total Amount Received"
+msgstr "받은 총 금액"
+
+msgid "Amount Spent"
+msgstr "지출액"
+
+msgid "Coins Spent"
+msgstr "코인 사용액"
+
+msgid "Amount Received"
+msgstr "받은 금액"
+
+msgid "Coins Received"
+msgstr "받은 코인"
+
+msgid "Rate"
+msgstr "요금료"
+
+msgid "Admin Fees"
+msgstr "관리 수수료"
+
+msgid "Exchange Transactions"
+msgstr "환전 거래"
+
+msgid "Exchange Transactions List"
+msgstr "환전 거래 목록"
+
+msgid "Coins Exchanged"
+msgstr "코인 교환"
+
+msgid "Report"
+msgstr "보고하다"
+
+msgid "Volume Report"
+msgstr "용량 보고서"
+
+msgid "Buy Volume"
+msgstr "구매량"
+
+msgid "Sell Volume"
+msgstr "판매량"
+
+msgid "Do you really want to impersonate?"
+msgstr "해당 계정으로 접속하시겠습니까?"
+
+msgid "Do you really want to change the status?"
+msgstr "상태를 변경하시겠습니까?"
+
+msgid "Do you really want to change the status to DEACTIVE?"
+msgstr "상태를 DEACTIVE로 변경하시겠습니까?"
+
+msgid "Do you really want to change the status to ACTIVE?"
+msgstr "상태를 ACTIVE로 변경하시겠습니까?"
+
+msgid "Status changed successfully!"
+msgstr "상태가 성공적으로 변경되었습니다!"
+
+msgid "Main Menu Management"
+msgstr "메인 메뉴 관리"
+
+msgid "Add Menu/Menu Item"
+msgstr "메뉴 또는 메뉴 항목을 추가"
+
+msgid "Menu/Menu Item Name: "
+msgstr "메뉴 또는 메뉴 항목 이름: "
+
+msgid "Admin Level: "
+msgstr "관리 수준: "
+
+msgid "Hierarchy: "
+msgstr "계층: "
+
+msgid "Hierarchy Name: "
+msgstr "계층 이름: "
+
+msgid "Please Select"
+msgstr "선택해주세요"
+
+msgid "Withdrawals"
+msgstr "출금"
+
+msgid "Deposits"
+msgstr "예금"
+
+msgid "Users"
+msgstr "고객"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "E-Pay"
+msgstr "E-Pay"
+
+msgid "Direct Input"
+msgstr "직접 입력"
+
+msgid "Hierarchy 1st Icon: "
+msgstr "계층 첫 번째 아이콘: "
+
+msgid "Hierarchy 2nd Icon: "
+msgstr "계층 두 번째 아이콘: "
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Check the menu name"
+msgstr "메뉴 이름 확인"
+
+msgid "Check the URL"
+msgstr "URL 확인"
+
+msgid "Edit the Menu"
+msgstr "메뉴 편집"
+
+msgid "Created: "
+msgstr "작성일: "
+
+msgid "Updated: "
+msgstr "수정일: "
+
+msgid "Last Admin ID: "
+msgstr "수정한 관리자 ID: "
+
+msgid "Add New Item"
+msgstr "새 항목 추가"
+
+msgid "Hierarchy Order"
+msgstr "계층 순서"
+
+msgid "Dashboard"
+msgstr "대시보드"
+
+msgid " Control Panel"
+msgstr " 제어판"
+
+msgid "Total Users"
+msgstr "총 사용자 수"
+
+msgid "Total Coins"
+msgstr "총 코인 수"
+
+msgid "More info"
+msgstr "추가 정보"
+
+msgid "Total Exchange Records"
+msgstr "교환한 총 레코드 수"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Sorry but we could not find this page"
+msgstr "죄송하지만 이 페이지를 찾을 수 없습니다."
+
+msgid "You do not have permission to access this page"
+msgstr "이 페이지에 액세스할 수 있는 권한이 없습니다."
+
+msgid "Administrators List"
+msgstr "관리자 목록"
+
+msgid "Administrators"
+msgstr "관리자"
+
+msgid "ACTIVE"
+msgstr "활성"
+
+msgid "Active"
+msgstr "활성"
+
+msgid "Deactive"
+msgstr "비활성"
+
+msgid "DEACTIVE"
+msgstr "비활성"
+
+msgstr "INACTIVE"
+msgstr "비활성"
+
+msgid "Inactive"
+msgstr "비활성"
+
+msgid "Add new administrator"
+msgstr "새 관리자 추가"
+
+msgid "Market"
+msgstr "거래소"
+
+msgid "Service"
+msgstr "투자/리스"
+
+msgid "Asset"
+msgstr "자산입출금"
+
+msgid "Portfolio"
+msgstr "자산조회"
+
+msgid "First"
+msgstr "처음"
+
+msgid "Prev"
+msgstr "이전"
+
+msgid "Next"
+msgstr "다음"
+
+msgid "Last"
+msgstr "마지막"
+
+msgid "Listing"
+msgstr "목록"
+
+msgid "Currency"
+msgstr "통화"
+
+msgid "Deposits List"
+msgstr "예금 목록"
+
+msgid "Data"
+msgstr "자료"
+
+msgid "Type"
+msgstr "유형"
+
+msgid "Show Attachment"
+msgstr "첨부파일 표시"
+
+msgid "ETH Withdrawal"
+msgstr "ETH 출금"
+
+msgid "Select a payment method"
+msgstr "지급 방법을 선택하십시오"
+
+msgid "Coin Payment"
+msgstr "코인 결제"
+
+msgid "Other"
+msgstr "기타"
+
+msgid "Processing"
+msgstr "처리"
+
+msgid "Generate Passwords"
+msgstr "암호 생성"
+
+msgid "ID Type"
+msgstr "ID 유형"
+
+msgid "ID Number"
+msgstr "ID 번호"
+
+msgid "ID Front"
+msgstr "ID 앞면"
+
+msgid "ID Back"
+msgstr "ID 뒤"
+
+msgid "ID Document Status"
+msgstr "ID 문서 상태"
+
+msgid "Scanned Documents"
+msgstr "스캔한 문서"
+
+msgid "Scanned Documents Status"
+msgstr "스캔한 문서 상태"
+
+msgid "Are you sure, that you really want to impersonate?"
+msgstr "해당 계정으로 접속하시겠습니까?"
+
+msgid "Total Coin Pairs"
+msgstr "총 코인 페어"
+
+msgid "Withdrawals List"
+msgstr "인출 목록"
+
+msgid "View in scroll form"
+msgstr "스크롤 형태로 보기"
+
+msgid "Coin spent"
+msgstr "코인 사용"
+
+msgid "Coin received"
+msgstr "코인수령"
+
+msgid "No of records"
+msgstr "레코드 수"
+
+msgid "Login Block"
+msgstr "로그인 차단"
+
+msgid "Login Unblock"
+msgstr "차단 해제"
+
+msgid "Edit"
+msgstr "수정"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Are you sure you want to block it?"
+msgstr "로그인을 차단하시겠습니까?"
+
+msgid "Are you sure you want to unblock it?"
+msgstr "로그인 차단을 해제하시겠습니까?"
+
+msgid "Alert"
+msgstr "경고"
+
+msgid "Login Block Message"
+msgstr "CoinIBT회원 상태가 동결되었습니다. <br>귀하의 계좌는 영구 정지될 수 있으며, <br>귀하의 모든 자산은 귀하의 지갑에 귀속됩니다."
+
+msgid "Send Reward List"
+msgstr "보상 목록 전송"
+
+msgid "Rewards sent by Admin"
+msgstr "관리자가 보낸 보상"
+
+msgid "Account transfers by Users"
+msgstr "사용자별 계좌이체"
+
+msgid "Total Deposited Amount: "
+msgstr "입금총액: "
+
+msgid "Total Wallet → Main Account Amount: "
+msgstr "총 지갑 → 메인 계정 금액: "
+
+msgid "Total Wallet ← Main Account Amount: "
+msgstr "지갑 ← 메인 계정 금액: "
+
+msgid "Total CTC Wallet → Main Account Amount: "
+msgstr "총 CTC 지갑 → 메인 계정 금액: "
+
+msgid "Wallet → Main Account"
+msgstr "지갑 → 메인 계정"
+
+msgid "Total amount deposited"
+msgstr "입금총액"
+
+msgid "Total amount purchased"
+msgstr "매입총액"
+
+msgid "Total amount withdrawn"
+msgstr "인출총액"
+
+msgid "Total CTC wallet purchased amount"
+msgstr "CTC지갑구매총액"
+
+msgid "Total amount transferred from Main to Trading account"
+msgstr "메인에서 트레이딩으로 이체된 총 금액"
+
+msgid "Total amount transferred from Trading to Main account"
+msgstr "트레이딩에서 메인으로 이전된 총 금액"
+
+msgid "Total Main Account → Trading Account Amount: "
+msgstr "총 메인 계정 → 트레이딩 계정 금액: "
+
+msgid "Total Trading Account → Main Account Amount: "
+msgstr "총 트레이딩 계정 → 메인 거래 금액: "
+
+msgid "Main Account → Trading Account"
+msgstr "메인 → 트레이딩"
+
+msgid "Trading Account → Main Account"
+msgstr "트레이딩 → 메인"
+
+msgid "Wallet ← Main Account"
+msgstr "지갑 ← 메인 계정"
+
+msgid "Withdrawal Reward"
+msgstr "인출 보상"
+
+msgid "Coin Pairs"
+msgstr "코인 페어"
+
+msgid "Withdrawal Reward List"
+msgstr "인출 보상 목록"
+
+msgid "Fee Setting"
+msgstr "수수료 설정"
+
+msgid "Fees Details"
+msgstr "수수료 세부 정보"
+
+msgid "Transfer Amount"
+msgstr "송금액"
+
+msgid "Users Deposit Amount"
+msgstr "사용자 입금 금액"
+
+msgid "Users Withdrawal Amount"
+msgstr "사용자 인출 금액"
+
+msgid "Users Coins Withdrawal Amount"
+msgstr "사용자 코인 인출 금액"
+
+msgid "Users Coupons List"
+msgstr "사용자 쿠폰 목록"
+
+msgid "Admin Coupons List"
+msgstr "관리자 쿠폰 목록"
+
+msgid "Generate keys"
+msgstr "키 생성"
+
+msgid "Logout"
+msgstr "로그아웃"
+
+msgid "Activate"
+msgstr "작동시키다"
+
+msgid "Deactivate"
+msgstr "비활성화"
+
+msgid "Withdrawal Rewards"
+msgstr "인출 보상"
+
+msgid "Admin Fees Settings"
+msgstr "관리자 수수료 설정"
+
+msgid "Deposit Fees %"
+msgstr "입금수수료 %"
+
+msgid "Withdrawal Fees %"
+msgstr "출금수수료 %"
+
+msgid "Main Account → Trading Account Transfer Fees %"
+msgstr "메인 계정 → 트레이딩 계정 이전 수수료 %"
+
+msgid "Trading Account → Main Account Transfer Fees %"
+msgstr "트레이딩 → 메인 계정 이전 수수료 %"
+
+msgid "Buy/Sell Fees %"
+msgstr "매입/판매수수료 %"
+
+msgid "Loan Deposit Fees %"
+msgstr "대출예금수수료 %"
+
+msgid "Fees Details"
+msgstr "수수료내역"
+
+msgid "Buy Fees Details"
+msgstr "구매 수수료 세부 정보"
+
+msgid "Buy Fees"
+msgstr "구매 수수료"
+
+msgid "Sell Fees"
+msgstr "판매 수수료"
+
+msgid "Sell Fees Details"
+msgstr "판매 수수료 세부 정보"
+
+msgid "Internal Account Transfer Fees"
+msgstr "내부계좌이체수수료"
+
+msgid "Internal Account Transfer Fees Details"
+msgstr "내부계좌이체수수료 세부 사항"
+
+msgid "Withdrawal Fees"
+msgstr "출금수수료"
+
+msgid "Withdrawal Fees Details"
+msgstr "출금수수료 세부 사항"
+
+msgid "Loan Deposit Fees"
+msgstr "대출예금수수료"
+
+msgid "Loan Deposit Fees Details"
+msgstr "대출예금수수료 세부 사항"
+
+msgid "Spent Coin"
+msgstr "사용 코인"
+
+msgid "Spent Amount"
+msgstr "사용금액"
+
+msgid "Bought Coin"
+msgstr "사들인 코인"
+
+msgid "Bought Amount"
+msgstr "매입액"
+
+msgid "Per Price"
+msgstr "각가격"
+
+msgid "Created From Buy Order"
+msgstr "구매 주문에서 생성됨"
+
+msgid "Created from buy order"
+msgstr "구매 주문에서 생성됨"
+
+msgid "Created from sell order"
+msgstr "판매 주문에서 생성됨"
+
+msgid "Created From Sell Order"
+msgstr "판매 주문에서 생성됨"
+
+msgid "Created at"
+msgstr "생성일"
+
+msgid "Coins Management"
+msgstr "코인 관리"
+
+msgid "Rewards"
+msgstr "보상 관리"
+
+msgid "Coupons"
+msgstr "쿠폰 관리"
+
+msgid "User Management"
+msgstr "사용자 관리"
+
+msgid "Users' Balance"
+msgstr "사용자 균형"
+
+msgid "Users' Transactions Details"
+msgstr "사용자 트랜잭션 세부 정보"
+
+msgid "KYC List"
+msgstr "KYC 목록"
+
+msgid "Users Auth Change Requests"
+msgstr "사용자 인증 변경 요청"
+
+msgid "Users List"
+msgstr "사용자 목록"
+
+msgid "Updated at"
+msgstr "수정일"
+
+msgid "E-Pay"
+msgstr "이-페이"
+
+msgid "Deleted"
+msgstr "삭제됨"
+
+msgid "Sell Get Coin"
+msgstr "팔고 받은 코인"
+
+msgid "Sell Get Amount"
+msgstr "판돈을 내다"
+
+msgid "Transaction Type"
+msgstr "거래 유형"
+
+msgid "Remarks"
+msgstr "언급"
+
+msgid "Loan Deposit"
+msgstr "투자/대출"
+
+msgid "Users Wallet"
+msgstr "사용자 지갑"
+
+msgid "Users Deposit Amount List"
+msgstr "사용자 입금 금액 목록"
+
+msgid "Please select record number"
+msgstr "레코드 번호를 선택하십시오"
+
+msgid "Impersonate"
+msgstr "계정 접속"
+
+msgid "User Lists"
+msgstr "고객 목록"
+
+msgid "Kyc List"
+msgstr "KYC 목록"
+
+msgid "User Balance"
+msgstr "고객 밸런스"
+
+msgid "Users' Details"
+msgstr "고객 상세보기"
+
+msgid "Users' Auth Change Requests"
+msgstr "고객 정보 변경 목록"
+
+msgid "Users Principal Wallet Details"
+msgstr "고객 지갑 목록"
+
+msgid "Users Transactions Details"
+msgstr "고객 트랜잭션 목록"
+
+msgid "Assign Levels"
+msgstr "관리자 레벨"
+
+msgid "Admins"
+msgstr "관리자 목록"
+
+msgid "Left Bar"
+msgstr "관리자 메뉴"
+
+msgid "Add Coin Address"
+msgstr "코인 주소 추가"
+
+msgid "Export"
+msgstr "다운"
+
+msgid "Block"
+msgstr "차단"
+
+msgid "One Week"
+msgstr "일주일"
+
+msgid "One Month"
+msgstr "한달"
+
+msgid "The maximum search range is 31 days."
+msgstr "최대 검색 범위는 31일 입니다."
+
+msgid "Investment List"
+msgstr "투자 신청 목록"
+
+msgid "Investment Profits Setting"
+msgstr "수익금 설정"
+
+msgid "Investment Profits Setting List"
+msgstr "수익금 설정 목록"
+
+msgid "Investment Profits Log List"
+msgstr "수익금 로그"
+
+msgid "Investment Profits Wallet List"
+msgstr "수익금 지갑"
+
+msgid "Select Stage"
+msgstr "기수 선택"
+
+msgid "Select Status"
+msgstr "상태 선택"
+
+msgid "Reset"
+msgstr "초기화"
+
+msgid "Accept All"
+msgstr "전체 승인"
+
+msgid "Investment Stage"
+msgstr "투자 기수"
+
+msgid "Number Of Received"
+msgstr "받은 횟수"
+
+msgid "Amount Received"
+msgstr "받은 금액"
+
+msgid "Total Withdrawal Amount"
+msgstr "총 인출 금액"
+
+msgid "Total Amount Received"
+msgstr "총 받은 금액"
+
+msgid "Select coin spent"
+msgstr "사용후동전선택"
+
+msgid "Select coin received"
+msgstr "받은 코인 선택"
+
+msgid "Total Bought Amount: "
+msgstr "구입한 총 금액: "
+
+msgid "Status:"
+msgstr "상태:"
+
+msgid "Spent Coin:"
+msgstr "사용후 동전:"
+
+msgid "Received Coin:"
+msgstr "사용후 동전:"
+
+msgid "Total Sold Amount: "
+msgstr "판매총액: "
+
+msgid "Stage"
+msgstr "기수"
+
+msgid "Earned Data (Amount)"
+msgstr "적립데이터 (금액)"
+
+msgid "Number of people to be counted"
+msgstr "계산에 들어갈 인원수"
+
+msgid "Cycle"
+msgstr "주기"
+
+msgid "the number of people"
+msgstr "인원"
+
+msgid "Manual payment"
+msgstr "수동 지급"
+
+msgid "Stand By"
+msgstr "대기"
+
+msgid "Ongoing"
+msgstr "진행중"
+
+msgid "Termination"
+msgstr "완료"
+
+msgid "Days Of Remain"
+msgstr "남은 일"
+
+msgid "Remain"
+msgstr "남은"
+
+msgid "Last updated"
+msgstr "최종 처리 날짜"
+
+msgid "Do you want to approve all except cancellation and expiration?"
+msgstr "취소 및 만료 제외 전체 승인 처리 하시겠습니까?"
+
+msgid "No history to approve"
+msgstr "승인할 목록이 없습니다"
+
+msgid "Start paying interest on investment services"
+msgstr "투자서비스 이자 지급 시작"
+
+msgid "End of Interest Payment for Investment Services"
+msgstr "투자서비스 이자 지급 종료"
+
+msgid "It's already been paid today"
+msgstr "오늘은 이미 지급되었습니다"
+
+msgid "There is a failed payment. Please check the log"
+msgstr "실패된 지급이 있습니다. 로그를 확인해주세요"
+
+msgid "Payment completed"
+msgstr "지급 완료"
+
+msgid "No data is set data"
+msgstr "설정된 데이터가 없습니다"
+
+msgid "No application list for this order"
+msgstr "해당 차수 신청 목록 없음"
+
+msgid "Created"
+msgstr "생성일"
+
+msgid "Run"
+msgstr "실행"
+
+msgid "Please select an investment stage"
+msgstr "투자 기수를 선택해주세요"
+
+msgid "Please enter the period to be paid"
+msgstr "지급해야할 기간을 입력해주세요"
+
+msgid "Please enter the accumulated data to be calculated"
+msgstr "계산에 넣을 적립데이터를 입력해주세요"
+
+msgid "Please enter the number of people to count"
+msgstr "계산에 넣을 인원수를 입력주세요"
+
+msgid "Do you want to enter data?"
+msgstr "데이터를 입력하시겠습니까?"
+
+msgid "Do you want to pay manually?"
+msgstr "수동지급하시겠습니까?"
+
+msgid "Stop"
+msgstr "정지"
+
+msgid "Proceed"
+msgstr "진행하기"
+
+msgid "Please refresh and try again"
+msgstr "새로고침 후 다시 시도해주세요"
+
+msgid "Please enter a value"
+msgstr "값을 입력해주세요"
+
+msgid "Please enter a fee"
+msgstr "수수료를 입력해주세요"
+
+msgid "Do you really want to change?"
+msgstr "변경하시겠습니까?"
+
+msgid "Do you really want to add?"
+msgstr "추가하시겠습니까?"
+
+msgid "Stop Stage"
+msgstr "정지 단계"
+
+msgid "Select Type"
+msgstr "유형 선택"
+
+msgid "Number"
+msgstr "번호"
+
+msgid "CS Corner"
+msgstr "고객센터"
+
+msgid "CS Center"
+msgstr "고객센터"
+
+msgid "Annual Membership Date"
+msgstr "연간 회원 날짜"
+
+msgid "Membership Expiry Date"
+msgstr "연간 회원 만료일"
+
+msgid "Disable Deposit"
+msgstr "입금 차단"
+
+msgid "Date of Registration"
+msgstr "가입일"
+
+msgid "Select Month"
+msgstr "월 선택"
+
+msgid "Remark"
+msgstr "비고"
+
+msgid "User Name"
+msgstr "고객명"
+
+msgid "Current Balance"
+msgstr "현재 밸런스"
+
+msgid "Exchange ID"
+msgstr "거래 ID"
+
+msgid "Exchange History ID"
+msgstr "거래 로그 ID"
+
+msgid "Date & Time Created"
+msgstr "생성일"
+
+msgid "Date & Time Updated"
+msgstr "수정일"
+
+msgid "Auth Level"
+msgstr "인증 단계"
+
+msgid "Total Buy/Sell Amount"
+msgstr "총 구매/판매 금액"
+
+msgid "action"
+msgstr "동작"
+
+msgid "Remove Email Auth"
+msgstr "이메일 인증 지우기"
+
+msgid "Remove Bank Auth"
+msgstr "은행 인증 지우기"
+
+msgid "Remove OTP Auth"
+msgstr "OTP 인증 지우기"
+
+msgid "Show Action"
+msgstr "기능 보기"
+
+msgid "ID Front Side"
+msgstr "신분증 앞면"
+
+msgid "ID Back Side"
+msgstr "신분증 뒷명"
+
+msgid "Scanned Photo"
+msgstr "인증 사진"
+
+msgid "Reason"
+msgstr "이유"
+
+msgid "Not Uploaded"
+msgstr "업로드 하지 않음"
+
+msgid "Scan Copy Status"
+msgstr "스캔 복사 상태"
+
+msgid "Admin ID"
+msgstr "관리자 ID"
+
+msgid "Admin Name"
+msgstr "관리자명"
+
+msgid "Admin Phone Number"
+msgstr "관리자 번호"
+
+msgid "Admin Wallet Address"
+msgstr "관리자 지갑 주소"
+
+msgid "Coupon Currency"
+msgstr "쿠폰 통화"
+
+msgid "Coupon Amount"
+msgstr "쿠폰 금액"
+
+msgid "KRW Amount"
+msgstr "KRW 금액"
+
+msgid "Deducted Amount"
+msgstr "공제 금액"
+
+msgid "Select User"
+msgstr "고객을 선택해주세요"
+
+msgid "No of record"
+msgstr "미설정"
+
+msgid "completed"
+msgstr "완료"
+
+msgid "Bought Coupon"
+msgstr "구매 쿠폰"
+
+msgid "Main Balance"
+msgstr "메인 밸런스"
+
+msgid "Trading Balance"
+msgstr "트레이딩 밸런스"
+
+msgid "Do you want to change the status to Pending"
+msgstr "상태를 확인중으로 변경하시겠습니까?"
+
+msgid "Do you want change the status to Completed"
+msgstr "상태를 완료로 변경하시겠습니까?"
+
+msgid "You do not have permission to access this action."
+msgstr "권한이 없습니다."
+
+msgid "Users Requested List"
+msgstr "고객 요청 목록"
+
+msgid "Request"
+msgstr "요청"
+
+msgid "Bank Information Change Request"
+msgstr "계좌 정보 변경 요청"
+
+msgid "OTP Change Request"
+msgstr "OTP 변경 요청"
+
+msgid "Email Change Request"
+msgstr "이메일 변경 요청"
+
+msgid "Change Request Completed"
+msgstr "변경 완료"
+
+msgid "transfer to trading account"
+msgstr "트레이딩 계좌로 이체"
+
+msgid "deducted coupon krw"
+msgstr "공제 KRW 쿠폰 "
+
+msgid "coupon transfer to trading"
+msgstr "트레이딩으로 쿠폰 이체"
+
+msgid "bought coupon krw"
+msgstr "KRW 쿠폰 구매"
+
+msgid "transfer from trading account"
+msgstr "트레이딩 계좌에서 이체"
+
+msgid "bank initial withdraw"
+msgstr "출금"
+
+msgid "investment profits"
+msgstr "투자 수익금"
+
+msgid "bank initial deposit"
+msgstr "입금"
+
+msgid "pending"
+msgstr "확인중"
+
+msgid "investment profits krw"
+msgstr "투자 수익금 KRW"
+
+msgid "purchase"
+msgstr "구매"
+
+msgid "airdrop reward"
+msgstr "보상 지급"
+
+msgid "withdrawal"
+msgstr "인출"
+
+msgid "loan deposit"
+msgstr "투자 / 대출 서비스"
+
+msgid "deleted"
+msgstr "삭제됨"
+
+msgid "sell exchange"
+msgstr "판매 거래"
+
+msgid "buy exchange"
+msgstr "구매 거래"
+
+msgid "reserve for exchange"
+msgstr "교환 예약"
+
+msgid "adminFees"
+msgstr "관리자 수수료"
+
+msgid "reserve completed"
+msgstr "예약 완료"
+
+msgid "sell button click"
+msgstr "판매 버튼 클릭"
+
+msgid "buy button click"
+msgstr "구매 버튼 클릭"
+
+msgid "type is sell add spend amount for seller"
+msgstr "셀러를 위한 판매 추가 지출 금액"
+
+msgid "type is buy add spend amount for seller"
+msgstr "셀러를 위한 구매 추가 지출 금액"
+
+msgid "adminTranferFees"
+msgstr "관리자 이체 수수료"
+
+msgid "transfer to main account"
+msgstr "메인 계정으로 이체"
+
+msgid "transfer from main account"
+msgstr "메인 계정에서 이체"
+
+msgid "bought coupon"
+msgstr "쿠폰 구매"
+
+msgid "Main Settings"
+msgstr "메인 셋팅"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "View"
+msgstr "보기"
+
+msgid "Coin First"
+msgstr "첫번째 코인"
+
+msgid "Exchange 1 day"
+msgstr "하루 교환"
+
+msgid "Up Buy/Sell"
+msgstr "Up 구매/판매"
+
+msgid "Down Buy/Sell"
+msgstr "Down 구매/판매"
+
+msgid "Up Prev. Close Market"
+msgstr "Up Prev. Close Market"
+
+msgid "Down Prev. Close Market"
+msgstr "Down Prev. Close Market"
+
+msgid "Select Coin"
+msgstr "코인 선택"
+
+msgid "ALL USERS"
+msgstr "모든 고객"
+
+msgid "Main Account 1 day"
+msgstr "하루 메인 계정"
+
+msgid "Main Account 1 year"
+msgstr "일 년 메인 계정"
+
+msgid "GENERAL USERS"
+msgstr "일반 고객"
+
+msgid "ALL ANNUAL MEMBERSHIP USERS"
+msgstr "모든 연간 회원"
+
+msgid "User Category"
+msgstr "고객 카테고리"
+
+msgid "Select Period"
+msgstr "기간 선택"
+
+msgid "User's fees"
+msgstr "고객 수수료"
+
+msgid "Deposit Fee"
+msgstr "입금 수수료"
+
+msgid "Withdrawal Fee"
+msgstr "출금 수수료"
+
+msgid "Trading Account to Main Account Transfer Fee"
+msgstr "트레이딩에서 메인 이체 수수료"
+
+msgid "Main Account to Trading Account Transfer Fee"
+msgstr "메인에서 트레이딩 이체 수수료"
+
+msgid "Loan Deposit Fee"
+msgstr "대출 / 투자 수수료"
+
+msgid "Buy/Sell Fee"
+msgstr "판매/구매 수수료"
+
+msgid "Users fees"
+msgstr "고객 수수료"
+
+msgid "Select Level"
+msgstr "레벨 선택"
+
+msgid "Coupon Settings"
+msgstr "쿠폰 설정"
+
+msgid "Withdrawal % Settings"
+msgstr "출금 % 설정"
+
+msgid "Withdrawal Percentage"
+msgstr "출금 퍼센트"
+
+msgid "Level Management"
+msgstr "레벨 관리"
+
+msgid "Pages"
+msgstr "페이지"
+
+msgid "Show Pages"
+msgstr "페이지 보기"
+
+msgid "Administrators"
+msgstr "관리자"
+
+msgid "Leftbar List"
+msgstr "메뉴 목록"
+
+msgid "Admin Level"
+msgstr "관리자 레벨"
+
+msgid "Menu"
+msgstr "메뉴"
+
+msgid "Treeview"
+msgstr "트리뷰"
+
+msgid "Treeview name"
+msgstr "트리뷰명"
+
+msgid "Treeview Order"
+msgstr "트리뷰 순서"
+
+msgid "Order"
+msgstr "순서"
+
+msgid "use"
+msgstr "사용"
+
+msgid "Check Address Usage"
+msgstr "사용 주소 체크 (업데이트)"
+
+msgid "Fill an Addressless User"
+msgstr "주소 없는 유저 채우기"
+
+msgid "Add Tmp Coin Address"
+msgstr "코인 주소 추가"
+
+msgid "Notices"
+msgstr "공지사항 리스트"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Detail"
+msgstr "상세보기"
+
+msgid "View in scroll form"
+msgstr "스크롤 형태로 보기"
+
+msgid "Normal"
+msgstr "보통"
+
+msgid "Sr No."
+msgstr "일련 번호."
+
+msgid "Management"
+msgstr "관리"
+
+msgid "Epay Settings"
+msgstr "에페이 설정"
+
+msgid "Epay"
+msgstr "에페이"
+
+msgid "Admin Panel Menu"
+msgstr "관리자 패널 메뉴"
+
+msgid "Fees Settings"
+msgstr "수수료 설정"
+
+msgid "Generate Coin Address"
+msgstr "동전 주소 생성"
+
+msgid "Select Coin"
+msgstr "동전 선택"
+
+msgid "Upload CSV"
+msgstr "업로드 CSV"
+
+msgid "Generate"
+msgstr "생성"
+
+msgid "Please select email"
+msgstr "이메일 주소를 선택하십시오"
+
+msgid "Current Price Info"
+msgstr "현재가 정보"
+
+msgid "Bid and Ask Info"
+msgstr "호가 정보"
+
+msgid "Transaction History"
+msgstr "체결 내역"
+
+msgid "Public API provides following COINIBT exchange market information."
+msgstr "Public API는 아래와 같은 가상자산 시장정보를 제공합니다."
+
+msgid "API Introduction"
+msgstr "API 소개"
+
+msgid "COINIBT REST API is various features of COINIBT opened to public to encourage external Programmers and Users to develop services and applications."
+msgstr "COINIBT 거래소 REST API는 COINIBT에서 제공하는 다양한 기능을 외부 개발자와 사용자들이 쉽게 이용하여 서비스 및 애플리케이션을 개발할 수 있도록 공개한 기술입니다."
+
+msgid "Provides price information of COINIBT Exchange's virtual asset."
+msgstr "요청 당시 COINIBT 거래소 가상자산 현재가 정보를 제공합니다."
+
+msgid "Default"
+msgstr "기본값"
+
+msgid "Value"
+msgstr "입력값"
+
+msgid "Order currency(Coin)"
+msgstr "주문 통화(코인)"
+
+msgid "Payment currency(Market)"
+msgstr "결제 통화(마켓)"
+
+msgid "Field"
+msgstr "필드"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Type2"
+msgstr "타입"
+
+msgid "Result Status Code"
+msgstr "결과 상태 코드"
+
+msgid "Normal2"
+msgstr "정상"
+
+msgid "Other2"
+msgstr "그 외"
+
+msgid "Refer To Error Code"
+msgstr "에러 코드 참조"
+
+msgid "Latest Transaction Time"
+msgstr "최근 거래 시간"
+
+msgid "Latest trading volume"
+msgstr "가장 최근 거래량"
+
+msgid "Latest Transaction Amount"
+msgstr "가장 최근 거래 금액"
+
+msgid "Opening Price Update time: 00"
+msgstr "시가(00시 기준)"
+
+msgid "Closing price (Current Price)"
+msgstr "종가 (현재가)"
+
+msgid "Lowest price (24hr)"
+msgstr "저가 (24시간 기준)"
+
+msgid "Highest price (24hr)"
+msgstr "고가 (24시간 기준)"
+
+msgid "Prev. Close2"
+msgstr "전일종가 (어제 종가)"
+
+msgid "EVEN : EVEN / RISE : RISE / FALL : FALL"
+msgstr "EVEN : 보합 / RISE : 상승 / FALL : 하락"
+
+msgid "Current rate of change from previous day (Current Price-Prev. Close)"
+msgstr "전일대비 현재 변화율 (현재가-전일종가)"
+
+msgid "Convert current rate of change to % over the previous day"
+msgstr "전일대비 현재 변화율을 %로 변환한 값"
+
+msgid "Today's transaction amount from 00:00"
+msgstr "금일 거래금액 (00시 부터)"
+
+msgid "24hr Transaction amount"
+msgstr "최근 24시간 누적 거래금액"
+
+msgid "Today's transaction volume from 00:00"
+msgstr "금일 거래량 (00시 부터)"
+
+msgid "24hr Currency trading volume"
+msgstr "최근 24시간 누적 거래량"
+
+msgid "Current coin price (latest: based on time of call)"
+msgstr "최근 : API 호출 했을 당시 시간 기준"
+
+msgid "Parameter"
+msgstr "요청 변수"
+
+msgid "Coin2"
+msgstr "코인별"
+
+msgid "Current Timestamp"
+msgstr "타임 스탬프"
+
+msgid "Buy request history"
+msgstr "매수 요청 내역"
+
+msgid "Ask request history"
+msgstr "매도 요청 내역"
+
+msgid "Currency quantity"
+msgstr "Currency 수량"
+
+msgid "Transacted price per currency"
+msgstr "Currency 거래가"
+
+msgid "Total Remaining Ask"
+msgstr "매도 총 잔량"
+
+msgid "Total Remaining Buy"
+msgstr "매수 총 잔량"
+
+msgid "Provides COINIBT Exchange virtual asset concluded transaction history."
+msgstr "COINIBT 거래소 가상자산 거래 체결 완료 내역을 제공합니다."
+
+msgid "Timestamp of transaction"
+msgstr "타임스탬프 (거래 체결 시간)"
+
+msgid "bid"
+msgstr "매수"
+
+msgid "ask"
+msgstr "매도"
+
+msgid "Trading volume"
+msgstr "거래량"
+
+msgid "Transaction amount per 1 Currency"
+msgstr "거래가"
+
+msgid "Total trading volume"
+msgstr "총 거래 금액"
+
+msgid "Error Code"
+msgstr "에러 코드"
+
+msgid "COINIBT API request failure incidents will cause an error code."
+msgstr "COINIBT API 호출 요청 시 상황에 따라 보여지는 에러 코드입니다."
+
+msgid "Error Message"
+msgstr "에러 메시지"
+
+msgid "Not a member of COINIBT exchange."
+msgstr "회원가입이 되어있지 않음"
+
+msgid "DB error"
+msgstr "DB에러"
+
+msgid "Specific value lookup failed"
+msgstr "특정값 조회 실패"
+
+msgid "This coin is not supported in COINIBT"
+msgstr "COINIBT에서 지원하지 않는 코인입니다."
+
+msgid "This transaction is not supported in COINIBT"
+msgstr "COINIBT에서 현재 지원하지 않는 거래 유형입니다."
+
+msgid "Log"
+msgstr "로그"
+
+msgid "System Log"
+msgstr "시스템/관리자 로그"
+
+msgid "Users Login Log"
+msgstr "고객 로그인 로그"
+
+msgid "You have consumed your monthly limit of buying coupons"
+msgstr "월 쿠폰 구매 한도가 초과 되었습니다."
+
+msgid "You have consumed your weekly limit of buying coupons"
+msgstr "주 쿠폰 구매 한도가 초과 되었습니다."
+
+msgid "Password Info"
+msgstr "비밀번호는 영문자 / 숫자 / 특수문자 모두 혼용할 경우 8자리 이상, 두가지만 혼용할 경우 10자리 이상으로 설정해주세요"
+
+msgid "Leaving CoinIBT"
+msgstr "탈퇴하기"
+
+msgid "Please check the password notes"
+msgstr "비밀번호 유의사항을 확인해주세요"
+
+msgid "Please confirm your password"
+msgstr "비밀번호를 확인해주세요"
+
+msgid "Your assets remains"
+msgstr "아직 회원님의 자산이 남았어요"
+
+msgid "Download Asset Waiver"
+msgstr "자산포기각서 다운로드"
+
+msgid "Go to Upload Asset Waiver"
+msgstr "자산포기각서 업로드 하러가기"
+
+msgid "Asset Waiver Info"
+msgstr "자산포기각서 다운로드하여 자필 작성 후 <br> 스캔하여 자산포기각서 파일을 <br> 업로드 해주시면 탈퇴처리가 완료됩니다."
+
+msgid "Asset Waiver Upload Page"
+msgstr "자산포기각서 업로드 페이지"
+
+msgid "Please upload the scan file of the asset waiver"
+msgstr "자산포기각서 스캔파일을 올려주세요!"
+
+msgid "Asset Waiver Upload Info"
+msgstr "자필 작성 후 스캔하여 자산포기각서 파일을 <br> 업로드 해주시면 담당 부서 확인후 탈퇴처리가 완료됩니다. <br> 탈퇴 시까지 시간 소요될 수 있으니 양해 부탁드립니다."
+
+msgid "Please attach the files"
+msgstr "파일을 등록 해주세요."
+
+msgid "Please uploads the asset waiver Memorandum"
+msgstr "자산포기각서를 업로드해주세요."
+
+msgid "Please uploads the asset waiver Memorandum"
+msgstr "자산포기각서를 업로드해주세요."
+
+msgid "Please read the notice below before the leaving"
+msgstr "탈퇴하기 전 아래 유의 사항을 확인 해 주세요."
+
+msgid "Leaving the notice2"
+msgstr "사용자가 서비스 회원을 탈퇴할 경우 회사는 부정이용을 방지하기 위하여 1년간 개인정보를 보관합니다."
+
+msgid "Leaving the notice3"
+msgstr "이 경우 개인정보는 식별할 수 없는 상태로 보관되며 동일한 ID로 재가입이 불가합니다."
+
+msgid "Leaving the notice4"
+msgstr "결제 처리에 대한 서비스는 전자상거래 등에서의 소비자보호에 관한 법률 등 관계법령의 규정에 의거하여, 자산이 남아 있을 경우 자산포기각서 및 수기 서명 작성 후 탈퇴처리가 완료됩니다."
+
+msgid "I have read all the notices and I agree to them"
+msgstr "유의 사항을 모두 확인했으며, 이에 동의합니다."
+
+msgid "Please agree to the Precaution of withdrawal"
+msgstr "탈퇴 유의 사항을 동의해주세요."
+
+msgid "ID"
+msgstr "아이디"
+
+msgid "SMBIT membership withdrawal has been completed safely"
+msgstr "SMBIT 회원탈퇴가 <br> 안전하게 완료되었습니다."
+
+msgid "Thank you for using the SMBIT service. <br> We will do our best to provide better service"
+msgstr "그동안 SMBIT 서비스를 이용해 주셔서 감사드립니다. <br> 보다 나은 서비스 제공을 위해 최선을 다하겠습니다."
+
+msgid "Go to SMBIT home"
+msgstr "SMBIT 홈 바로가기"
+
+msgid "Please complete your authentication"
+msgstr "본인인증을 완료해주세요."
+
+msgid "The account is dormant"
+msgstr "계정이 휴면상태입니다."
+
+msgid "If you unlock an account that has been dormant for a year because you haven't logged in, You can use it again"
+msgstr "1년간 로그인 이력이 없어 휴면 전환된 계정을 해제하여 <br> 다시 사용 하실 수 있습니다."
+
+msgid "Release dormant account"
+msgstr "휴면 계정 해제"
+
+msgid "Release the dormant state"
+msgstr "휴면 상태 해제"
+
+msgid "Dormant Release Guide"
+msgstr "휴면 해제 안내"
+
+msgid "If you release the dormant state, you can use it normally again, and you need to log again in after releasing it"
+msgstr "휴면 상태를 해제 하시면 다시 정상적으로 사용이 가능합니다. <br>휴면 상태 해제 후에는 다시 로그인이 필요합니다."
+
+msgid "Result of releasing dormant account"
+msgstr "휴면 계정 해지 결과"
+
+msgid "Result of releasing dormant1"
+msgstr "휴면 계정 해제 요청이 정상적으로 처리 되었습니다. <br> 계정 해제가 완료되면 로그인해야합니다."
+
+msgid "Id or password are not same"
+msgstr "아이디 또는 비밀번호가 일치하지 않습니다."
+
+msgid "An unknown error has occurred. please try again from the beginning"
+msgstr "알 수 없는 오류가 발생했습니다. 처음부터 다시 시도해주세요."
+
+msgid "An unknown error has occurred"
+msgstr "알 수 없는 오류가 발생했습니다."
+
+msgid "The phone number is not same"
+msgstr "전화번호가 일치하지 않습니다."
+
+msgid "Please enter the password you want to change"
+msgstr "변경할 비밀번호를 입력해주세요."
+
+msgid "Please enter your current password"
+msgstr "현재 비밀번호를 입력해주세요."
+
+msgid "Your session has expired. Please try again from the beginning"
+msgstr "세션이 만료되었습니다. 처음부터 다시 시작해주세요."
+
+msgid "You are an unregistered member"
+msgstr "등록되지 않은 회원입니다."
+
+msgid "This account has been withdrawn"
+msgstr "탈퇴한 계정입니다."
+
+msgid "This ip is not allowed"
+msgstr "접속 허용된 IP가 아닙니다."
+
+msgid "The current password is not same"
+msgstr "현재 비밀번호가 일치하지 않습니다."
+
+msgid "It's the same as the old password"
+msgstr "이전 비밀번호와 동일합니다."
+
+msgid "Please enter a minimum of 8 digits to a maximum of 20 digits"
+msgstr "최소 8자리 ~ 최대 20자리 이내로 입력해주세요."
+
+msgid "Please enter the password without spaces"
+msgstr "비밀번호는 공백없이 입력해주세요."
+
+msgid "You can enter a mixture of English, numbers, and special characters with less than 10 digits"
+msgstr "10자리 이하는 영문, 숫자, 특수문자를 혼합하여 입력 가능합니다."
+
+msgid "Please enter at least 10 digits mixed with English, numbers, and special characters"
+msgstr "10자리 이상은 영문, 숫자, 특수문자 중에 두가지 이상 혼합하여 입력해주세요."
+
+msgid "The new password and password verification do not match"
+msgstr "새 비밀번호와 비밀번호 확인이 일치하지 않습니다."
+
+msgid "Locked due to consecutive input failures"
+msgstr "연속된 입력 실패로 잠금상태가 되었습니다."
+
+msgid "Certification Info"
+msgstr "SMBIT는 아이디 소유주 외의 대상에 의한 악의적인 공격 및 아이디 도용을 막기 위해 <br> 로그인 5회 실패 시 해당계정을 보호 조치합니다. <br> <br> 아이디가 보호 조치되었을 경우, 본인 인증을 통해 보호조치를 해제하고, <br> 비밀번호 재설정 하셔야 로그인 가능합니다."
+
+msgid "Are you sure you want to cancel your dormant status?"
+msgstr "휴면 상태 해제를 취소하시겠습니까?"
+
+msgid "The passwords are not same"
+msgstr "비밀번호가 일치하지 않습니다."
+
+msgid "Please enter an ID of at least 5 characters"
+msgstr "아이디를 5자 이상 입력해주세요."
+
+msgid "Show2"
+msgstr "자세히 보기"
+
+msgid "Show previous privacy policies"
+msgstr "이전 개인정보 처리방침 보기"
+
+msgid "Coin Info"
+msgstr "코인 소개"
+
+msgid "Listed Info"
+msgstr "상장 안내"
+
+msgid "Please enter a valid email address"
+msgstr "이메일 형식을 확인해주세요"
+
+msgid "This email is already registered"
+msgstr "이미 가입된 메일입니다"
+
+msgid "Staking/Rental Service"
+msgstr "스테이킹/대여 서비스"
+
+msgid "Staking Service"
+msgstr "스테이킹 서비스"
+
+msgid "Staking Service for Revenue"
+msgstr "수익이 되는 스테이킹 서비스"
+
+msgid "Apply for Staking Service"
+msgstr "스테이킹 서비스 신청"
+
+msgid "Go to Terms"
+msgstr "이용약관 확인하러 가기"
+
+msgid "staking text 001"
+msgstr "스테이킹 서비스 이용 시 가상자산의 시세 급등락에 따른 손실이 발생할 수 있다는 점을 유의하시기 바랍니다."
+
+msgid "staking text 002"
+msgstr "SMBIT는 본 스테이킹서비스 제공과 관련이 없으며, 서비스와 관련한 손실 등에 책임을 지지 않습니다."
+
+msgid "staking text 003"
+msgstr "최소 180일~최대 720일 이용기간 이전 상환 시 회사에서 정한 총 스테이킹 가상자산의 이용 수수료 30% 제외하고 상환 합니다."
+
+msgid "Rental Service"
+msgstr "대여 서비스"
+
+msgid "Rental Service preparation"
+msgstr "대여 서비스는 준비중입니다."
+
+msgid "rental text 001"
+msgstr "대여서비스 이용 시 가상자산의 시세 급등락에 따른 손실이 발생할 수 있다는 점을 유의하시기 바랍니다."
+
+msgid "rental text 002"
+msgstr "SMBIT는 본 대여 서비스 제공과 관련이 없으며, 서비스와 관련한 손실 등에 책임을 지지 않습니다."
+
+msgid "staking modal 001"
+msgstr "SMBIT 수수료의 정산되어 있는 이익부분을 드리는 서비스입니다."
+
+msgid "staking modal 002"
+msgstr "스테이킹 서비스는 가상자산을 정해진 한도와 기간동안 스테이킹으로 매일 KRW 수당으로 지급됩니다."
+
+msgid "staking modal 003"
+msgstr "스테이킹 수당은 시세 급등락에 따른 손실이 발생할 수 있습니다."
+
+msgid "staking modal 004"
+msgstr "스테이킹 수당은 SMBIT 수수료 부분의 정산되어 있는 이익부분을 드리는 서비스입니다."
+
+msgid "staking modal 005"
+msgstr "스테이킹 수당은 매일 지급되는 구조로 거래량 및 출석확인 등에 따라 스테이킹 수당도 변동됩니다."
+
+msgid "rental modal 001"
+msgstr "대여 서비스는 가상자산이 필요할 때<br /> 빌려쓸 수 있는 대여 서비스 입니다."
+
+msgid "rental modal 002"
+msgstr "대여 서비스 조건은 가상자산을 이용한 온라인 쇼핑, 가맹점 등에서 사용 실적에 따라 대여 서비스 조건이 차이가 납니다."
+
+msgid "rental modal 003"
+msgstr "만기 상환은 가상자산을 빌릴 당시의 거래가격과 상환 할 당시 거래가격을 합산 거래가격변동에 따른 상환가격 결정은 상환 직전 10일 평균 가격 기준을 정해서 진행됩니다."
+
+msgid "show prev terms"
+msgstr "이전 약관 보기"
+
+msgid "terms-staking"
+msgstr "스테이킹 서비스 이용약관"
+
+msgid "terms-rental"
+msgstr "대여 서비스 이용약관"
+
+msgid "terms-annual"
+msgstr "연회비 이용약관"
+
+msgid "terms-deal"
+msgstr "거래 이용약관"
+
+msgid "terms-deal-coupon"
+msgstr "거래전환쿠폰 이용약관"
+
+msgid "error code 5200 error message"
+msgstr "정상적으로 처리되지 못했습니다. <br>잠시 후 다시 이용해 주십시오."
+
+msgid "error coded 5200 error message2"
+msgstr "시스템이 원활하지 않습니다. 잠시 후 다시 시도해 주세요."

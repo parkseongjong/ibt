@@ -1,0 +1,232 @@
+html, body { background: #fff; }
+
+.wallet_box {
+	max-width: 1170px;
+	text-align: left;
+	margin: 30px auto;
+}
+
+.page_title {
+	font-size: 28px;
+	font-weight: bold;
+	line-height: 1.07;
+	color: #000000;
+	padding-top: 60px;
+}
+.asset_box {
+	margin-top: 20px;
+	border: 2px solid #dcdcdc;
+	padding: 30px 50px 14px 70px;
+}
+.asset_box table {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+.asset_box table td {
+	padding: 10px 0;
+}
+.asset_box .total_asset {
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 1.36;
+	color: #6738ff;
+}
+.asset_box .total_asset .unit {
+	font-size: 22px;
+	font-weight: 300;
+	line-height: 1.36;
+	color: #a9a9a9;
+}
+.asset_box .total_amount {
+	font-size: 46px;
+	font-weight: bold;
+	line-height: 0.54;
+	color: #6738ff;
+	margin-top: 22px;
+}
+.asset_box .total_amount .unit {
+	font-size: 23px;
+	font-weight: normal;
+	line-height: 1.3;
+	color: #5e5e5e;
+}
+
+.asset_box .amount {
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 1.15;
+  color: #000000;
+}
+.asset_box .amount_head {
+	font-size: 26px;
+	font-weight: bold;
+	line-height: 1.15;
+	color: #000000;
+	margin-right: 16px;
+}
+.asset_box .unit {
+  color: #8d8d8d;
+}
+
+.asset_box .helpmsg {
+	font-family: Dotum;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 2.6;
+	color: #424242;
+}
+.asset_box .helpmsg .bold {
+	font-weight: bold;
+}
+
+
+.tab_menu {
+	list-style-type: none;
+	margin-top: 50px;
+	overflow: hidden;
+}
+.tab_menu li {
+	float: left;
+	line-height: 2;
+	margin-right: 26px;
+	border-bottom: solid 2px #ffffff;
+}
+.tab_menu li.on {
+	border-bottom: solid 2px #6738ff;
+}
+.tab_menu li a {
+	font-size: 26px;
+	font-weight: bold;
+	color: #b8b8b8;
+}
+.tab_menu li.on a {
+	color: #6738ff;
+}
+
+.filter { margin-top: 70px; }
+.filter ul { list-style-type: none; overflow: hidden; }
+.filter li { float: left; margin-right: 20px; }
+
+.filter .helpmsg {
+	font-size: 15px;
+	font-weight: 300;
+	color: #4c4c4c;
+}
+.filter select {
+	width: 114px;
+	height: 34px;
+	padding: 2px 12px;
+	margin-right: 6px;
+	border: solid 1px #e4e4e4;
+	background-color: #ffffff;
+	outline-style:none;
+	-webkit-appearance: none;	/* 화살표 없애기 for chrome*/
+	-moz-appearance: none;
+	appearance: none;
+}
+.filter select.w100 {
+	width: 100px;
+	background:#fff url('/wb/imgs/select_down.png') no-repeat 57px 60%;
+}
+.filter select.w140 {
+	width: 140px;
+	background:#fff url('/wb/imgs/select_down.png') no-repeat 97px 60%;
+}
+
+.filter select.w190 {
+	width: 190px;
+	background:#fff url('/wb/imgs/select_down.png') no-repeat 147px 60%;
+}
+
+.filter select.w230 {
+	width: 230px;
+	background:#fff url('/wb/imgs/select_down.png') no-repeat 187px 60%;
+}
+.filter select.w220c {
+	width: 220px;
+	background:#fff url('/wb/imgs/calendar.png') no-repeat 188px 7px;
+}
+.filter select::-ms-expand {
+   display: none;			/* 화살표 없애기 for IE10, 11*/
+}
+
+.asset_list {
+	margin-top: 16px;
+	margin-bottom: 100px;
+}
+
+.asset_list table {
+	width: 100%;
+	border: solid 1px #e4e4e4;
+}
+.asset_list table thead tr {
+	border-bottom: solid 1px #e4e4e4;
+}
+.asset_list table td {
+	font-size: 14px;
+	text-align: center;
+}
+.asset_list table thead td {
+	font-weight: normal;
+	line-height: 40px;
+	color: #000000;
+}
+.asset_list table td.blank {
+	text-align: center;
+	height: 350px;
+	min-height: 350px;
+	padding-top: 50px;
+	vertical-align: top;
+	color: #b1b1b1;
+}
+
+
+@media screen and (max-width: 991px) and (min-width: 768px) {
+.asset_box{    padding: 10px 20px;}
+.assets_box_wallet{ overflow-y: scroll}
+.assets_box_wallet table{ width:1000px}
+.page_title{    padding-top: 20px;}
+.filter {
+    margin-top: 40px;
+}
+}
+@media only screen and (max-width: 767px) {
+	
+	.page_title {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.07;
+    color: #000000;
+    padding-top: 10px;
+}
+.filter {
+    margin-top: 30px;
+}
+.filter li {
+    margin-right: 0%;
+    width: 100%;    margin-bottom: 8px;
+}
+.filter li select {
+    width: 100%!important;
+    background-position: right!important;
+	    margin-right: 0;
+}
+.assets_box_wallet{ overflow-y: scroll}
+.assets_box_wallet table{ width:1000px}
+.tab_menu li{    margin-right: 0;    text-align: center;}
+.tab_menu li a {font-size: 14px;}
+.wallet_table tr, .wallet_table td{     padding-left: 0!important;   display: block;    width: 100%!important;    text-align: center!important;}
+.asset_box .amount {font-size: 20px;}
+.asset_box {
+    margin-top: 20px;
+    padding: 10px;
+}
+.asset_box .amount_head {font-size: 16px;}
+.asset_box .total_amount {
+    font-size: 30px;
+}
+
+
+
+}

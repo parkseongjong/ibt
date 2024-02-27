@@ -1,0 +1,35 @@
+
+[36mWelcome to CakePHP v3.2.9 Console[0m
+---------------------------------------------------------------
+App : src
+Path: /var/www/html/src/
+PHP : 5.6.40-35+ubuntu18.04.1+deb.sury.org+1
+---------------------------------------------------------------
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [0] => Array
+        (
+            [user_id] => 1102
+            [cryptocoin_id] => 19
+            [wallet_address] => 0xe3c4b4c42e487955cdcc37d6c407a27aec740020
+            [tx_type] => purchase
+            [tx_id] => 0x4be40ccedcc7e9dffda0ce5ee4899976d0f79b7e10a9d3b5b5a245f8c2d2133a
+            [coin_amount] => 11111
+            [status] => completed
+            [created] => 2021-04-21 10:25:14
+            [updated] => 2021-04-21 10:25:14
+        )
+
+)
+Array
+(
+)
+Array
+(
+)

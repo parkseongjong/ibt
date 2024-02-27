@@ -1,0 +1,85 @@
+
+.coupon-content-wrap {
+  background-color: rgba(243, 243, 243, 0.99);
+  width: 100%;
+  height: 100%; }
+  .coupon-content-wrap .coupon-content-container {
+    margin: 0 auto;
+    padding: 20px 0;
+    height: 100%; }
+    .coupon-content-wrap .coupon-content-container .coupon-content-area {
+      max-width: 1490px;
+      border: 1px solid #dddddd;
+      background-color: #fff;
+      margin: 0 auto;
+      padding: 15px 0 30px;
+      height: 100%;
+      display: flex; }
+      .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-menu-left {
+        padding: 0 2%; }
+        .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-menu-left > h1 {
+          font-size: 24px;
+          font-weight: bold;
+          border-bottom: 4px solid #000;
+          padding-bottom: 17px;
+          margin-bottom: 17px;
+          line-height: 2; }
+        .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-menu-left > p.item {
+          display: block;
+          margin-block-start: 1em;
+          margin-block-end: 1em;
+          margin-inline-start: 0px;
+          margin-inline-end: 0px; }
+          .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-menu-left > p.item > a {
+            line-height: 1.8;
+            font-size: 16px;
+            font-weight: 500;
+            color: #bebebe; }
+            .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-menu-left > p.item > a.on {
+              color: #000; }
+      .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-usage-contents {
+        flex: 1;
+        margin-top: 20px;
+        padding: 0 2%; }
+        .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-usage-contents > h1 {
+          font-size: 20px;
+          line-height: 2; }
+        .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-usage-contents .coupon-list-table-container {
+          margin-top: 69px; }
+          .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-usage-contents .coupon-list-table-container .coupon-list-table {
+            overflow-x: scroll; }
+            .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-usage-contents .coupon-list-table-container .coupon-list-table table {
+              border-spacing: 0;
+              text-align: center;
+              line-height: 1.5;
+              margin: 20px 10px;
+              width: 1052px; }
+              .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-usage-contents .coupon-list-table-container .coupon-list-table table thead tr th {
+                width: 155px;
+                padding: 20px;
+                font-weight: bold;
+                vertical-align: top;
+                color: #000;
+                background: #fcfcfe;
+                white-space: nowrap;
+                font-size: 14px;
+                border-bottom: 1px solid #ccc; }
+              .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-usage-contents .coupon-list-table-container .coupon-list-table table tbody tr td {
+                width: 155px;
+                padding: 25px 10px;
+                border-bottom: 1px solid #ccc;
+                white-space: nowrap; }
+                .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-usage-contents .coupon-list-table-container .coupon-list-table table tbody tr td .coupon-status {
+                  padding: 8px;
+                  font-size: 14px; }
+                  .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-usage-contents .coupon-list-table-container .coupon-list-table table tbody tr td .coupon-status.completed, .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-usage-contents .coupon-list-table-container .coupon-list-table table tbody tr td .coupon-status.expire {
+                    color: #767676;
+                    background-color: #dfdfdf; }
+                  .coupon-content-wrap .coupon-content-container .coupon-content-area .coupon-usage-contents .coupon-list-table-container .coupon-list-table table tbody tr td .coupon-status.use {
+                    color: #fff;
+                    background-color: #797979;
+                    cursor: pointer; }
+
+@media (max-width: 768px) {
+  .coupon-content-wrap .coupon-content-container .coupon-content-area {
+    flex-direction: column; } }

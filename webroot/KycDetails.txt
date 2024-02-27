@@ -1,0 +1,1 @@
+{"callback_type":"request","message":" Biometric facial recognition has failed. Please provide photos of another ID that belongs to you.","reason":"1","request":"7,9","signature":"2d9f68c8d557b29489f9d90999197af6208202659baf6432d39feed3e2409761","status":3,"user_hash":"104b3887-f15b-4b1e-a942-23bee1f7ac98","user_id":2197950}

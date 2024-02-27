@@ -1,0 +1,198 @@
+.howtouse-container {}
+.howtouse-container * {
+  box-sizing: border-box;
+}
+.howtouse-container .title {
+  margin-bottom: 40px;
+}
+.howtouse-container .detail-title {
+  padding-left: 17px;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+.howtouse-container .detail-title ul {
+  /* padding-inline-start: 10px; */
+}
+.howtouse-container .detail-title li {
+  list-style-type: disc;
+}
+.howtouse-container .detail-title li strong {
+  margin-right: 10px;
+}
+.text-red {
+  color: #ff0000;
+}
+.text-gray {
+  color: #4b4b4b;
+}
+
+.howtouse-container .howtouse-grid {
+  border: 2px solid #dddddd;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  max-width: 960px;
+  margin-left: 20px;
+}
+.howtouse-container .howtouse-grid .grid-col-1\/2 {
+  flex: 50%;
+  border-right: 2px solid #dddddd;
+}
+.howtouse-container .howtouse-grid .grid-col-1\/2:last-child {
+  border: none;
+}
+.howtouse-container .howtouse-grid .grid-row {
+  padding: 21px 0;
+  border-bottom: 2px solid #dddddd;
+  font-size: 16px;
+}
+.howtouse-container .howtouse-grid .grid-row:last-child {
+  border: none;
+}
+.howtouse-container .howtouse-grid .grid-row.row-title {
+  background-color: rgba(243, 243, 243, 0.99);
+}
+
+.howtouse-container .token-icon {
+  background-color: rgba(243, 243, 243, 0.99);
+  margin-right: 5px;
+}
+.howtouse-container .tp3-symbol,
+.howtouse-container .ctc-symbol {
+  font-size: 20px;
+  font-weight: bold;
+  vertical-align: sub;
+}
+.howtouse-container .tp3-symbol {
+  color: #2980b0;
+}
+.howtouse-container .ctc-symbol {
+  color: #dabc0c;
+}
+
+.howtouse-container .divider {
+  margin: 0 5px;
+}
+
+.howtouse-container .normal-user {
+  margin-bottom: 87px;
+}
+.howtouse-container .year-user {
+  margin-bottom: 150px;
+}
+
+.howtouse-container .deal-coupon-rules {
+  margin-bottom: 176px;
+}
+.howtouse-container .deal-coupon-rules .detail-title {
+  padding: 0;
+  margin-bottom: 10px;
+}
+.howtouse-container .deal-coupon-rules .detail-subtitle {
+  font-size: 20px;
+  margin-bottom: 37px;
+}
+
+.howtouse-container .deal-coupon-rules .coupon-rules-box {
+  border: 2px solid #dddddd;
+  position: relative;
+  padding: 15px;
+  max-width: 960px;
+  margin-left: 20px;
+  margin-bottom: 40px;
+}
+.howtouse-container .deal-coupon-rules .coupon-rules-box .rule-example {
+  margin-bottom: 20px;
+}
+.howtouse-container .deal-coupon-rules .coupon-rules-box .rule-example {
+  padding-left: 30px;
+}
+.howtouse-container .deal-coupon-rules .coupon-rules-box .rule-example ul li {
+  list-style-type: disc;
+  font-size: 16px;
+}
+
+.howtouse-container .deal-coupon-rules .coupon-rules-box .rule-visualize {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.howtouse-container .deal-coupon-rules .coupon-rules-box .rule-visualize img {
+  margin-right: 50px;
+  width: 20%;
+}
+.howtouse-container .deal-coupon-rules .coupon-rules-box .rule-visualize img.not-width {
+  width: initial;
+}
+.howtouse-container .deal-coupon-rules .coupon-rules-box .rule-visualize img:last-child {
+  margin-right: 0;
+}
+
+.howtouse-container .rule-description {
+  font-size: 16px;
+}
+
+.howtouse-container .deposit,
+.howtouse-container .deal-info {
+  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 200px;
+}
+.howtouse-container .deposit .deposit-left,
+.howtouse-container .deal-info .deal-info-left {
+  flex: 10%;
+}
+.howtouse-container .deposit .deposit-right,
+.howtouse-container .deal-info .deal-info-right {
+  flex: 90%;
+}
+.howtouse-container .deposit .deposit-left .deposit-title,
+.howtouse-container .deal-info .deal-info-left .deal-info-title {
+  font-weight: bold;
+}
+.howtouse-container .deposit .deposit-left .deposit-title,
+.howtouse-container .deposit .deposit-right .deposit-content,
+.howtouse-container .deal-info .deal-info-left .deal-info-title,
+.howtouse-container .deal-info .deal-info-right .deal-info-content {
+  line-height: 2.3;
+}
+
+@media only screen and (max-width: 767px) {
+  .howtouse-container .howtouse-grid {
+    flex-direction: column;
+  }
+  .howtouse-container .howtouse-grid .grid-col-1\/2 {
+    border-right: none;
+    border-bottom: 2px solid #dddddd;
+  }
+
+  .howtouse-container .deal-coupon-rules .coupon-rules-box .rule-visualize {
+    flex-direction: column;
+  }
+  .howtouse-container .deal-coupon-rules .coupon-rules-box .rule-visualize img {
+    margin-right: 0;
+    margin-bottom: 30px;
+    width: initial;
+  }
+  .howtouse-container .deal-coupon-rules .coupon-rules-box .rule-visualize img:last-child {
+    margin-bottom: 0;
+  }
+
+  .howtouse-container .deposit,
+  .howtouse-container .deal-info {
+    flex-direction: column;
+    font-size: 16px;
+  }
+}
+
+.precations {}
+.precations div {
+  font-size: 16px;
+}
+.precations .purple-strong {
+  color: #6738ff;
+  font-size: 20px;
+  margin-bottom: 20px;
+}

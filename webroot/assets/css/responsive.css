@@ -1,0 +1,276 @@
+@media screen and (max-width: 992px) {
+	#services .margin-small:nth-last-child(2),
+	#services .margin-small:nth-last-child(3),
+	#services .margin-small:nth-last-child(4),
+	#services .margin-small:last-child{
+		margin-bottom:0;
+	}
+}
+@media screen and (min-width: 992px) and (max-width: 1024px) {
+	.intresting-box label{
+		font-size:20px;
+	}
+	.service-box h3{
+		font-size:18px;
+	}
+	.our-facts h2 {
+		font-size: 26px;
+	}	
+	.comming-soon-content h1{
+		font-size:45px;
+	}
+}
+@media screen and (min-width: 768px) {	
+	#header.sticky-header {
+		position: fixed;
+		box-shadow: 4px 4px 20px rgba(225, 225, 225, 0.2);
+		background-color:#001e32;
+		width:100%;
+		z-index:99999;
+	}
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {	
+.error-content{
+		margin-top:-231.5px;
+	}	
+	.error-content p{
+		margin-bottom:30px;
+		width:100%;
+	}
+	.error-content h1{
+		margin-bottom:10px;
+	}
+	.error-content figure{
+		margin-bottom:20px;
+	}
+	.work-gallery .caption h3{
+		font-size:20px;
+	}
+	.work-gallery .caption h4{
+		font-size:16px;
+	}
+	.work-gallery .caption{
+		margin-top:-53px;
+	}
+	.our-facts .margin-small {
+		margin-bottom: 50px;
+	}
+	.our-facts .margin-small:last-child,
+	.our-facts .margin-small:nth-last-child(2){
+		margin-bottom: 0px;
+	}
+	.pricing-list li{
+		padding: 10px 5px;
+		font-size: 15px;
+	}
+	.pricing .caption h2{
+		font-size:24px;
+	}
+	.pricing .caption .price{
+		font-size:45px;
+	}
+	#banner-typing{
+		margin-top:-60px;
+	}
+	.icon-box.inner,
+	.story:before{
+		left:26%;
+	}
+	.story-detail{
+		width:65%;
+	}
+	.skill-detail{
+		padding:135px 10%;
+	}
+	.intresting-box label{
+		font-size:16px;
+	}
+	#services .margin-small:nth-last-child(2){
+		margin-bottom:0;
+	}
+	#services .margin-small:last-child{
+		margin-bottom:0;
+	}
+	.navbar-default .navbar-nav>li>a{
+		font-size:12px;
+	}
+	.nav>li>a{
+		padding:10px 10px;
+	}	
+	 .comming-soon-content h1 {
+        font-size: 40px;
+    }
+    .special-section {
+        margin-top: -260px;
+    }
+	.timer ul li span{
+		font-size:35px;
+	}
+	.timer ul li span.normal{
+		font-size:20px;
+	}
+}
+@media screen and (max-width: 767px) {
+	.error-content .itg-button{
+		margin-right:15px;
+	}
+	.error-content {
+		margin-top: -166.5px;
+	}
+	.error-content p{
+		display:none;
+	}
+	.error-content figure{
+		margin-bottom:15px;
+	}
+	.error-content h1{
+		margin-bottom:15px;
+	}
+	.error-content .itg-button{
+		    font-size: 14px;
+		padding: 10px 20px;
+	}
+    .special-section {
+        margin-top: -251.5px;
+    }
+    .comming-soon-content h2,
+    .timer ul li span.normal,
+    .comming-soon-content h3 {
+        font-size: 14px;
+    }
+    .comming-soon-content h1 {
+        font-size: 22px;
+    }
+    .timer ul li span {
+        font-size: 28px;
+    }
+	.small-pad-0{
+		padding:0;
+	}
+	.half-section{
+		position:relative;
+	}
+	#services .margin-small:last-child{
+		margin-bottom:0;
+	}
+	.banner-section{
+		height:60vh;
+	}
+	.about-me{
+		margin-top:0;
+	}
+	.about-detail .left{
+		text-align:center;
+	}
+	.about-detail .right{
+		text-align:center;
+	}
+	#header {
+		position: relative;
+		background-color: #000;
+	}
+	a.navbar-brand {
+		padding: 22px 0;
+	}
+	.navbar-toggle{
+		padding: 8px 8px;
+	}
+	.navbar-toggle .icon-bar{
+		width: 18px;
+	}
+	.social-icon a{
+		margin: 0 5px;
+	}
+	.story-detail{
+		width:80%;
+		margin-top:50px;
+	}
+	.icon-box.inner,
+	.story:before{
+		left:15px;
+	}
+	.story-date {
+		width: auto;
+		position: absolute;
+		right: 0;
+		top: 0;
+		padding: 0;
+	}
+	.story-detail .story-heading h4{
+		font-size:16px;
+	}
+	.story-before{
+		font-size:15px;
+	}
+	.story-detail p{
+		font-size:14px;
+	}
+	.skill-detail{
+		padding:100px 15px;
+	}
+	.skill-bars{
+		margin-top:30px;
+	}
+	.theme-heading h1{
+		font-size:26px;
+	}
+	.about-detail h2{
+		font-size:24px;
+	}
+	#skills .skill-detail-content h3{
+		font-size:20px;
+	}
+	.mixitup-btn a.filter {
+		font-size: 14px;
+		margin: 0 12px;
+	}
+	a.link{
+		font-size: 18px;
+		width: 50px;
+		height: 50px;
+		padding: 12px 0;
+	}
+	.work-gallery .caption h3{
+		font-size:20px;
+	}
+	.work-gallery .caption h4{
+		font-size:16px;
+	}
+	.work-gallery .caption{
+		margin-top:-53px;
+	}
+	.fact-icon{
+		margin:15px 0;
+	}
+	.our-facts .margin-small {
+		margin-bottom: 50px;
+	}	
+	.our-facts .margin-small:last-child{
+		margin-bottom:0;
+	}
+	#pricing  .margin-small {
+		margin-bottom: 30px;
+	}		
+	#pricing .margin-small:last-child{
+		margin-bottom:0;
+	}
+}
+@media screen and (min-width: 641px) and (max-width: 767px) {
+	#banner-typing {
+		margin-top: -15px;
+		font-size: 30px;
+	}
+}
+@media screen and (min-width: 481px) and (max-width: 640px) {
+	#banner-typing {
+		margin-top: -15px;
+		font-size: 24px;
+	}
+}
+@media screen and (min-width: 320px) and (max-width: 480px) {
+	#banner-typing {
+		margin-top: -15px;
+		font-size: 16px;
+	}
+	
+}

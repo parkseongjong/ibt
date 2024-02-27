@@ -1,0 +1,300 @@
+:root {
+  --primary: #6738ff;
+  --back-color: rgba(110, 56, 56, 0.99);
+  --border-color: #dddddd;
+}
+
+html {
+  font-family: Roboto, "Noto Sans KR", Arial, "Malgun Gothic", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.coinibt-api-container {
+  /*padding-top: 70px;*/
+}
+
+.coinibt-api-container .coinibt-api {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  display: table;
+  position: relative;
+}
+
+.coinibt-api-container .coinibt-api:before {
+  content: "";
+  position: absolute;
+  display: block;
+  background-color: #f8f8f8;
+  top: 0;
+  bottom: 0;
+  width: 1000%;
+  height: 100%;
+  right: 100%;
+  z-index: -1;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu {
+  display: table-cell;
+  background-color: #f8f8f8;
+  padding: 60px 40px 100px 0;
+  width: 220px;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus .menu-title {
+  font-size: 24px;
+  font-weight: bold;
+  border-bottom: 4px solid #000;
+  padding-bottom: 17px;
+  margin-bottom: 17px;
+  line-height: 2;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus a {
+  text-decoration: none;
+  color: #333;
+  padding: 5px 0;
+  display: block;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus a.on {
+  color: #6738ff;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus a:hover {
+  color: #6738ff !important;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus > a {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus > a:not(:first-of-type) {
+  margin-top: 18px;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus > a.depth1 {
+  margin-top: 10px;
+  margin-left: 20px;
+  color: #777;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus .depth2 {
+  list-style: none;
+  padding: 0;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus .depth2 > li > a {
+  font-size: 14px;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus .depth2 > li > a:before {
+  content: "";
+  position: relative;
+  display: inline-block;
+  height: 1px;
+  width: 3px;
+  background-color: #777;
+  vertical-align: middle;
+  top: -1px;
+  margin-right: 7px;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus .depth2 .btn-sub {
+  position: relative;
+  padding: 0;
+  line-height: 26px;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus .depth2 .btn-sub:after {
+  content: "";
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  width: 4px;
+  height: 4px;
+  border: 1px solid #aaa;
+  border-right: 0;
+  border-top: 0;
+  margin-top: -5px;
+  transition: transform 0.5s ease;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus .depth2 .btn-sub:hover:after, .coinibt-api-container .coinibt-api .aside-menu .menus .depth2 .btn-sub.on:after {
+  -webkit-transform: rotate(-225deg);
+  -moz-transform: rotate(-225deg);
+  -o-transform: rotate(-225deg);
+  transform: rotate(-225deg);
+  border-color: #6738ff;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus .btn-sub + .depth3 {
+  height: 0px;
+  transition: height 0.5s ease;
+  overflow: hidden;
+  background-color: #efefef;
+  margin: 5px 0;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus .btn-sub + .depth3 a {
+  color: #777;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus .btn-sub + .depth3 .depth3-inner {
+  margin: 15px 20px;
+}
+
+.coinibt-api-container .coinibt-api .aside-menu .menus .btn-sub + .depth3.open {
+  height: auto;
+}
+
+.coinibt-api-container .coinibt-api .contents-wrap {
+  padding: 60px 0 100px 60px;
+  display: table-cell;
+}
+
+.coinibt-api-container .coinibt-api .contents-wrap .contents {
+  position: relative;
+}
+
+.coinibt-api-container .coinibt-api .contents-wrap .contents h2.title {
+  border-bottom: 1px solid #eee;
+  font-size: 20px;
+  margin-bottom: 40px;
+  font-weight: 600;
+  padding: 10px 0;
+  color: #333;
+}
+
+.coinibt-api-container .coinibt-api .contents-wrap .contents .txt01 {
+  color: #777;
+  line-height: 24px;
+  margin-bottom: 40px;
+}
+
+.coinibt-api-container .coinibt-api .contents-wrap .contents .code-line-box {
+  border: 1px solid #d1d5d7;
+  padding: 20px 15px;
+}
+
+.coinibt-api-container .coinibt-api .contents-wrap .contents .code-line-box span {
+  color: #777;
+}
+
+.coinibt-api-container .coinibt-api .contents-wrap .contents .code-bg-box {
+  background-color: #f8f8f8;
+  color: #777;
+  line-height: 24px;
+  padding: 20px;
+  display: block;
+  border-radius: 15px;
+}
+
+.coinibt-api-container .coinibt-api .contents-wrap .contents .code-bg-box pre {
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+.coinibt-api-container .coinibt-api .contents-wrap .contents .txt02 {
+  display: block;
+  font-size: 13px;
+  color: #777;
+  line-height: 1.8;
+}
+
+.coinibt-api-container .coinibt-api .contents-wrap .contents .parameter-explain {
+  margin-top: 7px;
+}
+
+.coinibt-api-container .coinibt-api .contents-wrap .contents h3.title {
+  color: #444;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 57px;
+  margin-bottom: 10px;
+}
+
+.coinibt-api-container .coinibt-api span[class*="bg-"] {
+  display: inline-block;
+  height: 19px;
+  line-height: 20px;
+  padding: 0 5px;
+  margin-right: 5px;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.coinibt-api-container .coinibt-api span[class*="bg-"].bg-skyblue {
+  background-color: #40bee9;
+  color: #fff;
+}
+
+.coinibt-api-container .coinibt-api span[class*="bg-"].bg-gray {
+  background-color: #eaeaea;
+  color: #777;
+}
+
+.coinibt-api-container .coinibt-api span[class*="bg-"].bg-pink {
+  background-color: #f97685;
+  color: #fff;
+}
+
+.coinibt-api-container .coinibt-api .basic-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  vertical-align: middle;
+}
+
+.coinibt-api-container .coinibt-api .basic-table thead tr th {
+  font-weight: 400;
+  color: #a4a4a4;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+  padding: 10px 20px;
+}
+
+.coinibt-api-container .coinibt-api .basic-table tbody {
+  vertical-align: middle;
+}
+
+.coinibt-api-container .coinibt-api .basic-table tbody tr td {
+  color: #444;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+  padding: 15px 20px 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+
+.coinibt-api-container .coinibt-api .table-sub-text {
+  margin-top: 15px;
+  font-size: 12px;
+  color: #777;
+  text-align: right;
+}
+
+.coinibt-api-container .coinibt-api .table-sub-text.sub-text-left {
+  text-align: left;
+}
+
+.coinibt-api-container .coinibt-api .color-red {
+  color: #f75467;
+}

@@ -1,0 +1,1170 @@
+msgid "SignUp Phone"
+msgstr "Sign up with your mobile phone number"
+
+msgid "Find realname"
+msgstr "Only real-name authentication members can find their ID."
+
+msgid "Find pass real"
+msgstr "Only real-name authentication members can find the password."
+
+msgid "Enter password"
+msgstr "Set your password to 6 digits" 
+
+msgid "Enter OTP Confirm"
+msgstr "Enter the OTP number and click the OK button <br />to complete the login."
+
+msgid "Authenticated"
+msgstr "Authenticated"
+
+msgid "Cell phone"
+msgstr "Cell phone number (- Enter without)"
+
+msgid "Auth first"
+msgstr "Please authenticate yourself first"
+
+msgid "Auth complete"
+msgstr "The mobile phone number that has been<br />authenticated is the ID."
+
+
+msgid "Password again"
+msgstr "Please enter your password again."
+
+msgid "Password rule"
+msgstr "Combination of 6 digits"
+
+
+msgid "Necessary2"
+msgstr "<span style='color: #f70000'>(Necessary)</span>"
+
+msgid "Optional2"
+msgstr "<span style='color: #b4b4b4'>(Optional)</span>"
+
+msgid "Agree terms"
+msgstr "I agree to the <span style='color: #1c5cff'>terms of use</span>."
+
+msgid "Enter auth code"
+msgstr "Please enter the authentication code sent by email."
+
+msgid "Enter phone auth code"
+msgstr "Please enter the authentication code"
+
+msgid "Auth code"
+msgstr "Authentication code"
+
+msgid "Confirm privacy"
+msgstr "I confirm and agree to the <span style='color: #1c5cff'>Privacy Policy</span>."
+
+msgid "Confirm collection"
+msgstr "Consent on the collection and utilization of personal information"
+
+msgid "How OTP 1"
+msgstr "Download the OTP app to your smartphone."
+
+msgid "Download android"
+msgstr "Search and download Google OTP for <br />Android"
+
+msgid "Download iphone"
+msgstr "Search for and download the iPhone Google <br />Authenticator."
+
+msgid "How OTP 2"
+msgstr "Please scan the QR code below or enter a secret key in the app you downloaded."
+
+msgid "Please enter 6"
+msgstr "Please enter the authentication number (six digits) displayed in the OTP authentication app."
+
+
+msgid "Download and handwriting"
+msgstr "Download the consent form, fill in your own handwriting, and attach the scan file."
+
+msgid "Attach and handwriting"
+msgstr "Register a self-written consent scan file by selecting Attach File (limited to 5MB image files such as gif, jpg, jpeg, png, etc.)"
+
+msgid "Transaction details 1"
+msgstr "Attach a copy of the evidential document photo and transaction details"
+
+msgid "Transaction details 2"
+msgstr "Guidance on the preparation of a photocopy of evidential documents and transaction details"
+
+
+
+msgid "Not format"
+msgstr "It is a combination that does not fit the format."
+
+msgid "Pass different"
+msgstr "<span style='color: #f40935'>The password is different.</span>"
+
+msgid "After logging"
+msgstr "After logging in, go to My Page <br /><span style='color: #6738ff'>After completing the next level of authentication, please meet more diverse services.</span>"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Notice2"
+msgstr "Notice"
+
+msgid "Mypage"
+msgstr "Mypage"
+
+// msgid "Company_address"
+// msgstr "1506 Woorim Lions Valley, 168 Gasan Digital 1-ro, Geumcheon-gu, Seoul"
+msgid "Company_address"
+msgstr "Tajikistan"
+
+// msgid "Company_name"
+// msgstr "Hansbiotech co., ltd."
+msgid "Company_name"
+msgstr "SMBIT Ltd."
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "Have level 1"
+msgstr "You have been certified up to <span class='bold'>Level 1</span>."
+
+msgid "Have level 2"
+msgstr "You have been certified up to <span class='bold'>Level 2</span>."
+
+msgid "Have level 3"
+msgstr "You have been certified up to <span class='bold'>Level 3</span>."
+
+msgid "Have level 4"
+msgstr "You have been certified up to <span class='bold'>Level 4</span>."
+
+msgid "Guide help"
+msgstr "In order to protect your valuable assets, the following deposit and withdrawal limits apply."
+
+msgid "Deposit In Out"
+msgstr "Deposit/Withdrawal Level and Amount in Korean Won (KRW)"
+
+msgid "Digital In Out"
+msgstr "Digital asset base deposit/withdrawal level and amount"
+
+msgid "Summary desc"
+// msgstr "SMBIT has the best manpower in the domestic and foreign blockchain sector, and operates the largest blockchain exchange in Korea by attracting professional teams with more than 10 years of domestic development experience and global talents such as India/Kazakhstan. Being safe means that we have a lot of people and a lot of technology, and we provide safe services for users around the world. We are leading the blockchain industry with a transparent and mining and transparent policy that Coins can trust and invest."
+msgstr "SMBIT has the best manpower in the domestic and foreign blockchain sector, and operates the largest blockchain exchange in Tajikistan by attracting professional teams with more than 10 years of development experience and global talents such as India/Kazakhstan. Being safe means that we have a lot of people and a lot of technology, and we provide safe services for users around the world. We are leading the blockchain industry with a transparent and mining and transparent policy that Coins can trust and invest."
+
+msgid "Trust desc"
+msgstr "Transparent policy that <br />everyone can trust Build a <br />financial environment."
+
+msgid "Professional desc"
+msgstr "The best experts at home and <br />abroad Share various experiences <br />and skills."
+
+msgid "Innovative desc"
+msgstr "Coin mining that you can <br />trust and invest Provide <br />a stable investment."
+
+msgid "World people"
+msgstr "Cryptocurrency exchange used by people all over the world"
+
+msgid "World people desc"
+// msgstr "The SMBIT exchange, which opened in October 2020, provides cryptocurrencies<br /> such as Bitcoin and Ethereum. It is a platform to buy/sell. As a safe exchange<br />used by people all over the world Safety of customer assets is a top priority."
+msgstr "The SMBIT exchange, which opened in October 2020, provides cryptocurrencies such as Bitcoin and Ethereum. It is a platform to buy/sell. As a safe exchange used by people all over the world Safety of customer assets is a top priority."
+
+msgid "Ethical management desc"
+msgstr "Of the ethical responsibilities expected from social notions as well as corporate<br />economic and legal responsibilities. Even the performance is recognized as the<br />basic duty of the company, and the corporate ethics is observed in a subjective<br />manner. As a principle of action, it not only complies with corporate legal<br />responsibilities, but also society. It refers to reflecting the ethical expectations<br />that are required in the company's decisions and actions."
+
+msgid "Secure Platform"
+msgstr "Complete a<br />secure trading<br />platform."
+
+
+
+msgid "Before change 1"
+msgstr "If you want to change your phone number, you will have to re-authenticate yourself after initialization."
+
+msgid "Before change 2"
+msgstr "After initialization of mobile phone number, transaction and KRW deposit/withdrawal are not possible until re-registration."
+
+msgid "Before change 3"
+msgstr "The above measures are to prevent theft, phishing or financial accidents of mobile phones."
+
+msgid "Before change 4"
+msgstr "Please follow the form below and send it to the customer center using the email you authenticated when signing up for SMBIT."
+
+msgid "Before change 5"
+msgstr "When the mobile phone number is reset or the account number is initialized, member level 3 level approval is initialized and level 2 is also changed."
+
+
+
+msgid "Documents submitted"
+msgstr "Documents to be submitted"
+
+msgid "Documents submitted notice"
+msgstr "Please cover the backseat of your ID number, and passport number on each document"
+
+msgid "Photo yourself "
+msgstr "Photo of yourself holding identification card"
+
+msgid "Photo yourself 1"
+msgstr "Please attach your ID card with SMBIT certification request,<br />&nbsp;&nbsp;&nbsp;purpose, email address, and date of recording handwritten."
+
+msgid "Photo yourself 2"
+msgstr "Please take pictures so that you can see both your face and ID."
+
+msgid "Photo yourself 3"
+msgstr "The photo is used only for face-to-face blindness verification<br />&nbsp;&nbsp;&nbsp;and must be able to read the letters of the ID card."
+
+
+
+
+msgid "Reset account 1"
+msgstr "If you change your account number, you will need to perform account verification again after initialization."
+
+msgid "Reset account 2"
+msgstr "After the account number is reset, withdrawal is not possible until re-registration."
+
+msgid "Reset account 3"
+msgstr "The above measures are aimed at preventing phishing or financial accidents."
+
+msgid "Reset account 4"
+msgstr "Please follow the form below and send it to the customer center using the e-mail that was verified when you signed up for SMBIT."
+
+msgid "Reset account 5"
+msgstr "When the mobile phone number is reset or the account number is initialized, member level 3 level approval is initialized and level 2 is also changed."
+
+msgid "Pending2"
+msgstr "Pending"
+
+
+
+
+msgid "Withdrawal Confirm 1"
+msgstr "When the coin withdrawal is suspended by the abnormal transaction detection system (FDS), it is necessary to submit documents <br />&nbsp;&nbsp;&nbsp;for coin withdrawal."
+
+msgid "Withdrawal Confirm 2"
+msgstr "Please follow the form below and send it to the customer service center using an email or fax that is certified when you <br />&nbsp;&nbsp;&nbsp;sign up for SMBIT."
+
+msgid "Withdrawal Confirm 3"
+msgstr "Coin review will be resumed after a certain period of time after review of the confirmation letter and related materials."
+
+msgid "Withdrawal Confirm 4"
+msgstr "If it is suspended twice due to abnormal transaction detection, additional data will be requested and coins cannot be withdrawn <br />&nbsp;&nbsp;&nbsp;until canceled."
+
+msgid "Withdrawal Confirm 5"
+msgstr "If you steal someone else's information, it may be reported in violation of the Personal Information Protection Act."
+
+msgid "Withdrawal Confirm 6"
+msgstr "Before the coin withdrawal is resumed, you can request a cancellation of the existing coin withdrawal, and request for withdrawal <br />&nbsp;&nbsp;&nbsp;of the original currency."
+
+msgid "Withdrawal Confirm 7"
+msgstr "After confirming the confirmation letter and certificate, you can request additional bank transaction data or deposit and <br />&nbsp;&nbsp;&nbsp;withdrawal data from another exchange."
+
+
+
+
+msgid "ID photo"
+msgstr "ID photo"
+
+msgid "ID photo 0"
+msgstr "A picture of yourself holding an identification card"
+
+msgid "ID photo 1"
+msgstr "Please attach your ID card with SMBIT certification request,<br />&nbsp;&nbsp;&nbsp;purpose, email address, and date of recording handwritten."
+
+msgid "ID photo 2"
+msgstr "Please cover the 7 digits after the ID number. (Privacy)"
+
+msgid "ID photo 2-2"
+msgstr "Please cover the 7 digits after the ID number."
+
+msgid "ID photo 2-3"
+msgstr "Please submit a photo that covers the backseat of your social security number."
+
+msgid "ID photo 3"
+msgstr "Passport can be used instead of a ID card.<br />&nbsp;&nbsp;&nbsp;Please cover your passport number. <br />&nbsp;&nbsp;&nbsp;(ID card, passport only identification card Recognized as)"
+
+msgid "ID photo 4"
+msgstr "Based on the shooting time, photographs taken before the<br />&nbsp;&nbsp;&nbsp;submission date or without photos are not accepted."
+
+
+
+msgid "Copy passbook"
+msgstr "A copy of the passbook of the currently registered account (cover)"
+
+msgid "Copy passbook text1"
+msgstr "Please attach a scanned or photographed copy of the bankbook with your <span style='font-weight: 500'>account number</span> and <span style='font-weight: 500'>account holder</span>."
+
+msgid "Copy passbook text2"
+msgstr "In the case of internet banking, you can capture the <span style='font-weight: 500'>[Print Passbook]</span> service screen."
+
+
+msgid "Confirmation letter"
+msgstr "Confirmation letter (download) : Download the form, fill in the contents, sign/seal the seal, and when signing, <br />&nbsp;&nbsp;&nbsp;send your personal signature confirmation and seal seal upon seal seal."
+
+
+
+msgid "Example email"
+msgstr "Example email composition"
+
+msgid "Example email 1"
+msgstr "If you need additional confirmation after reviewing the materials you sent, a representative will contact you.<br />&nbsp;&nbsp;&nbsp;It may take 1 to 3 days or more after receiving the documents."
+
+msgid "Example email 2"
+msgstr "For inquiries other than submitting certification data, please use 1:1 inquiry."
+
+
+msgid "Email subject text"
+msgstr "SMBIT Cell Phone Number Initialization Request"
+
+msgid "Email subject text3"
+msgstr "Request to reset SMBIT account number"
+
+msgid "Email subject text5"
+msgstr "Send a confirmation letter according to abnormal transaction detection"
+
+
+msgid "Body required text"
+msgstr "Name: <br /> Mobile phone number: <br /> SMBIT registration email address: <br />"
+
+msgid "Attachments text"
+msgstr "1. ID photo (required) <br />2. A photo of yourself holding an identification card (required) <br /><p style='font-weight:500'>5MB or less per file, only JPG/JPEG/PNG/GIF files can be attached</p>"
+
+msgid "Attachments text3"
+msgstr "1. ID photo (required) <br />2. A photo of yourself holding an identification card (required) <br />3. A copy of the account of the existing registered account (required) <br /><p style='font-weight:500'>5MB or less per file, only JPG/JPEG/PNG/GIF files can be attached</p>"
+
+msgid "Attachments text5"
+msgstr "1. Commitment (required) <br />2. Certificate of seal or personal signature confirmation (required) <br />3. Coopy of ID (required) <br /><p style='font-weight:500'>5MB or less per file, only JPG/JPEG/PNG/GIF files can be attached</p>"
+
+
+
+
+msgid "1time"
+msgstr "1 time"
+
+msgid "DnW"
+msgstr "Deposit and withdrawal"
+
+msgid "DnW level"
+msgstr "Deposit and withdrawal levels"
+
+msgid "DnW level short"
+msgstr "D&W levels"
+
+
+msgid "Account settings"
+msgstr "Account settings"
+
+msgid "Block login"
+msgstr "Block login"
+
+msgid "Block overseas login"
+msgstr "Block overseas login"
+
+msgid "Block access other"
+msgstr "Block access to countries other than KR"
+
+msgid "Agree event"
+msgstr "Agree to receive/provide event/advertisement"
+
+msgid "Agree personal"
+msgstr "Provision of personal information for event/advertising purposes"
+
+msgid "Agree Receive"
+msgstr "Consent to receive benefit information such as events/<br />advertisements (SMS/Email)"
+
+
+
+
+msgid "Mobile auth"
+msgstr "Mobile phone authentication is required."
+
+msgid "Email veri"
+msgstr "Email verification is required."
+
+msgid "Go to auth"
+msgstr "Go to authentication"
+
+msgid "Change pass text"
+msgstr "We recommend periodic password change for security and safety."
+
+msgid "OTP cert text"
+msgstr "Safe use with double security (recommended)"
+
+
+
+
+msgid "Mobile completed"
+msgstr "Mobile phone authentication completed"
+
+msgid "Id verify"
+msgstr "Identity verification"
+
+msgid "Id verify comp"
+msgstr "Identity verified"
+
+msgid "Pledge auth"
+msgstr "Pledge and non-face-to-face authentication"
+
+msgid "Pledge auth comp"
+msgstr "Pledge and non-face-to-face authentication completed"
+
+msgid "Pledge auth pend"
+msgstr "Pledge and non-face-to-face authentication pending"
+
+msgid "Self exam"
+msgstr "Self-examination"
+
+
+msgid "Email Otp Bank"
+msgstr "E-mail authentication / OTP authentication / Bank account authentication"
+
+msgid "KRW 300"
+msgstr "KRW up to 300 million withdrawal (day)"
+
+msgid "KRW 1000"
+msgstr "KRW up to 1 billion withdrawal (day)"
+
+
+msgid "Level notice 1-1"
+msgstr "This is a mandatory certification for deposit and withdrawal of Korean won and coins."
+
+msgid "Level notice 1-2"
+msgstr "Please complete authentication with your own phone."
+
+msgid "Level notice 2-1"
+msgstr "Click the Authenticate button to go to the authentication page."
+
+msgid "Level notice 2-2"
+msgstr "(If you do not have a authenticator or a domestic mobile phone, or if you are a minor, you cannot authenticate your mobile phone)"
+
+msgid "Level notice 3-1"
+msgstr "After confirming the application documents, it is determined whether the certification is completed."
+
+msgid "Level notice 4-1"
+msgstr "SMBIT self-assessment will be conducted for members who have completed level 3 certification."
+
+msgid "Level notice 4-2"
+msgstr "Please contact the customer center for details."
+
+
+msgid "Must Level 1"
+msgstr "One-step verification is required."
+
+msgid "Must Level 2"
+msgstr "Two-step verification is required."
+
+msgid "Must Level 3"
+msgstr "Three-step verification is required."
+
+msgid "Must Level 4"
+msgstr "Four-step verification is required."
+
+
+
+msgid "Generate Deposit Address Text"
+msgstr "New members must click the <span style="font-weight:bold">Generate Deposit Address</span> button<br />and generate a deposit address."
+
+msgid "Notifications for deposit requests"
+msgstr "When requesting a deposit, please make sure the following contents! "
+
+msgid "Notifications for deposit requests1"
+msgstr "Please deposit your digital assets to the generated address. The wallet address is a deposit-only address."
+
+msgid "Notifications for deposit requests2"
+msgstr "Transfer your digital assets from your external wallet to the address below and they will be reflected in your e- wallet."
+
+msgid "Notifications for deposit requests3"
+msgstr "It will be automatically reflected 10 to 30 minutes after the deposit transaction."
+
+msgid "Notifications for deposit requests4"
+msgstr "Please check your wallet address and deliver it to me. Digital assets sent due to incorrect address may not be able to be deposited technically, so please check the exact deposit address once again before making the deposit."
+
+msgid "Notifications for deposit requests5"
+msgstr "The time required for deposit verification can be affected by the congestion of the block chain network, and there may be differences in congestion by digital assets."
+
+msgid "Notifications for deposit requests6"
+msgstr "Withdrawal in KRW is restricted for 24 hours after the first deposit in KRW, and withdrawal of digital assets is restricted for 24 hours after the last deposit in KRW."
+
+msgid "Notifications for deposit requests6-2"
+msgstr "For KRW withdrawal, please apply for withdrawal after 3-step verification."
+
+msgid "Enter withdrawal request amount"
+msgstr "Please enter the withdrawal request amount"
+
+msgid "Notes withdrawal"
+msgstr "When requesting withdrawal, please check the following information!"
+
+msgid "Notes withdrawal1"
+msgstr "Withdraw digital assets from the SMBIT e-wallet to an external e-wallet."
+
+msgid "Notes withdrawal2"
+msgstr "All withdrawal requests are processed after confirmation by the administrator."
+
+msgid "Notes withdrawal3"
+msgstr "The time it takes to confirm the deposit may be affected by the congestion of the blockchain network, and it will be reflected in the wallet only after receiving approval (confirmation) a specified number of times for each digital asset. The number of confirmations required is subject to the policy of the receiving exchange."
+
+msgid "Notes withdrawal4"
+msgstr "The process after transmission is handled automatically by the blockchain network. SMBIT cannot take a separate action for the transmission and confirmation delay that occurs on the blockchain network."
+
+msgid "Notes withdrawal5"
+msgstr "If there is a suspicion of fraudulent transactions, there may be restrictions on withdrawal, and if withdrawal is restricted by the withdrawal policy of the headquarters, the withdrawal of digital assets will be automatically canceled if the authentication data are not submitted for 7 days."
+
+msgid "Notes withdrawal6"
+msgstr "The actual amount transferred is the total withdrawal digital asset minus the withdrawal fee."
+
+msgid "Notes withdrawal7"
+msgstr "ex) When applying for 1.0 BTC, a total of 1.0005 BTC will be deducted and a total of 1.0 BTC will be sent to the recipient."
+
+msgid "Notes Address Text1"
+msgstr "You can only register up to 3 wallet addresses."
+
+msgid "Notes Address Text2"
+msgstr "It is not possible to withdraw digital assets to a wallet address other than the registered wallet address."
+
+msgid "Name2"
+msgstr "Designation"
+
+
+
+
+msgid "joininfo_01"
+msgstr "Click the Subscribe button at the top of the main page"
+
+msgid "joininfo_01_01"
+msgstr "Please press the sign-up button."
+
+msgid "joininfo_02"
+msgstr "Go to the Membership page"
+
+msgid "joininfo_02_01"
+msgstr "Please authenticate yourself with your cell phone."
+
+msgid "joininfo_02_02"
+msgstr "The authenticated mobile phone number will be used as an ID."
+
+msgid "joininfo_02_03"
+msgstr "Please enter your password."
+
+msgid "joininfo_02_04"
+msgstr "Please enter the password entered in area C one more time."
+
+msgid "joininfo_02_05"
+msgstr "Please check and check the terms and conditions and privacy policy."
+
+msgid "joininfo_02_06"
+msgstr "Click the Membership Completion button to complete the membership registration."
+
+msgid "Month2"
+msgstr " months"
+
+msgid "Lease Service always rental"
+msgstr "Services that can always<br /> be borrowed"
+
+msgid "Lease Service Borrow"
+msgstr "Borrow virtual assets!"
+
+msgid "Lease Service Borrow and Pay"
+msgstr "When you lack virtual assets, you can borrow them and pay them back."
+
+msgid "Lease Service Borrowed Amount"
+msgstr "The repayment proceeds with the amount of virtual assets you borrowed."
+
+msgid "Lease Service Period"
+msgstr "1~24 months"
+
+msgid "Lease Service preparation"
+msgstr "The lease service is in preparation."
+
+msgid "Lease Service Notice"
+msgstr "Please note that investment losses may occur due to a surge in the price of virtual assets when using lease services.<br />SMBIT is not related to this lease service provision and is not responsible for loss related to the service."
+
+msgid "Deposit Service Profit"
+msgstr "Deposit additional assets to earn virtual assets!"
+
+msgid "Deposit Service increase and Profit"
+msgstr "By depositing a virtual asset, you can gain an increase<br /> in asset value and some of the profits of the exchange!"
+
+msgid "Deposit Service Period"
+msgstr "180~720 days"
+
+msgid "Deposit Service Notice"
+msgstr "Please note that investment losses may occur due to a surge in the price of virtual assets when using deposit services.<br />SMBIT is not related to this deposit service and is not responsible for loss related to the service."
+
+msgid "Raise your profit"
+msgstr "Raise your profits through your digital assets"
+
+msgid "Investment Deposit Text1"
+msgstr "You can choose a deposit starting at 167,425 won."
+
+msgid "Investment Deposit Text2"
+msgstr "The number of lending applications can be selected from a minimum of 0.01 TP3 to a maximum of 0.0100 TP3."
+
+msgid "Investment Deposit Text3"
+msgstr "Minimum 3 months ~ maximum 24 months (If redeemed before 3 months, minimum usage fee is charged)."
+
+msgid "Investment Deposit Agree Subject 1"
+msgstr "Agreement on terms of service"
+
+msgid "Investment Deposit Agree Subject 2"
+msgstr "Service collection and usage agreement"
+
+msgid "Investment Deposit Agree Subject 3"
+msgstr "Consent to consignment of personal information processing"
+
+msgid "Investment Agreement 1"
+msgstr "I accept the terms and conditions and application details, and I agree to use the service."
+
+msgid "Investment Agreement 2"
+msgstr "I agree to collect and use my personal information for service use."
+
+msgid "Investment Agreement 3"
+msgstr "I agree to the consignment of personal information processing for the use of the service."
+
+msgid "BoardQnaStatus_received"
+msgstr "Received"
+
+msgid "BoardQnaStatus_checking"
+msgstr "Checking"
+
+msgid "BoardQnaStatus_completed"
+msgstr "Completed"
+
+msgid "Attached File Size 5MB Error"
+msgstr "File size should be maximum 5 MB."
+
+msgid "Attached File Extension Error Img"
+msgstr "Please only upload images. (gif, png, jpg)"
+
+
+msgid "Boardcategory notice"
+msgstr "Notice"
+
+msgid "Boardcategory general"
+msgstr "General"
+
+msgid "Boardcategory deposit"
+msgstr "Deposit and withdrawal"
+
+msgid "Boardcategory general2"
+msgstr "General"
+
+
+msgid "Conversion fee1"
+msgstr "50,000 won per million won"
+
+msgid "PriceInfo Fee1"
+msgstr "In SMBIT, the purchase fee and withdrawal fee are applied as follows."
+
+msgid "PriceInfo Fee2"
+msgstr "When trading digital assets in SMBIT, the same fee rate(%) is applied to all digital assets."
+
+msgid "PriceInfo Fee3"
+msgstr "Withdrawal fees are subject to change according to exchange policy. We will guide you through advance notice."
+
+msgid "PriceInfo Fee4"
+msgstr "Withdrawal fees are subject to change according to market conditions."
+
+msgid "Annual fee1"
+msgstr "SMBIT operates an annual fee for better service."
+
+msgid "Tamount"
+msgstr "Transaction amount"
+
+msgid "Maximum 90 days"
+msgstr "The maximum query time is 90 days"
+
+msgid "Please enter your username or email"
+msgstr "Please enter your username or email"
+
+msgid "Please enter your name"
+msgstr "Please enter your name"
+
+msgid "Amount and Price should be positive"
+msgstr "Amount and Price should be positive"
+
+msgid "SMBIT Exchange"
+msgstr "SMBIT Exchange"
+
+msgid "SAFE"
+msgstr "SAFE"
+
+msgid "COIN"
+msgstr "COIN"
+
+msgid "INCUBATOR"
+msgstr "INCUBATOR"
+
+msgid "Safe Blockchain Exchange"
+msgstr "Safe Blockchain Exchange"
+
+msgid "Can be used anywhere in the world"
+msgstr "Can be used anywhere in the world"
+
+msgid "Blockchain Exchange Service"
+msgstr "Blockchain Exchange Service"
+
+msgid "Easy, Fast and Secure"
+msgstr "Easy, Fast and Secure"
+
+msgid "Available"
+msgstr "Available"
+
+msgid "Global Exchange Platform"
+msgstr "Global Exchange Platform"
+
+msgid "Cryptocurrency"
+msgstr "Cryptocurrency"
+
+msgid "safety"
+msgstr "safety"
+
+msgid "Trade"
+msgstr "Trade"
+
+msgid "Be with our safe service"
+msgstr "Be with our safe service"
+
+msgid "Simple membership registration"
+msgstr "Simple membership registration"
+
+msgid "Fill out the online application"
+msgstr "Fill out the online application"
+
+msgid "Please wait until your account is approved"
+msgstr "Please wait until your account is approved"
+
+msgid "Digital assets or Ringgit Malaysia"
+msgstr "Digital assets or Ringgit Malaysia"
+
+msgid "Deposit"
+msgstr "Deposit"
+
+msgid "Deposit2"
+msgstr "Deposit"
+
+msgid "Digital assets Deposit"
+msgstr "Deposit your digital assets"
+
+msgid "Start trading now"
+msgstr "Start trading now"
+
+msgid "We pursue secure transactions with the world's highest level of strong security"
+msgstr "We pursue secure transactions with the world's highest level of strong security"
+
+msgid "24 hours trading anywhere in the world"
+msgstr "24 hours trading anywhere in the world"
+
+msgid "Secure Incubator"
+msgstr "Secure Incubator of New Coin"
+
+msgid "Transaction fee rebate"
+msgstr "Transaction fee rebate"
+
+msgid "Maker fee"
+msgstr "Maker fee"
+
+msgid "I will rebate"
+msgstr "I will rebate"
+
+msgid "Cold storage security"
+msgstr "Cold storage security"
+
+msgid "Security of digital assets"
+msgstr "Security of digital assets"
+
+msgid "Peace of mind is guaranteed"
+msgstr "Peace of mind is guaranteed"
+
+msgid "Real-time support"
+msgstr "Real-time support"
+
+msgid "To support inquiries and requirements"
+msgstr "To support inquiries and requirements"
+
+msgid "A dedicated counselor is on standby"
+msgstr "A dedicated counselor is on standby"
+
+msgid "Business account"
+msgstr "Business account"
+
+msgid "For digital asset trading"
+msgstr "For digital asset trading"
+
+msgid "Provides excellent support"
+msgstr "Provides excellent support"
+
+msgid "You can easily exchange coins"
+msgstr "You can easily exchange coins"
+
+msgid "Download Secure Wallet CTC Now"
+msgstr "Download Secure Wallet CTC Now"
+
+msgid "wallet"
+msgstr "WALLET"
+
+msgid "datatable_language"
+msgstr "English"
+
+msgid "Service center"
+msgstr "Service center"
+
+msgid "weekday"
+msgstr "weekday"
+
+msgid "Guidance on additional measures to prevent financial accidents"
+msgstr "Guidance on additional measures to prevent financial accidents"
+
+
+msgid "ID Verification Message1"
+msgstr "Please enter the authentication code sent in your email."
+
+msgid "ID Verification Message2"
+msgstr "Your email has been verified!"
+
+msgid "ID Verification Message3"
+msgstr "The authentication code you entered is invalid!"
+
+msgid "ID Verification Message4"
+msgstr "Authentication code verified"
+
+msgid "ID Verification Message5"
+msgstr "You entered invalid authentication code."
+
+msgid "ID Verification Message6"
+msgstr "Please enter authentication code."
+
+msgid "ID Verification Message7"
+msgstr "Verification code sent to your email id."
+
+msgid "ID Verification Message8"
+msgstr "Email is successfully verified."
+
+msgid "Enter Email"
+msgstr "Please enter your email address"
+
+msgid "Coin_incubator_text"
+// msgstr "Coin Incubator (IBT) is used as a type of over-the-counter market, until the establishment of new ICO and IEO coins is normalized. At the same time, it is a preparatory exchange for coins preparing for the listing. You can also trade coins listed on the global market using SMBIT. With SMBIT, you can make your transactions freely and easily. All you need to do is match the prices between the seller and the buyer."
+msgstr "SMBIT is used as a type of over-the-counter market, until the establishment of new ICO and IEO coins is normalized. At the same time, it is a preparatory exchange for coins preparing for the listing. You can also trade coins listed on the global market using SMBIT. With SMBIT, you can make your transactions freely and easily. All you need to do is match the prices between the seller and the buyer."
+
+msgid "Privacy Policy Heading"
+msgstr "<h2><b>Privacy Policy</b></h2> <p>Hansbiotech Co., Ltd. (hereinafter referred to as the “Company”) recognizes the importance of protecting customers' personal information, and adheres to the Personal Information Protection Act, in accordance with the following personal information processing policy (hereinafter referred to as'this personal information processing policy' ). We are making every effort to ensure proper handling and protection. This privacy policy applies only to the services provided by the company's website (https://www.bitsomon.com), and the table of contents is as follows. When Hansbiotech revises its privacy policy, it will be notified through a notice on the website.</p> <h3>1. Definition of personal information</h3> <p>In this personal information processing policy, personal information refers to personal information defined by Article 2, Paragraph 1 of the Personal Information Protection Act, that is, information about a living individual, and information that can identify an individual through name, resident registration number, and video. Even if the individual is not identifiable, it includes something that can be easily combined with other information to be recognized).</p> <h3>2. Items of personal information to be collected and collection method</h3> <b>ㆍPersonal information items to be collected</b> <p>[Required Items]-Email, smartphone number, password, gender, date of birth, name, bank account information<br/> [Information automatically generated during business processing during service use]<br/>-Service usage records, access logs, cookies, access IP information, payment records<br/>[In case of self-identification business]<br/>-If you are recording a copy of your ID card or video call, record your ID in the form of video information, whether the ID card is authentic<br/> Photo of ID taken at the time of confirmation (resident number is not displayed) Copy of bankbook, confirmation of remittance<br/>[In case of USIM authentication in Android app]<br/>-MCC (country code), MNC (network code), UICC ID (simulator ID), IMEI (device unique number),<br/>IMSI (Network Unique Image Number)<br/>[In case of verifying the authenticity of ID card]-Copy of ID card, name, social security number, date of issue,<br/>License number, issue code<br/>[Information additionally collected during service use or business processing]-Address<br/> </p> <b>ㆍCollection method</b> <p>When registering as a member on the homepage / In case of identity verification, the member provides</p> <h3>ㆍRetention</h3> <p>Member's consent (consent by legal representative when collecting personal information of children under the age of 14)</p> <h3>3. Purpose of use of personal information</h3> <b>※ Hansbiotech uses the personal information of customers for the following purposes.</b> <b>ㆍ Homepage membership registration and management</b> <p>Membership confirmation, identity verification according to membership service use, personal identification, age verification, maintenance and management of membership, prevention of illegal use of services, various notices and information delivery, user inquiries, customer complaints and complaints, and dispute settlement Personal information is used for the purpose of preserving records, etc.</p> <b>ㆍ Service user identification and member information change processing</b> <p>Personal information is used for the purposes of self-authentication, content provision, customized service provision, and bill settlement.</p> <b>ㆍ Provision of goods or services</b> <p>Personal information is used for the purpose of providing services, providing content, providing customized services, payment and settlement of fees, delivery of event events and prize winning information, and product delivery.</p> <b>ㆍ Used for marketing and advertising</b> <p>Provision of services optimized for users, development and specialization of new services (products), analysis of service use records and access frequency, statistics on service use, provision of services and advertisements according to demographic characteristics, establishment of a service environment for privacy protection, etc. We use personal information for the purpose of.</p> <h3>4. Provision of personal information</h3> <p>ㆍHansbiotech, in principle, does not provide personal information to the outside without prior consent of the user.</p> <p>However, if the user directly consents to the provision of personal information in order to use the services of external affiliates, and if there is an obligation to submit personal information to Hanmaum Smart in accordance with relevant laws and regulations, unique identification of the user to comply with the obligation to prevent money laundering When it is necessary to provide information and transaction information to a third party, personal information is provided only when an imminent risk to the user's life or safety has been identified and this is to be resolved.</p> <h3>5. Retention and use period of personal information</h3> <p> • A. Customer's personal information is retained and used during the period when the “company” provides services to customers. Upon membership withdrawal, the collected personal information will be destroyed so that it cannot be viewed or used. However, if it is necessary to preserve it in accordance with the provisions of the relevant laws and regulations, it will be preserved in accordance with the following relevant laws..<br/> • Records on contract or subscription withdrawal: 5 years<br/> • Records on payment and supply of goods: 5 years<br/> • Records on consumer complaints or dispute settlement: 3 years<br/> • Tax and utility bill payment records: 5 years <br/> • Login record: 3 months<br/> • Record for display advertisement: 6 months <br/> • B. In the event that a customer requests access to the transaction information held with the consent of the customer, we take measures so that the customer can view it without delay. </p> <h3>6. Personal information destruction procedure and method</h3><p>• After the purpose of use of the collected personal information is achieved, the “Company” destroys or separates the information without delay according to the storage period and usage period. The procedure, timing, and method are as follows.<br/>• A. Destruction procedure and timing<br/>• The personal information entered by the customer for service subscription, etc., after the purpose of use such as service termination has been achieved, the retention period has elapsed according to the reason for information protection (refer to the period of retention and use of personal information above) according to internal policies and other relevant laws. Destroy immediately after doing. In general, if there is no remaining bond-debt relationship, personal information collected at the time of membership registration and managed in electronic file format is immediately deleted at the time of membership withdrawal.<br/>• B. Method of destruction<br/>• Personal information printed on paper is destroyed by crushing or incineration with a shredder or dissolving by chemical treatment, and personal information stored in electronic file format is deleted using a technical method that cannot reproduce the record.<br/>• C. When and how to separate storage<br/>• According to the'Personal Information Expiration System', if the user has not used the service for one year, the user's account is converted to dormant status. Personal information of dormant members is stored separately and managed by restricting access and applying security.</p><h3>7. Rights of users and legal representatives and how to exercise them</h3><p>• A. Users and their legal representatives can exercise the following rights with respect to their registered personal information at any time.</p><p><b>ㆍ Request to view personal information</b></p><p><b>ㆍ Request for correction if there is an error in personal information</b></p><p><b>ㆍ Request for deletion of personal information</b></p><p><b>ㆍ Request to stop processing personal information</b></p><p>• B. Users and their legal representatives log in to the “Company” homepage (www.bitsomon.com) and view or correct personal information at'Change Member Information', or make corrections by e-mail or written request to the person in charge of personal information protection of the'Company' This is possible.</p><p>• C. Withdrawal (cancellation) of ‘Consent to Collection and Use of Personal Information’ by users and legal representatives is possible through e-mail, telephone, or fax.</p><p>• D. When a user or legal representative requests correction or deletion of personal information errors, the personal information will not be used or provided until processing is completed. In addition, the “Company” handles personal information that has been canceled or deleted at the request of a user or legal representative as specified in the “Period of Retention and Use of Personal Information” and is not allowed to be viewed or used for any other purpose.</p><h3>8. Measures to ensure the safety of personal information</h3><p>• A. Administrative protection measures<br/>① Establishment and implementation of an internal management plan<br/>Matters concerning the designation of the person in charge of personal information protection<br/>Matters concerning the roles and responsibilities of the person in charge of personal information protection and the personal information handler<br/>Matters on measures necessary to secure the safety of personal information<br/>Matters concerning education for personal information handlers and consignment companies<br/>Other matters necessary for personal information protection<br/>② Conduct regular self-audit<br/>Personal information protection manager and auditor's job separation<br/>Matters concerning the roles and responsibilities of the personal information auditor<br/>Regular self-audit to secure safety related to personal information handling<br/></p><p>• B. Technical protection measures<br/>① In order to prevent leakage of customer information of personal information handlers, we operate a personal information leakage prevention system, and a secure encryption algorithm is applied to personal information transmitted over the terminal (PC) and network.<br/>② The access authority to the personal information processing system is set to the minimum range necessary for the performance of the business, and one user account is differentially assigned to each person in charge. If the personal information handler is changed, the access authority of the personal information system is changed or Expunge and keep the record for at least 5 years. In addition, we have established and applied the rules for creating passwords for personal information handlers.<br/>③ When transmitting/receiving personal identification information and passwords through information and communication networks or transmitting them through auxiliary storage media, they are stored using commercial encryption software, and passwords are encrypted and stored with a secure encryption algorithm.<br/>④ We store and manage records of personal information handlers accessing the personal information processing system for at least 6 months, and keep the access records securely to prevent forgery, theft, or loss of personal information handlers' access records.<br/>⑤ We install and operate security programs such as vaccine software that can prevent and treat malicious programs on personal information processing systems or business computers, use the automatic update function of the security program, and conduct periodic terminal (PC) inspections. I'm doing it.<br/></p><p>• C. Physical protection measures<br/>We have established and operated access control procedures for physical storage places where personal information is stored, such as computer rooms and data storage rooms, and documents and auxiliary storage media containing personal information are stored and managed in a safe place with a locking device.</p><h3>9. Matters concerning the installation, operation and rejection of automatic personal information collection devices</h3><p>• A. There are cases in which a cookie that stores and finds customer information through the Internet service provided by the “Company” may be installed and operated. Cookie refers to string information that the web server sends to the web browser, stores it, and sends it back to the server when there is an additional request from the server. When a customer accesses the “Company” website, they can read the contents of the cookie in the customer's browser, find additional information, and provide services without additional input such as a name according to the access.</p><p>• B. The ”Company” may use the customer's information collected through cookies for the following purposes.<br/>① Provide differentiated information according to individual interests<br/>② Analyze the access frequency or time of stay of members and non-members to identify users' tastes and interests and use them for target marketing.<br/>③ Providing personalized service at the next access by tracking traces of the contents you browsed with interest<br/>④ Information on usage period when using paid services<br/>⑤ Analyze customer habits and use it as a measure for service reform</p><p>• C. Customers have the option of installing cookies. You can accept all cookies, send a notification when a cookie is installed, or reject all cookies in “Tools> Internet Options> Privacy> Advanced” at the top of your web browser. However, if the customer refuses to install cookies, there may be inconveniences in using the service or difficulties in providing the service.</p><p>• D. Cookies expire when you close your browser or log out.</p><h3>10. Personal information protection officer and person in charge</h3><p>• A. The “Company” takes the protection of customer's personal information very seriously, and is doing its best not to damage, infringe or leak customer's personal information. However, despite technical supplementary measures, we are not responsible for damage to information due to unexpected accidents caused by basic network risks such as hacking and various disputes caused by posts created by visitors.</p><p>• B. When inquiring about the protection of customer's personal information, the customer center will respond promptly and sincerely. In addition, if a customer wants to contact the person in charge of personal information protection of the “Company”, please contact us via the contact information or email below and we will respond promptly and faithfully to inquiries related to personal information.</p><p>•① Personal Information Protection Officer<br/>•- Name: Han Baek-hee<br/>•- Position: General Director<br/>•- Phone: 02-6091-1126<br/>•- Email: dmmall2020@gmail.com<br/>•- C. If you need counseling to receive relief due to other personal information infringement, you can contact the Personal Information Dispute Mediation Committee, Supreme Prosecutors' Office, National Police Agency, Korea Internet & Security Agency, etc.<br/>•① Personal Information Dispute Mediation Committee (www.kopico.go.kr): 1833-6972<br/>•② Supreme Prosecutors' Office Cyber Crime Investigation Team (http://www.spo.go.kr): 1301<br/>•③ National Police Agency Cyber Security Bureau (http://cyberbureau.police.go.kr): 182<br/>•④ Personal Information Infringement Report Center (http://privacy.kisa.or.kr): 118</p><h3>11. Notification obligation</h3><p>• The current personal information processing policy was enacted on November 16, 2020, and if there is any addition, deletion or modification of the contents due to changes in government policies or security technology, the'Notices on the website Will notify through ' .</p><p>• These terms will be effective from November 23, 2020.</p>"
+
+
+msgid "Commission banner1"
+msgstr " <strong>Fee Discounts</strong> for SMBIT!"
+
+msgid "Commission Text1"
+msgstr "An issued coupon is valid for 60 days from the date of issuance. (*Automatically expired after 60 days)"
+
+msgid "Commission Text2"
+msgstr "After the coupon usage is completed the regular fee (0.25%) will be charged."
+
+msgid "Commission Text3"
+msgstr "'s accumulated trading volume of last 30 days"
+
+msgid "Commission Text4"
+msgstr "Accumulated transaction for 30 days is updated every 5 minutes, and it could be a little different with actual accumulated transaction amount."
+
+msgid "Commission Text5"
+msgstr "As soon as you purchase a coupon, it is immediately applied. So, please check transaction amount and use period. "
+
+msgid "Commission Text6"
+msgstr "Coupon can be purchased in KRW, and free fee is applied to all virtual assets. "
+
+msgid "Commission Text7"
+msgstr "If more than 1 coupon is purchased, coupons will be applied in the order of purchase. "
+
+msgid "Commission Text8"
+msgstr "Pre-purchased coupons with an expiration date of one year are used secondarily. Please purchase other coupons after using the pre-purchased coupons. "
+
+msgid "Commission Text9"
+msgstr "In principle, your purchase of the coupon cannot be refunded or canceled. Please consider this before purchasing. "
+
+msgid "Commission Text10"
+msgstr "Get a discount on transaction fees using this coupon."
+
+msgid "Commission Counpon1"
+msgstr "Actual commission"
+
+msgid "Commission Counpon2"
+msgstr "Purchase Coupon"
+
+msgid "Commission Counpon3"
+msgstr "off"
+
+msgid "Commission Counpon4"
+msgstr "KRW"
+
+
+msgid "Commission Counpon_20000"
+msgstr "Up to 0.1 hundred million <span class="text-gray">Free</span>"
+
+msgid "Commission Counpon_40000"
+msgstr "Up to 0.25 hundred million <span class="text-gray">Free</span>"
+
+msgid "Commission Counpon_60000"
+msgstr "Up to 0.5 hundred million <span class="text-gray">Free</span>"
+
+msgid "Commission Counpon_80000"
+msgstr "Up to 1 hundred million <span class="text-gray">Free</span>"
+
+msgid "Commission Counpon_325000"
+msgstr "Up to 5 hundred million <span class="text-gray">Free</span>"
+
+msgid "Commission Counpon_500000"
+msgstr "Up to 10 hundred million <span class="text-gray">Free</span>"
+
+msgid "Coupon Name"
+msgstr "Coupon Name"
+
+msgid "Payment methods"
+msgstr "Payment methods"
+
+msgid "Payment amount"
+msgstr "Payment amount"
+
+msgid "Amount used"
+msgstr "Amount used"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Usage period"
+msgstr "Usage period"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Be in Use"
+msgstr "Be in Use"
+
+msgid "Completed Use"
+msgstr "Completed Use"
+
+msgid "Use"
+msgstr "Use"
+
+msgid "Expire"
+msgstr "Expire"
+
+msgid "Howtouse"
+msgstr "How To Use"
+
+msgid "Deposit2"
+msgstr "Deposit"
+
+msgid "Deposit3"
+msgstr "Deposit"
+
+msgid "Investment Deposit Text3"
+msgstr "Minimum 180 days ~ maximum 720 days (If redeemed before your service usage period, minimum usage fee is charged)."
+
+msgid "Investment Deposit Text4"
+msgstr "The Application quantity is higher than the TP3 you have."
+
+msgid "Close2"
+msgstr "Close"
+
+msgid "Please enter 6 digits"
+msgstr "Please enter 6 digits"
+
+msgid "Please agree to collect and use personal information"
+msgstr "Please agree to collect and use personal information"
+
+msgid "You entered invalid authentication code"
+msgstr "You entered invalid authentication code"
+
+msgid "Please enter authentication code"
+msgstr "Please enter authentication code"
+
+msgid "Authentication code verified"
+msgstr "Authentication code verified"
+
+msgid "Are you sure to deposit?"
+msgstr "Are you sure to deposit"
+
+msgid "You cannot cancel the deposit"
+msgstr "You cannot cancel the deposit for "
+
+msgid "Pending2"
+msgstr "Pending"
+
+msgid "Enter password2"
+msgstr "Enter your password" 
+
+msgid "Service Check Information"
+msgstr "Service Check Information"
+
+msgid "Service Check Information Text"
+msgstr "Service is currently being paused and checked for better investment services."
+
+msgid "Investment Service"
+msgstr "Investment Service"
+
+msgid "Profitable Investment Service"
+msgstr "Profitable Investment Service"
+
+msgid "Investment Service Profit"
+msgstr "Invest additional assets to earn virtual assets!"
+
+msgid "Investment Service increase and Profit"
+msgstr "By Invest a virtual asset, you can gain an increase<br /> in asset value and some of the profits of the exchange!"
+
+msgid "Investment Limit"
+msgstr "Investment Limit"
+
+msgid "Investment Period"
+msgstr "Investment Period"
+
+msgid "Fifty thousand coins"
+msgstr "Fifty thousand coins"
+
+msgid "Investment Service Period"
+msgstr "Investment Service Period"
+
+msgid "Investment History"
+msgstr "Investment History"
+
+msgid "Investment Service Application"
+msgstr "Investment Service Application"
+
+msgid "Investment Service Notice"
+msgstr "Please note that investment losses may occur due to a surge in the price of virtual assets when using investment services.<br />SMBIT is not related to this investment service and is not responsible for loss related to the service."
+
+msgid "My TP3 2"
+msgstr "My TP3"
+
+msgid "Deposit Application Notice"
+msgstr "30% of the user fee designated by the we will be deducted if the application is canceled before the investment service period."
+
+msgid "Login Block Message"
+msgstr "CoinIBT Your ID has been suspended. <br> Your account may be permanently suspended and all your assets will be credited to your wallet."
+
+msgid "Type2"
+msgstr "Type"
+
+msgid "Normal2"
+msgstr "Normal"
+
+msgid "Other2"
+msgstr "Other"
+
+msgid "Coin2"
+msgstr "Coin"
+
+msgid "Prev. Close2"
+msgstr "Prev. Close"
+
+msgid "Password Info"
+msgstr "Please set the password to at least 8 digits if both alphabetic/numerical/special characters are mixed, and 10 digits if only two are mixed."
+
+msgid "Asset Disclaimer Info"
+msgstr "Download the Asset Abandonment Memorandum and fill out your own handwriting. <br> Scanning the Asset Abandonment Memorandum file If you upload it, <br> the withdrawal process will be completed."
+
+msgid "Asset Waiver Upload Info"
+msgstr "Upload the Asset Abandonment Memorandum and fill out your own handwriting. <br> Scanning the Asset Abandonment Memorandum file If you upload it, <br> the withdrawal process will be completed after the department in charge is checked. <br> Please understand that it may take some time until withdrawal."
+
+msgid "Leaving the notice2"
+msgstr "When a user withdraws from membership in the service, the company keeps personal information for one year preventing illegal use"
+
+msgid "Leaving the notice3"
+msgstr "In this case, personal information is kept in a non-identifiable state, and re-registration with the same ID is not possible"
+
+msgid "Leaving the notice4"
+msgstr "As for the payment processing service, in accordance with the provisions of related laws such as the Consumer Protection Act in Electronic Commerce, etc., if there are any assets remaining, the withdrawal process is completed after writing the asset renunciation memorandum and handwritten signature."
+
+msgid "Result of releasing dormant1"
+msgstr "Your request to release an inactive account will be processed. <br> After the account release is completed, you need to log in"
+
+msgid "Certification Info"
+msgstr "SMBIT is preventing malicious attacks and ID theft by targets other than the ID owner. <br> If login fails 5 times, the account is protected <br> <br> If your ID is protected, you need to remove the protection <br> through your authentication and reset your password to log in.<br><br>
+
+msgid "Show2"
+msgstr "Show"
+
+msgid "Related shop"
+msgstr "Related shop"
+
+msgid "Deposit Loan"
+msgstr "Staking/Rental"
+
+msgid "KYC Verification"
+msgstr "KYC Verification"
+
+msgid "Guidelines for submitting withdrawal data"
+msgstr "Guidelines for submitting withdrawal data"
+
+msgid "Listing information"
+msgstr "Listing information"
+
+msgid "Staking/Rental Service"
+msgstr "Staking/Rental Service"
+
+msgid "Staking Service"
+msgstr "Staking Service"
+
+msgid "Staking Service for Revenue"
+msgstr "Staking Service for Revenue"
+
+msgid "Apply for Staking Service"
+msgstr "Apply for Staking Service"
+
+msgid "Go to Terms"
+msgstr "Go to Terms"
+
+msgid "staking text 001"
+msgstr "Please note that when using the staking service, losses may occur due to sudden fluctuations in the market price of virtual assets."
+
+msgid "staking text 002"
+msgstr "SMBIT is not related to the provision of this staking service and is not responsible for any losses related to the service."
+
+msgid "staking text 003"
+msgstr "When repayment is made before the period of use for at least 180 days and up to 720 days, 30% of the total staking virtual asset usage fee set by the company will be deducted."
+
+msgid "Rental Service"
+msgstr "Rental Service"
+
+msgid "Rental Service preparation"
+msgstr "The rental service is in preparation."
+
+msgid "rental text 001"
+msgstr "Please note that when using the rental service, losses may occur due to sudden fluctuations in the market price of virtual assets."
+
+msgid "rental text 002"
+msgstr "SMBIT is not related to the provision of this rental service and is not responsible for any loss related to the service."
+
+msgid "staking modal 001"
+msgstr "This is a service that provides the settled profit part of the SMBIT fee."
+
+msgid "staking modal 002"
+msgstr "The staking service is paid as KRW allowance every day by staking virtual assets for a set limit and period."
+
+msgid "staking modal 003"
+msgstr "Staking allowances may incur losses due to fluctuations in market prices."
+
+msgid "staking modal 004"
+msgstr "The staking allowance is a service that provides the settled profit part of the SMBIT fee."
+
+msgid "staking modal 005"
+msgstr "The staking allowance is paid on a daily basis, and the staking allowance also fluctuates depending on the transaction volume and attendance confirmation."
+
+msgid "rental modal 001"
+msgstr "The rental service is a rental service <br />that allows you to borrow virtual assets when you need them."
+
+msgid "rental modal 002"
+msgstr "Rental service conditions differ depending on usage performance in online shopping using virtual assets and at affiliated stores."
+
+msgid "rental modal 003"
+msgstr "Redemption at maturity is the sum of the transaction price at the time of borrowing the virtual asset and the transaction price at the time of redemption."
+
+msgid "show prev terms"
+msgstr "Show previous terms"
+
+msgid "terms-staking"
+msgstr "Staking Service Terms"
+
+msgid "terms-rental"
+msgstr "Rental Service Terms"
+
+msgid "terms-annual"
+msgstr "Annual Fee Terms"
+
+msgid "terms-deal"
+msgstr "Deal Terms"
+
+msgid "terms-deal-coupon"
+msgstr "Deal Conversion Coupon Terms"
+
+msgid "error code 5200 error message"
+msgstr "Could not be processed normally. <br>Please try again after a while."
+
+msgid "error coded 5200 error message2"
+msgstr "The system is not running smoothly. Please try again in a few minutes."
